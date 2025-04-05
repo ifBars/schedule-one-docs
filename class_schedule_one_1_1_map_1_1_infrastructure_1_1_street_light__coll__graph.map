@@ -1,0 +1,11 @@
+<map id="ScheduleOne.Map.Infrastructure.StreetLight" name="ScheduleOne.Map.Infrastructure.StreetLight">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,743,208,1191"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="86,5,186,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,90,132,99,121,267,114,437,108,743,103,743,108,437,116,267,127,98,127,89"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_lighting_1_1_volumetric_light_tracker.html" title=" " alt="" coords="123,487,325,679"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="137,89,140,239,148,331,164,422,184,486,179,488,159,423,143,332,135,239,132,89"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_dev_utilities_1_1_optimized_light.html" title=" " alt="" coords="174,124,341,423"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="163,86,182,123,177,125,158,89"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,679,183,727,178,726,192,677"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="244,423,239,470,233,470,239,422"/>
+</map>

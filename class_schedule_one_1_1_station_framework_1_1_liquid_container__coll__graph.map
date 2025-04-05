@@ -1,0 +1,12 @@
+<map id="ScheduleOne.StationFramework.LiquidContainer" name="ScheduleOne.StationFramework.LiquidContainer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,273,208,657"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="195,5,296,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,75,156,97,134,125,118,160,107,197,95,274,90,273,102,196,113,158,130,123,152,94,181,71"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_station_framework_1_1_liquid_volume_collider.html" title=" " alt="" coords="144,124,347,209"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="248,90,248,124,243,124,243,90"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_station_framework_1_1_liquid_container.html" title=" " alt="" coords="232,273,435,657"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="309,76,336,98,361,122,382,150,396,173,415,233,418,273,413,274,409,234,391,176,378,153,357,126,333,102,306,81"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,211,178,235,165,259,160,257,174,232,193,207"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="240,209,241,249,243,256,238,257,236,250,235,209"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="312,274,298,234,293,225,297,222,302,232,317,272"/>
+</map>

@@ -1,0 +1,21 @@
+digraph "ScheduleOne.Casino.CasinoGamePlayers.ReceivePlayerBool"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="ScheduleOne.Casino.Casino\lGamePlayers.ReceivePlayerBool",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Casino.Casino\lGamePlayers.RpcLogic__\l_SendPlayerBool_77262511",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_casino_1_1_casino_game_players.html#acf34712f7b1b7507312b8af725c2796b",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Casino.Casino\lGamePlayers.RpcReader_\l__Server_SendPlayerBool\l_77262511",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_casino_1_1_casino_game_players.html#abf646258a87b4d7cab6595aa43531271",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.Casino.Casino\lGamePlayers.NetworkInitialize\l___Early",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_casino_1_1_casino_game_players.html#adee45d284aacfdee6f4a1f497801c88b",tooltip=" "];
+  Node4 -> Node5 [id="edge4_Node000004_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.Casino.Casino\lGamePlayers.Awake",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_casino_1_1_casino_game_players.html#a027ca95891ed699ec2d04c6aef344c24",tooltip=" "];
+  Node4 -> Node6 [id="edge5_Node000004_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="ScheduleOne.Casino.Casino\lGamePlayers.NetworkInitializeIf\lDisabled",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_casino_1_1_casino_game_players.html#a8f4c5b8e2218b2d9e644b95b87b8ac74",tooltip=" "];
+  Node2 -> Node7 [id="edge6_Node000002_Node000007",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="ScheduleOne.Casino.Casino\lGamePlayers.SendPlayerBool",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_casino_1_1_casino_game_players.html#a57d193469ed0833f53a38bbd198e12ca",tooltip=" "];
+}

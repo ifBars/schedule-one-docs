@@ -1,0 +1,7 @@
+<map id="ScheduleOne.Management.ConfigurationReplicator" name="ScheduleOne.Management.ConfigurationReplicator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="27,411,285,965"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,141,123,211"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,224,109,411,104,412,70,225"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_management_1_1_entity_configuration.html" title=" " alt="" coords="147,5,352,347"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="221,347,212,395,207,394,216,346"/>
+</map>

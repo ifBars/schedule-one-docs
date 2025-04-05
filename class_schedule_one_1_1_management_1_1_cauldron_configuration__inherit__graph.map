@@ -1,0 +1,5 @@
+<map id="ScheduleOne.Management.CauldronConfiguration" name="ScheduleOne.Management.CauldronConfiguration">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,395,229,693"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_management_1_1_entity_configuration.html" title=" " alt="" coords="14,5,220,347"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,362,120,395,114,395,114,362"/>
+</map>

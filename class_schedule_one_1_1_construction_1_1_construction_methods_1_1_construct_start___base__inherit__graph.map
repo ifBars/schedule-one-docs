@@ -1,0 +1,9 @@
+<map id="ScheduleOne.Construction.ConstructionMethods.ConstructStart_Base" name="ScheduleOne.Construction.ConstructionMethods.ConstructStart_Base">
+<area shape="rect" id="Node000001" title=" " alt="" coords="111,123,372,208"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_construction_1_1_construction_methods_1_1_construct_start___outdoor_grid.html" title=" " alt="" coords="5,256,229,400"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,221,174,258,169,255,198,218"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_construction_1_1_construction_methods_1_1_construct_start___power_line.html" title=" " alt="" coords="253,277,477,379"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="284,218,329,276,325,279,280,221"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="191,5,292,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,89,244,123,238,123,238,89"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="ScheduleOne.UI.StorageMenu" name="ScheduleOne.UI.StorageMenu">
+<area shape="rect" id="Node000001" title=" " alt="" coords="92,684,280,1073"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_dev_utilities_1_1_singleton-1-g.html" title=" " alt="" coords="5,276,170,468"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,482,151,684,146,685,106,483"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="136,5,237,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="175,89,119,277,113,275,170,88"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_u_i_1_1_item_slot_u_i.html" title=" " alt="" coords="194,124,382,620"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="203,88,214,123,209,125,198,89"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="241,620,231,668,226,667,235,619"/>
+</map>

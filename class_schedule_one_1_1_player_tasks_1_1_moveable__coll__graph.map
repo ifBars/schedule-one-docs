@@ -1,0 +1,7 @@
+<map id="ScheduleOne.PlayerTasks.Moveable" name="ScheduleOne.PlayerTasks.Moveable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,469,174,661"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_player_tasks_1_1_clickable.html" title=" " alt="" coords="5,123,174,421"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,437,92,469,87,469,87,437"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="39,5,140,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="92,89,92,123,87,123,87,89"/>
+</map>

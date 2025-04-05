@@ -1,0 +1,21 @@
+<map id="ScheduleOne.Employees.Employee" name="ScheduleOne.Employees.Employee">
+<area shape="rect" id="Node000001" title=" " alt="" coords="415,2203,674,3760"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_employees_1_1_botanist.html" title=" " alt="" coords="5,3880,259,5165"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="412,3355,340,3579,274,3809,255,3881,250,3880,268,3807,335,3577,407,3354"/>
+<area shape="rect" id="Node000008" href="$class_schedule_one_1_1_employees_1_1_chemist.html" title=" " alt="" coords="283,3821,533,5224"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="477,3775,473,3822,468,3821,472,3775"/>
+<area shape="rect" id="Node000009" href="$class_schedule_one_1_1_employees_1_1_cleaner.html" title=" " alt="" coords="558,3808,806,5237"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="618,3775,621,3808,615,3809,612,3775"/>
+<area shape="rect" id="Node000010" href="$class_schedule_one_1_1_employees_1_1_packager.html" title=" " alt="" coords="830,3816,1086,5229"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="681,3354,754,3577,820,3807,832,3855,827,3856,815,3809,749,3579,676,3356"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_n_p_cs_1_1_n_p_c.html" title=" " alt="" coords="429,523,659,2155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="547,2170,547,2203,542,2203,542,2170"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="196,205,314,275"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="270,288,432,901,427,902,265,289"/>
+<area shape="rect" id="Node000004" href="$interface_schedule_one_1_1_i_g_u_i_d_registerable.html" title=" " alt="" coords="338,195,542,285"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="449,300,470,522,464,523,443,300"/>
+<area shape="rect" id="Node000005" href="$interface_schedule_one_1_1_persistence_1_1_i_saveable.html" title=" " alt="" coords="566,5,734,475"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="628,490,625,523,620,523,623,489"/>
+<area shape="rect" id="Node000006" href="$interface_schedule_one_1_1_combat_1_1_i_damageable.html" title=" " alt="" coords="757,195,977,285"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="852,301,662,948,657,946,847,299"/>
+</map>

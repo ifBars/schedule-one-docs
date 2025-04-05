@@ -1,0 +1,25 @@
+var class_schedule_one_1_1_u_i_1_1_phone_1_1_contacts_app_1_1_contacts_detail_panel =
+[
+    [ "Open", "class_schedule_one_1_1_u_i_1_1_phone_1_1_contacts_app_1_1_contacts_detail_panel.html#a23461d505d67129bde54872dcf2b8e5d", null ],
+    [ "ShowOnMap", "class_schedule_one_1_1_u_i_1_1_phone_1_1_contacts_app_1_1_contacts_detail_panel.html#a52ab8436b85ca05dde24b5b3d6182c08", null ],
+    [ "AddictionContainer", "class_schedule_one_1_1_u_i_1_1_phone_1_1_contacts_app_1_1_contacts_detail_panel.html#a083e4e67dc2b809aa5289dfb4ce38250", null ],
+    [ "AddictionLabel", "class_schedule_one_1_1_u_i_1_1_phone_1_1_contacts_app_1_1_contacts_detail_panel.html#a1d2266e2769c8720325953c7d9a27e34", null ],
+    [ "AddictionScrollbar", "class_schedule_one_1_1_u_i_1_1_phone_1_1_contacts_app_1_1_contacts_detail_panel.html#a3ef92e5b8b69afb8b2079b70f9345261", null ],
+    [ "DependenceColor_Max", "class_schedule_one_1_1_u_i_1_1_phone_1_1_contacts_app_1_1_contacts_detail_panel.html#adef922b0c4840e7049f5d2b7ed5bca23", null ],
+    [ "DependenceColor_Min", "class_schedule_one_1_1_u_i_1_1_phone_1_1_contacts_app_1_1_contacts_detail_panel.html#af0faeb8bb17cdf0090cf8dfdbad104fa", null ],
+    [ "LayoutGroup", "class_schedule_one_1_1_u_i_1_1_phone_1_1_contacts_app_1_1_contacts_detail_panel.html#a5e49dd5c730283d1f265473bc702e615", null ],
+    [ "NameLabel", "class_schedule_one_1_1_u_i_1_1_phone_1_1_contacts_app_1_1_contacts_detail_panel.html#a8040859af3137e59d136847cec0565e2", null ],
+    [ "poi", "class_schedule_one_1_1_u_i_1_1_phone_1_1_contacts_app_1_1_contacts_detail_panel.html#a94aee79a9686cb0ab6550905356b6d71", null ],
+    [ "PropertiesContainer", "class_schedule_one_1_1_u_i_1_1_phone_1_1_contacts_app_1_1_contacts_detail_panel.html#a8c63037af6eda4accd791a767e017b4f", null ],
+    [ "PropertiesLabel", "class_schedule_one_1_1_u_i_1_1_phone_1_1_contacts_app_1_1_contacts_detail_panel.html#aff32b4fb5d76e3f68182fae9483cf54a", null ],
+    [ "RelationshipContainer", "class_schedule_one_1_1_u_i_1_1_phone_1_1_contacts_app_1_1_contacts_detail_panel.html#aef0e7abfcbcfb286042cdc9934820089", null ],
+    [ "RelationshipLabel", "class_schedule_one_1_1_u_i_1_1_phone_1_1_contacts_app_1_1_contacts_detail_panel.html#ae080477bbd71b2d0e17b98d9b491c7f2", null ],
+    [ "RelationshipScrollbar", "class_schedule_one_1_1_u_i_1_1_phone_1_1_contacts_app_1_1_contacts_detail_panel.html#a0bd0517f750aa6bbf2e47ceac47af01f", null ],
+    [ "ShowOnMapButton", "class_schedule_one_1_1_u_i_1_1_phone_1_1_contacts_app_1_1_contacts_detail_panel.html#aad5265840e35bd6b590192579814d35b", null ],
+    [ "StandardsContainer", "class_schedule_one_1_1_u_i_1_1_phone_1_1_contacts_app_1_1_contacts_detail_panel.html#a0f5cde5dde96230a250978fe39fc320e", null ],
+    [ "StandardsLabel", "class_schedule_one_1_1_u_i_1_1_phone_1_1_contacts_app_1_1_contacts_detail_panel.html#a0cfade6553c0097a3cad21e1f7c4524d", null ],
+    [ "StandardsStar", "class_schedule_one_1_1_u_i_1_1_phone_1_1_contacts_app_1_1_contacts_detail_panel.html#a3fba950bff48e07141910abc46c63300", null ],
+    [ "TypeLabel", "class_schedule_one_1_1_u_i_1_1_phone_1_1_contacts_app_1_1_contacts_detail_panel.html#a58c15bc705509897c7f121c8b307ed3d", null ],
+    [ "UnlockHintLabel", "class_schedule_one_1_1_u_i_1_1_phone_1_1_contacts_app_1_1_contacts_detail_panel.html#acd20a5e9c9bbf7305d86415fbecdd725", null ],
+    [ "SelectedNPC", "class_schedule_one_1_1_u_i_1_1_phone_1_1_contacts_app_1_1_contacts_detail_panel.html#a0206d94f5c080d49e7c0990e6f25eac2", null ]
+];

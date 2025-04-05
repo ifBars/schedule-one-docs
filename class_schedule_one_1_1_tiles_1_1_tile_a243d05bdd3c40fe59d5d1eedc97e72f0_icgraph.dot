@@ -1,0 +1,13 @@
+digraph "ScheduleOne.Tiles.Tile.CanBeBuiltOn"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="ScheduleOne.Tiles.Tile.Can\lBeBuiltOn",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Tiles.Grid.Is\lTileValidAtCoordinate",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_tiles_1_1_grid.html#aea2ea505ec5ed4c0d454f59a8224c488",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Tiles.Grid.Is\lTileValidAtCoordinate",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_tiles_1_1_grid.html#a69179e9792c674c2029f4dabe98464d1",tooltip=" "];
+}

@@ -1,0 +1,55 @@
+<map id="ScheduleOne.Equipping.Equippable_StorableItem" name="ScheduleOne.Equipping.Equippable_StorableItem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1887,304,2104,517"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_equipping_1_1_equippable___buildable_item.html" title=" " alt="" coords="1767,619,1984,725"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1943,532,1902,620,1897,618,1938,530"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_equipping_1_1_equippable___viewmodel.html" title=" " alt="" coords="2008,565,2226,779"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="2054,530,2070,564,2065,567,2049,532"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_equipping_1_1_equippable.html" title=" " alt="" coords="1887,123,2104,256"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1998,271,1998,304,1993,304,1993,271"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="1945,5,2046,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1998,90,1998,123,1993,123,1993,90"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_equipping_1_1_equippable___avatar_viewmodel.html" title=" " alt="" coords="128,1008,346,1264"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1994,781,1940,790,1864,796,1663,800,1145,790,880,785,643,787,544,792,461,800,399,812,360,829,321,865,292,910,271,959,256,1009,251,1007,266,957,287,907,317,862,357,824,397,807,461,795,543,787,643,782,880,780,1145,784,1663,795,1864,791,1939,785,1993,776"/>
+<area shape="rect" id="Node000010" href="$class_schedule_one_1_1_equipping_1_1_equippable___bin.html" title=" " alt="" coords="370,1101,613,1171"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="1995,781,1948,789,1884,794,1715,799,1282,793,1060,791,863,794,711,805,659,815,626,829,595,856,568,889,547,926,530,964,508,1040,497,1102,492,1101,503,1039,525,963,542,923,564,886,591,852,623,824,658,810,710,800,863,788,1060,786,1282,788,1715,793,1884,789,1947,784,1994,775"/>
+<area shape="rect" id="Node000011" href="$class_schedule_one_1_1_equipping_1_1_equippable___cuke.html" title=" " alt="" coords="637,963,893,1309"/>
+<area shape="poly" id="edge10_Node000005_Node000011" title=" " alt="" coords="1994,781,1904,792,1768,797,1424,796,1249,796,1093,800,973,810,932,818,906,829,874,856,847,889,825,925,808,964,803,962,821,923,843,886,870,852,903,824,931,813,972,805,1093,795,1249,791,1424,791,1768,791,1903,787,1994,775"/>
+<area shape="rect" id="Node000012" href="$class_schedule_one_1_1_equipping_1_1_equippable___pourable.html" title=" " alt="" coords="917,1051,1135,1221"/>
+<area shape="poly" id="edge11_Node000005_Node000012" title=" " alt="" coords="1995,781,1954,791,1907,798,1799,801,1678,797,1552,789,1428,784,1314,785,1263,790,1218,799,1179,811,1148,829,1123,850,1102,875,1070,932,1049,993,1037,1052,1032,1050,1044,992,1065,930,1098,872,1119,846,1145,824,1177,807,1217,794,1263,785,1314,780,1428,778,1552,784,1678,791,1799,796,1907,792,1953,786,1993,776"/>
+<area shape="rect" id="Node000016" href="$class_schedule_one_1_1_equipping_1_1_equippable___seed.html" title=" " alt="" coords="1159,1091,1414,1181"/>
+<area shape="poly" id="edge15_Node000005_Node000016" title=" " alt="" coords="1994,781,1934,793,1861,798,1695,795,1612,795,1537,798,1473,809,1447,817,1426,829,1396,855,1370,886,1349,921,1332,958,1308,1030,1294,1092,1289,1091,1302,1029,1327,956,1345,918,1366,883,1392,851,1423,824,1445,812,1472,803,1536,793,1612,789,1695,790,1860,792,1933,788,1993,776"/>
+<area shape="rect" id="Node000017" href="$class_schedule_one_1_1_equipping_1_1_equippable___trash_grabber.html" title=" " alt="" coords="1437,827,1655,1445"/>
+<area shape="poly" id="edge16_Node000005_Node000017" title=" " alt="" coords="1995,782,1946,796,1901,800,1821,793,1783,790,1746,792,1708,804,1668,829,1656,839,1653,835,1665,825,1706,799,1745,787,1783,784,1821,787,1901,795,1945,791,1993,776"/>
+<area shape="rect" id="Node000018" href="$class_schedule_one_1_1_equipping_1_1_equippable___trimmers.html" title=" " alt="" coords="1679,1083,1896,1189"/>
+<area shape="poly" id="edge17_Node000005_Node000018" title=" " alt="" coords="1997,781,1970,795,1948,803,1930,812,1911,828,1888,858,1868,890,1836,959,1813,1026,1799,1084,1794,1083,1808,1025,1831,957,1863,888,1883,855,1907,825,1927,808,1946,798,1968,790,1994,777"/>
+<area shape="rect" id="Node000019" href="$class_schedule_one_1_1_equipping_1_1_liquid_meth___equippable.html" title=" " alt="" coords="1920,1093,2108,1179"/>
+<area shape="poly" id="edge18_Node000005_Node000019" title=" " alt="" coords="2093,794,2026,1094,2021,1093,2087,793"/>
+<area shape="rect" id="Node000020" href="$class_schedule_one_1_1_object_scripts_1_1_cash_1_1_equippable___cash.html" title=" " alt="" coords="2132,976,2307,1296"/>
+<area shape="poly" id="edge19_Node000005_Node000020" title=" " alt="" coords="2146,793,2187,976,2182,977,2141,794"/>
+<area shape="rect" id="Node000021" href="$class_schedule_one_1_1_object_scripts_1_1_meth___equippable.html" title=" " alt="" coords="2332,1093,2507,1179"/>
+<area shape="poly" id="edge20_Node000005_Node000021" title=" " alt="" coords="2239,744,2283,781,2322,825,2343,858,2360,894,2388,967,2406,1037,2417,1093,2412,1094,2401,1038,2383,969,2356,896,2338,861,2317,828,2280,785,2236,748"/>
+<area shape="rect" id="Node000022" href="$class_schedule_one_1_1_packaging_1_1_filled_packaging___equippable.html" title=" " alt="" coords="2532,1093,2720,1179"/>
+<area shape="poly" id="edge21_Node000005_Node000022" title=" " alt="" coords="2240,689,2311,708,2386,735,2458,774,2491,798,2521,825,2547,855,2568,890,2598,963,2616,1034,2625,1093,2620,1094,2611,1035,2593,965,2563,892,2542,859,2518,829,2488,802,2455,778,2384,740,2310,713,2239,694"/>
+<area shape="rect" id="Node000023" href="$class_schedule_one_1_1_product_1_1_product___equippable.html" title=" " alt="" coords="2745,880,2950,1392"/>
+<area shape="poly" id="edge22_Node000005_Node000023" title=" " alt="" coords="2241,688,2374,710,2519,741,2588,759,2649,779,2699,801,2735,825,2759,850,2779,879,2775,882,2755,853,2731,829,2696,806,2647,784,2586,764,2518,746,2373,715,2240,693"/>
+<area shape="rect" id="Node000024" href="$class_schedule_one_1_1_skating_1_1_skateboard___equippable.html" title=" " alt="" coords="2974,848,3180,1424"/>
+<area shape="poly" id="edge23_Node000005_Node000024" title=" " alt="" coords="2241,678,2426,695,2639,723,2742,742,2834,765,2910,793,2940,808,2964,825,2986,846,2982,850,2960,829,2937,813,2908,798,2832,771,2741,748,2639,728,2426,700,2241,684"/>
+<area shape="rect" id="Node000025" href="$class_schedule_one_1_1_tools_1_1_flashlight.html" title=" " alt="" coords="3204,1101,3387,1171"/>
+<area shape="poly" id="edge24_Node000005_Node000025" title=" " alt="" coords="2240,672,2475,682,2615,692,2758,706,2895,725,3020,751,3122,784,3163,803,3195,825,3223,854,3246,889,3264,927,3277,966,3292,1041,3298,1101,3292,1102,3287,1042,3272,967,3259,929,3242,891,3219,858,3191,829,3160,808,3120,789,3019,756,2895,731,2757,711,2614,697,2475,687,2240,678"/>
+<area shape="rect" id="Node000026" href="$class_schedule_one_1_1_tools_1_1_management_clipboard___equippable.html" title=" " alt="" coords="3412,965,3614,1307"/>
+<area shape="poly" id="edge25_Node000005_Node000026" title=" " alt="" coords="2240,670,2517,674,2686,681,2861,694,3030,713,3184,741,3252,758,3311,777,3362,799,3401,825,3431,854,3455,888,3474,926,3489,965,3484,966,3469,928,3451,891,3427,857,3398,829,3359,804,3309,782,3250,763,3183,746,3030,719,2860,699,2686,687,2517,679,2240,675"/>
+<area shape="rect" id="Node000027" href="$class_schedule_one_1_1_trash_1_1_trash_bag___equippable.html" title=" " alt="" coords="3639,840,3870,1432"/>
+<area shape="poly" id="edge26_Node000005_Node000027" title=" " alt="" coords="2241,676,2586,694,3020,725,3229,745,3411,769,3550,795,3597,809,3628,824,3645,838,3641,843,3625,829,3595,814,3548,800,3411,774,3229,751,3020,730,2585,700,2240,681"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_equipping_1_1_equippable___melee_weapon.html" title=" " alt="" coords="5,1653,223,2293"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="219,1279,164,1654,158,1653,213,1278"/>
+<area shape="rect" id="Node000008" href="$class_schedule_one_1_1_equipping_1_1_equippable___ranged_weapon.html" title=" " alt="" coords="248,1493,472,2453"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="260,1278,292,1493,287,1494,255,1279"/>
+<area shape="rect" id="Node000009" href="$class_schedule_one_1_1_equipping_1_1_equippable___revolver.html" title=" " alt="" coords="251,2501,468,2672"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="362,2468,362,2501,357,2501,357,2468"/>
+<area shape="rect" id="Node000013" href="$class_schedule_one_1_1_equipping_1_1_equippable___additive.html" title=" " alt="" coords="676,1909,894,2037"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="993,1236,950,1359,907,1494,846,1723,801,1910,796,1909,841,1722,902,1493,945,1357,988,1235"/>
+<area shape="rect" id="Node000014" href="$class_schedule_one_1_1_equipping_1_1_equippable___watering_can.html" title=" " alt="" coords="917,1867,1135,2080"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="1029,1237,1029,1867,1024,1867,1024,1237"/>
+<area shape="rect" id="Node000015" href="$class_schedule_one_1_1_object_scripts_1_1_soil_1_1_equippable___soil.html" title=" " alt="" coords="1160,1920,1335,2027"/>
+<area shape="poly" id="edge14_Node000012_Node000015" title=" " alt="" coords="1066,1235,1109,1357,1150,1493,1180,1612,1206,1731,1241,1920,1236,1921,1201,1732,1175,1613,1145,1494,1103,1359,1061,1236"/>
+</map>

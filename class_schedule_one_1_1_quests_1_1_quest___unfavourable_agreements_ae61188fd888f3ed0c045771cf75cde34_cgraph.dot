@@ -1,0 +1,26 @@
+digraph "ScheduleOne.Quests.Quest_UnfavourableAgreements.Start"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.Quests.Quest\l_UnfavourableAgreements.Start",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Quests.Quest\l_UnfavourableAgreements.CheckHandover\lExpiry",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_quests_1_1_quest___unfavourable_agreements.html#a139e8e61b5b75bd18adf44c566c0d550",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Quests.Quest\l_UnfavourableAgreements.ResetTimer",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_quests_1_1_quest___unfavourable_agreements.html#abd83a5bc92d032b27d26e4afea455cab",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.GameTime.Time\lManager.GetMinSumFrom24HourTime",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_game_time_1_1_time_manager.html#a49fb641341146bbc007d356add9645b5",tooltip=" "];
+  Node3 -> Node5 [id="edge4_Node000003_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.Quests.Quest\l_UnfavourableAgreements.UpdateName",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_quests_1_1_quest___unfavourable_agreements.html#aac2636a5071cb9ed7b153a76921e0bb8",tooltip=" "];
+  Node1 -> Node6 [id="edge5_Node000001_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="ScheduleOne.Quests.Quest\l_UnfavourableAgreements.Handover\lCompleted",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_quests_1_1_quest___unfavourable_agreements.html#afd37436eebfab0010fb7abdeeec13d7d",tooltip=" "];
+  Node6 -> Node3 [id="edge6_Node000006_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node1 -> Node7 [id="edge7_Node000001_Node000007",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="ScheduleOne.Quests.Quest\l_UnfavourableAgreements.HourPass",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_quests_1_1_quest___unfavourable_agreements.html#a959f0ab6a7420b2c5b991a600c48d4d4",tooltip=" "];
+  Node7 -> Node8 [id="edge8_Node000007_Node000008",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="ScheduleOne.Quests.Quest\l_UnfavourableAgreements.SetupHandover",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_quests_1_1_quest___unfavourable_agreements.html#aee56ce8e515a8df7ae68595aa30b1b31",tooltip=" "];
+  Node7 -> Node5 [id="edge9_Node000007_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node1 -> Node5 [id="edge10_Node000001_Node000005",color="steelblue1",style="solid",tooltip=" "];
+}

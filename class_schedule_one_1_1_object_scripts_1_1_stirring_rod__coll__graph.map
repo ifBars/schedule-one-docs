@@ -1,0 +1,11 @@
+<map id="ScheduleOne.ObjectScripts.StirringRod" name="ScheduleOne.ObjectScripts.StirringRod">
+<area shape="rect" id="Node000001" title=" " alt="" coords="79,828,255,1255"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="116,5,217,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,83,88,102,73,125,37,215,17,294,9,366,11,436,21,506,37,582,73,763,88,828,83,829,68,765,31,583,16,507,6,436,3,366,11,293,32,213,68,123,83,99,103,79"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_player_tasks_1_1_clickable.html" title=" " alt="" coords="82,295,251,593"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="169,90,169,295,164,295,164,90"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_audio_1_1_audio_source_controller.html" title=" " alt="" coords="276,124,479,764"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="228,83,265,122,278,143,274,146,261,126,225,86"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,593,169,811,164,811,164,593"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="278,734,250,813,245,811,273,732"/>
+</map>

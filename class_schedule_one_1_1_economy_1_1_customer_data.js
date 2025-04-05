@@ -1,0 +1,27 @@
+var class_schedule_one_1_1_economy_1_1_customer_data =
+[
+    [ "ClearInvalid", "class_schedule_one_1_1_economy_1_1_customer_data.html#aaaff590a64327fc6aecf3306a45a6fe8", null ],
+    [ "GetAdjustedWeeklySpend", "class_schedule_one_1_1_economy_1_1_customer_data.html#a5de52450ebc224e34504ec30b5ac1f88", null ],
+    [ "GetOrderDays", "class_schedule_one_1_1_economy_1_1_customer_data.html#a91dc99a1c0c78854e8e50a27c6efc5f5", null ],
+    [ "GetQualityScalar", "class_schedule_one_1_1_economy_1_1_customer_data.html#a53d4db3d3f86cc25d6d7114b6cab22d7", null ],
+    [ "RandomizeAffinities", "class_schedule_one_1_1_economy_1_1_customer_data.html#ac71a107333fa6bf49e4dec8b83660d0d", null ],
+    [ "RandomizeProperties", "class_schedule_one_1_1_economy_1_1_customer_data.html#aa79b2333f2ef5ddda39d6d63b676b5eb", null ],
+    [ "RandomizeTiming", "class_schedule_one_1_1_economy_1_1_customer_data.html#a14cc4dd49c82b1d615b859dc7dddba3f", null ],
+    [ "BaseAddiction", "class_schedule_one_1_1_economy_1_1_customer_data.html#a9594787569c3574a75ea6bfba3036bfc", null ],
+    [ "CallPoliceChance", "class_schedule_one_1_1_economy_1_1_customer_data.html#a4dd3ed59f1e3282af1215b7982577a69", null ],
+    [ "CanBeDirectlyApproached", "class_schedule_one_1_1_economy_1_1_customer_data.html#ad2e8c342f655216cebc700d58c09f6b7", null ],
+    [ "DefaultAffinityData", "class_schedule_one_1_1_economy_1_1_customer_data.html#a325c50e96169d1f3d5959c4b815025d6", null ],
+    [ "DependenceMultiplier", "class_schedule_one_1_1_economy_1_1_customer_data.html#a5f50c34622fabbd9b3da48a156a2890e", null ],
+    [ "GuaranteeFirstSampleSuccess", "class_schedule_one_1_1_economy_1_1_customer_data.html#ac70f26c36730a1be50ea02af2bef6787", null ],
+    [ "MaxMutualRelationRequirement", "class_schedule_one_1_1_economy_1_1_customer_data.html#a3bc1e9f02b420821887726aba31086b1", null ],
+    [ "MaxOrdersPerWeek", "class_schedule_one_1_1_economy_1_1_customer_data.html#a754e15028b785d713313fe44a0b9813d", null ],
+    [ "MaxWeeklySpend", "class_schedule_one_1_1_economy_1_1_customer_data.html#a2d79e9dfbd93fe0c8eb81c67c771d516", null ],
+    [ "MinMutualRelationRequirement", "class_schedule_one_1_1_economy_1_1_customer_data.html#abe37b998783bb091972a815a628cdbec", null ],
+    [ "MinOrdersPerWeek", "class_schedule_one_1_1_economy_1_1_customer_data.html#a44f681e41443654b6d3fc2f63e5adcf5", null ],
+    [ "MinWeeklySpend", "class_schedule_one_1_1_economy_1_1_customer_data.html#a86484178d2dac446e549d4fdb2bcbee0", null ],
+    [ "onChanged", "class_schedule_one_1_1_economy_1_1_customer_data.html#aa0b1de4facc0abf70077fe1f1f9bf3f6", null ],
+    [ "OrderTime", "class_schedule_one_1_1_economy_1_1_customer_data.html#a86a93db683f31f0de97aaaa465985e35", null ],
+    [ "PreferredOrderDay", "class_schedule_one_1_1_economy_1_1_customer_data.html#acee0999be71b44446c586d993c98823c", null ],
+    [ "PreferredProperties", "class_schedule_one_1_1_economy_1_1_customer_data.html#a6f8434b2a6a89599049fcafc8876ed02", null ],
+    [ "Standards", "class_schedule_one_1_1_economy_1_1_customer_data.html#aa77417cd94e27f987f6018e958caeb62", null ]
+];

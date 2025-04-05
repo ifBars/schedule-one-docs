@@ -1,0 +1,11 @@
+<map id="ScheduleOne.ObjectScripts.BrickPressHandle" name="ScheduleOne.ObjectScripts.BrickPressHandle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="78,828,254,1297"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="115,5,216,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,83,87,102,72,125,36,215,16,294,9,366,11,435,22,506,37,581,72,763,86,828,80,829,67,765,32,582,16,507,6,436,3,366,11,293,31,213,67,123,82,99,102,79"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_player_tasks_1_1_clickable.html" title=" " alt="" coords="81,295,250,593"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="168,90,168,295,163,295,163,90"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_audio_1_1_audio_source_controller.html" title=" " alt="" coords="275,124,478,764"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="227,83,264,122,277,143,273,146,260,126,224,86"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="168,593,168,811,163,811,163,593"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="294,765,280,805,262,852,257,851,275,803,289,763"/>
+</map>

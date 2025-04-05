@@ -1,0 +1,10 @@
+<map id="ScheduleOne.Dragging.Draggable" name="ScheduleOne.Dragging.Draggable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="52,721,260,1447"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,106,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="56,89,51,333,55,494,68,657,76,721,71,722,62,658,50,494,46,333,51,89"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_interaction_1_1_interactable_object.html" title=" " alt="" coords="77,124,235,657"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="72,88,82,123,77,125,67,89"/>
+<area shape="rect" id="Node000003" href="$interface_schedule_one_1_1_i_g_u_i_d_registerable.html" title=" " alt="" coords="259,345,463,436"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="346,451,262,734,257,733,341,450"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="158,657,158,705,153,705,153,657"/>
+</map>

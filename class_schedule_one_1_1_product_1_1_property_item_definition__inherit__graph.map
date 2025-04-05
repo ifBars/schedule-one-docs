@@ -1,0 +1,17 @@
+<map id="ScheduleOne.Product.PropertyItemDefinition" name="ScheduleOne.Product.PropertyItemDefinition">
+<area shape="rect" id="Node000001" title=" " alt="" coords="209,795,400,901"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_product_1_1_product_definition.html" title=" " alt="" coords="211,949,398,1547"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="307,917,307,949,302,949,302,917"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_item_framework_1_1_storable_item_definition.html" title=" " alt="" coords="210,533,398,747"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="307,762,307,795,302,795,302,762"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_item_framework_1_1_item_definition.html" title=" " alt="" coords="210,123,398,485"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="307,500,307,533,302,533,302,500"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="251,5,358,75"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="307,90,307,123,302,123,302,90"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_product_1_1_cocaine_definition.html" title=" " alt="" coords="5,1627,195,1797"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="207,1475,140,1628,135,1626,202,1473"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_product_1_1_meth_definition.html" title=" " alt="" coords="219,1616,390,1808"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="307,1561,307,1616,302,1616,302,1561"/>
+<area shape="rect" id="Node000008" href="$class_schedule_one_1_1_product_1_1_weed_definition.html" title=" " alt="" coords="414,1595,589,1829"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="406,1480,454,1594,450,1596,401,1483"/>
+</map>

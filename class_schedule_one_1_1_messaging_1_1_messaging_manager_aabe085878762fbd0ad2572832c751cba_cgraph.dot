@@ -1,0 +1,21 @@
+digraph "ScheduleOne.Messaging.MessagingManager.RpcReader___Server_SendMessageChain_3949292778"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.Messaging.Messaging\lManager.RpcReader___Server\l_SendMessageChain_3949292778",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Messaging.Messaging\lManager.RpcLogic___SendMessageChain\l_3949292778",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_messaging_1_1_messaging_manager.html#ab727ee8401e9638beac01d6dc30ba565",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Messaging.Messaging\lManager.ReceiveMessageChain",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_messaging_1_1_messaging_manager.html#acece2851409a8b744b3172ac932f86c0",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.Messaging.Messaging\lManager.RpcLogic___ReceiveMessageChain\l_3949292778",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_messaging_1_1_messaging_manager.html#a20e3f084f607b0d54b5155d19e261eb3",tooltip=" "];
+  Node4 -> Node5 [id="edge4_Node000004_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.NPCs.NPCManager.\lGetNPC",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_n_p_c_manager.html#ad9e18bf5881f472dcd80ed93a864b73d",tooltip=" "];
+  Node4 -> Node6 [id="edge5_Node000004_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="ScheduleOne.Console.LogError",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_console.html#af815c154f3082a5bf25f62c7cc93fad2",tooltip=" "];
+  Node3 -> Node7 [id="edge6_Node000003_Node000007",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="ScheduleOne.Messaging.Messaging\lManager.RpcWriter___Observers\l_ReceiveMessageChain_3949292778",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_messaging_1_1_messaging_manager.html#a66ee93d76d0299637d5380a9457b276f",tooltip=" "];
+}

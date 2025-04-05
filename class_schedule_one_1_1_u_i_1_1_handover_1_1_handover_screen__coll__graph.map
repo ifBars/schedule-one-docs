@@ -1,0 +1,18 @@
+<map id="ScheduleOne.UI.Handover.HandoverScreen" name="ScheduleOne.UI.Handover.HandoverScreen">
+<area shape="rect" id="Node000001" title=" " alt="" coords="386,844,595,1697"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_dev_utilities_1_1_singleton-1-g.html" title=" " alt="" coords="5,348,170,540"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,554,144,657,183,763,230,859,282,953,388,1121,384,1124,278,955,225,861,179,765,139,658,109,555"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="295,5,395,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="282,62,229,88,204,105,183,126,149,177,125,235,108,294,98,349,93,348,103,292,120,233,144,175,179,122,201,101,226,83,279,57"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_u_i_1_1_handover_1_1_handover_screen_price_selector.html" title=" " alt="" coords="194,327,379,561"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="341,90,306,327,301,327,335,89"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_u_i_1_1_handover_1_1_handover_screen_detail_panel.html" title=" " alt="" coords="403,295,578,593"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="376,86,394,123,427,208,454,294,449,296,422,210,389,125,371,89"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_u_i_1_1_item_slot_u_i.html" title=" " alt="" coords="602,196,790,692"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="411,45,455,53,504,68,551,90,592,122,621,156,643,195,639,198,616,159,588,126,548,95,502,73,454,59,409,50"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="318,561,384,830,379,832,312,562"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="493,593,493,827,488,827,488,593"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="637,692,601,834,596,833,632,691"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_item_framework_1_1_item_slot.html" title=" " alt="" coords="813,124,1015,764"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="816,741,805,765,759,855,708,944,606,1107,602,1104,704,942,754,853,800,763,811,739"/>
+</map>

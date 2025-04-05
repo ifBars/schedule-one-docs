@@ -1,0 +1,27 @@
+<map id="ScheduleOne.Management.EntityConfiguration" name="ScheduleOne.Management.EntityConfiguration">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1348,5,1554,347"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_management_1_1_botanist_configuration.html" title=" " alt="" coords="5,416,225,757"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1333,189,1074,214,916,233,752,257,592,285,446,317,325,355,277,375,238,397,212,418,208,414,235,392,274,370,323,350,445,312,591,279,751,251,915,228,1073,209,1333,184"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_management_1_1_brick_press_configuration.html" title=" " alt="" coords="249,437,451,736"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1334,194,1120,224,864,269,739,297,626,327,532,361,495,379,465,397,442,416,422,439,418,436,438,412,462,393,492,374,530,356,624,322,738,291,863,264,1119,219,1333,189"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_management_1_1_cauldron_configuration.html" title=" " alt="" coords="475,437,699,736"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1334,189,1197,210,1118,226,1035,247,951,274,867,308,787,348,713,397,690,416,669,439,665,436,686,413,710,393,784,344,865,303,949,269,1034,242,1117,221,1196,204,1333,184"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_management_1_1_chemist_configuration.html" title=" " alt="" coords="724,395,944,779"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1335,210,1247,239,1148,280,1049,332,1002,363,958,397,946,408,942,404,955,393,999,359,1046,328,1146,275,1245,234,1334,205"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_management_1_1_chemistry_station_configuration.html" title=" " alt="" coords="969,427,1200,747"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1339,273,1275,332,1215,396,1188,429,1184,425,1210,393,1271,328,1335,269"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_management_1_1_cleaner_configuration.html" title=" " alt="" coords="1224,437,1441,736"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1400,362,1378,438,1373,437,1395,360"/>
+<area shape="rect" id="Node000008" href="$class_schedule_one_1_1_management_1_1_drying_rack_configuration.html" title=" " alt="" coords="1465,427,1675,747"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1507,360,1526,426,1521,428,1502,361"/>
+<area shape="rect" id="Node000009" href="$class_schedule_one_1_1_management_1_1_lab_oven_configuration.html" title=" " alt="" coords="1699,437,1892,736"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1567,268,1630,327,1689,393,1720,436,1716,439,1685,396,1626,331,1563,271"/>
+<area shape="rect" id="Node000010" href="$class_schedule_one_1_1_management_1_1_mixing_station_configuration.html" title=" " alt="" coords="1916,427,2125,747"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1569,210,1649,241,1737,281,1825,332,1866,361,1905,393,1936,425,1932,429,1901,397,1863,365,1822,336,1735,286,1647,246,1567,215"/>
+<area shape="rect" id="Node000011" href="$class_schedule_one_1_1_management_1_1_packager_configuration.html" title=" " alt="" coords="2150,405,2376,768"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1569,188,1696,210,1844,249,1922,276,1998,308,2071,347,2139,393,2153,404,2150,408,2136,397,2069,352,1996,313,1920,281,1843,254,1695,215,1568,193"/>
+<area shape="rect" id="Node000012" href="$class_schedule_one_1_1_management_1_1_packaging_station_configuration.html" title=" " alt="" coords="2400,437,2633,736"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1569,175,1741,187,1845,200,1955,220,2068,248,2181,285,2289,333,2341,361,2390,393,2415,412,2437,436,2433,439,2411,416,2387,397,2338,366,2287,338,2179,290,2066,253,1954,225,1844,205,1741,192,1569,180"/>
+<area shape="rect" id="Node000013" href="$class_schedule_one_1_1_management_1_1_pot_configuration.html" title=" " alt="" coords="2657,395,2848,779"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="1569,183,1825,208,1981,227,2142,250,2299,278,2442,311,2561,349,2608,370,2646,392,2659,402,2655,407,2643,397,2606,375,2559,354,2440,316,2298,283,2141,255,1980,232,1825,213,1569,189"/>
+</map>

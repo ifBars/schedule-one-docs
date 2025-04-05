@@ -1,0 +1,13 @@
+<map id="ScheduleOne.Tools.SafeBalanceActivationZone" name="ScheduleOne.Tools.SafeBalanceActivationZone">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1917,207,2131"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="34,1656,135,1725"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,1740,102,1917,97,1918,85,1740"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_storage_1_1_safe.html" title=" " alt="" coords="159,1528,387,1853"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="194,1854,169,1904,164,1901,189,1852"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_storage_1_1_storage_entity.html" title=" " alt="" coords="150,247,396,1479"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="276,1494,276,1528,270,1528,270,1494"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="126,67,244,136"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="193,151,204,247,199,247,188,151"/>
+<area shape="rect" id="Node000006" href="$interface_schedule_one_1_1_item_framework_1_1_i_item_slot_owner.html" title=" " alt="" coords="268,5,456,197"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="352,213,348,247,343,246,347,212"/>
+</map>

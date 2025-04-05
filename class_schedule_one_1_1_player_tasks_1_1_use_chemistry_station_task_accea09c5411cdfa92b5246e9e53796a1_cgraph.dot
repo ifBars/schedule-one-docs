@@ -1,0 +1,15 @@
+digraph "ScheduleOne.PlayerTasks.UseChemistryStationTask.CheckStep_StirMixture"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.PlayerTasks.\lUseChemistryStationTask.Check\lStep_StirMixture",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.StationFramework.\lIngredientPiece.DissolveAmount",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_station_framework_1_1_ingredient_piece.html#a4f13eb8a4b0cf268e0486f6c854d258c",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.PlayerTasks.\lUseChemistryStationTask.ProgressStep",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_player_tasks_1_1_use_chemistry_station_task.html#a132801580310bf245d6c6008a708b441",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.StationFramework.\lPourableModule.SetLiquidLevel",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_station_framework_1_1_pourable_module.html#a8a1f17ee61bb3a1ac1071961cfa1a215",tooltip=" "];
+}

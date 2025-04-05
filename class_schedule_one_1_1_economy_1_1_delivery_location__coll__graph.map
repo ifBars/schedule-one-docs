@@ -1,0 +1,10 @@
+<map id="ScheduleOne.Economy.DeliveryLocation" name="ScheduleOne.Economy.DeliveryLocation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="50,705,248,983"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,106,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="53,90,45,191,41,329,46,485,55,564,68,641,86,705,81,706,62,642,49,564,41,485,35,329,40,191,48,90"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_map_1_1_p_o_i.html" title=" " alt="" coords="77,124,221,641"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="71,88,81,124,76,125,66,90"/>
+<area shape="rect" id="Node000003" href="$interface_schedule_one_1_1_i_g_u_i_d_registerable.html" title=" " alt="" coords="246,337,450,428"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="325,443,211,707,206,705,320,441"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="152,641,152,688,146,688,146,641"/>
+</map>

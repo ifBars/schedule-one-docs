@@ -1,0 +1,8 @@
+<map id="ScheduleOne.Vehicles.Sound.VehicleSound" name="ScheduleOne.Vehicles.Sound.VehicleSound">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,908,243,1420"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="69,5,169,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,89,126,908,120,908,117,90"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_audio_1_1_audio_source_controller.html" title=" " alt="" coords="140,124,344,764"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="136,88,147,123,142,125,131,90"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,764,171,892,166,891,187,763"/>
+</map>

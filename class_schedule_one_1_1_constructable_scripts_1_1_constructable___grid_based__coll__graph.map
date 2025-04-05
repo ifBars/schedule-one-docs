@@ -1,0 +1,16 @@
+<map id="ScheduleOne.ConstructableScripts.Constructable_GridBased" name="ScheduleOne.ConstructableScripts.Constructable_GridBased">
+<area shape="rect" id="Node000001" title=" " alt="" coords="235,1489,544,3015"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_constructable_scripts_1_1_constructable.html" title=" " alt="" coords="5,145,269,1425"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,1440,261,1489,256,1490,247,1441"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="78,16,196,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="140,100,140,146,135,146,135,100"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_tiles_1_1_grid.html" title=" " alt="" coords="510,559,711,1012"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="579,1012,510,1473,504,1472,574,1011"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="372,16,473,85"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="468,95,485,119,500,144,538,246,567,353,588,459,601,558,595,559,582,460,562,354,533,248,495,146,481,121,464,98"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_property_1_1_utilities_1_1_power_1_1_power_node.html" title=" " alt="" coords="293,668,486,903"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="423,100,397,668,392,668,418,100"/>
+<area shape="rect" id="Node000006" href="$interface_schedule_one_1_1_i_g_u_i_d_registerable.html" title=" " alt="" coords="509,5,712,96"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="613,111,613,559,608,559,608,111"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="392,902,392,1472,387,1472,387,902"/>
+</map>

@@ -1,0 +1,15 @@
+digraph "ScheduleOne.Trash.TrashContainer.AddTrash"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.Trash.TrashContainer.\lAddTrash",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Trash.TrashContainer.\lRpcLogic___AddTrash_3905681115",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_trash_1_1_trash_container.html#a357b94af48710056ed90e259da0806bf",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Trash.TrashContainer.\lRpcWriter___Observers_AddTrash\l_3905681115",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_trash_1_1_trash_container.html#a375ddf7b2b525ae60ae33a957718d182",tooltip=" "];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.Trash.TrashContainer.\lRpcWriter___Target_AddTrash\l_3905681115",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_trash_1_1_trash_container.html#a1a0987b40bec1de5923c4e26950a8ab7",tooltip=" "];
+}

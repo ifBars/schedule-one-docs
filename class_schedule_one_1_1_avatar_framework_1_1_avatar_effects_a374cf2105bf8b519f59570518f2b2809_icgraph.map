@@ -1,0 +1,7 @@
+<map id="ScheduleOne.AvatarFramework.AvatarEffects.ResetEyeColor" name="ScheduleOne.AvatarFramework.AvatarEffects.ResetEyeColor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="264,29,474,72"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="411,16,395,10,369,8,344,10,329,15,323,21,325,28,320,29,318,19,326,10,343,5,369,3,396,5,413,11"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_avatar_framework_1_1_avatar_effects.html#a08e90a30b9b0ecd1acb087965c8dc36c" title=" " alt="" coords="5,29,216,72"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="248,53,216,53,216,48,248,48"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="153,16,137,10,110,8,86,10,71,15,65,21,67,28,62,29,60,19,68,10,85,5,111,3,138,5,154,11"/>
+</map>

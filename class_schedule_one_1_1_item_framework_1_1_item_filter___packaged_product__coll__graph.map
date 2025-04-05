@@ -1,0 +1,7 @@
+<map id="ScheduleOne.ItemFramework.ItemFilter_PackagedProduct" name="ScheduleOne.ItemFramework.ItemFilter_PackagedProduct">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,293,202,400"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_item_framework_1_1_item_filter___category.html" title=" " alt="" coords="10,139,198,245"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,260,106,294,101,294,101,260"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_item_framework_1_1_item_filter.html" title=" " alt="" coords="10,5,198,91"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="106,106,106,139,101,139,101,106"/>
+</map>

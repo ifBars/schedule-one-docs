@@ -1,0 +1,5 @@
+<map id="ScheduleOne.UI.ATM.ATMInterface" name="ScheduleOne.UI.ATM.ATMInterface">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,123,225,1024"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="65,5,166,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,90,118,123,112,123,112,90"/>
+</map>

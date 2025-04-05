@@ -1,0 +1,7 @@
+<map id="ScheduleOne.AvatarFramework.Customization.PoliceBelt" name="ScheduleOne.AvatarFramework.Customization.PoliceBelt">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,512,205,683"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_avatar_framework_1_1_accessory.html" title=" " alt="" coords="5,123,205,464"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,479,108,512,102,512,102,479"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="55,5,156,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="108,90,108,123,102,123,102,90"/>
+</map>

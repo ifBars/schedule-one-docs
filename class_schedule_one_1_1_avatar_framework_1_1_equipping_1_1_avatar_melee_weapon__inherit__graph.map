@@ -1,0 +1,9 @@
+<map id="ScheduleOne.AvatarFramework.Equipping.AvatarMeleeWeapon" name="ScheduleOne.AvatarFramework.Equipping.AvatarMeleeWeapon">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,880,205,1136"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_avatar_framework_1_1_equipping_1_1_avatar_weapon.html" title=" " alt="" coords="5,576,205,832"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,847,108,880,102,880,102,847"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_avatar_framework_1_1_equipping_1_1_avatar_equippable.html" title=" " alt="" coords="5,123,205,528"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="108,543,108,576,102,576,102,543"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="55,5,156,75"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="108,89,108,123,102,123,102,89"/>
+</map>

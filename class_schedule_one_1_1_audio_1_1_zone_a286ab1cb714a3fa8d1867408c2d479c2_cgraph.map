@@ -1,0 +1,5 @@
+<map id="ScheduleOne.Audio.Zone.IsPointInsidePolygon" name="ScheduleOne.Audio.Zone.IsPointInsidePolygon">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,190,48"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_audio_1_1_zone.html#a317234ca120b17f2565e613a7bb99408" title=" " alt="" coords="238,5,466,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,24,222,24,222,29,190,29"/>
+</map>

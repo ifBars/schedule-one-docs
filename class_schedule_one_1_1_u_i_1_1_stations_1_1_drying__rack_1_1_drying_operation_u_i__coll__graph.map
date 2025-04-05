@@ -1,0 +1,8 @@
+<map id="ScheduleOne.UI.Stations.Drying_rack.DryingOperationUI" name="ScheduleOne.UI.Stations.Drying_rack.DryingOperationUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,380,198,679"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="46,5,147,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,89,103,381,97,381,94,89"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_u_i_1_1_tooltips_1_1_tooltip.html" title=" " alt="" coords="118,124,278,316"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="125,86,146,123,141,125,120,89"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,317,156,365,151,363,166,315"/>
+</map>

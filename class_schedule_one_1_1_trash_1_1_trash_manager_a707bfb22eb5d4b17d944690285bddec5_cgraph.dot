@@ -1,0 +1,13 @@
+digraph "ScheduleOne.Trash.TrashManager.DestroyTrash"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.Trash.TrashManager.\lDestroyTrash",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Trash.TrashManager.\lRpcLogic___DestroyTrash_3615296227",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_trash_1_1_trash_manager.html#ace4ea521e3c4593bfc2a0461db0312bf",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Trash.TrashManager.\lRpcWriter___Observers_DestroyTrash\l_3615296227",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_trash_1_1_trash_manager.html#a58bec1b199d5eed5de371638374d4a5c",tooltip=" "];
+}

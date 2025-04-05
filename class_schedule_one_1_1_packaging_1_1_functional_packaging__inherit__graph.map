@@ -1,0 +1,13 @@
+<map id="ScheduleOne.Packaging.FunctionalPackaging" name="ScheduleOne.Packaging.FunctionalPackaging">
+<area shape="rect" id="Node000001" title=" " alt="" coords="131,1093,348,1712"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_packaging_1_1_functional_baggie.html" title=" " alt="" coords="5,1805,223,2061"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="165,1727,147,1806,142,1805,160,1726"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_packaging_1_1_functional_jar.html" title=" " alt="" coords="247,1760,483,2107"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="319,1726,327,1760,322,1761,313,1727"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_player_tasks_1_1_draggable.html" title=" " alt="" coords="143,469,336,1045"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="242,1060,242,1094,237,1094,237,1060"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_player_tasks_1_1_clickable.html" title=" " alt="" coords="155,123,324,421"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="242,436,242,470,237,470,237,436"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="189,5,290,75"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="242,89,242,123,237,123,237,89"/>
+</map>

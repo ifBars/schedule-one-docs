@@ -1,0 +1,11 @@
+<map id="ScheduleOne.Lighting.PoliceLight" name="ScheduleOne.Lighting.PoliceLight">
+<area shape="rect" id="Node000001" title=" " alt="" coords="79,844,256,1207"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="117,5,218,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,83,88,102,74,125,38,215,17,294,9,366,11,436,21,506,36,582,74,763,94,843,89,845,69,765,31,583,16,507,6,436,4,366,12,293,33,213,69,123,84,99,104,79"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_dev_utilities_1_1_optimized_light.html" title=" " alt="" coords="84,295,251,593"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="170,90,170,295,165,295,165,90"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_audio_1_1_audio_source_controller.html" title=" " alt="" coords="275,124,479,764"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="229,83,266,122,277,140,273,143,261,126,225,86"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,593,170,827,165,827,165,593"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="278,741,249,821,246,829,241,827,244,819,273,739"/>
+</map>

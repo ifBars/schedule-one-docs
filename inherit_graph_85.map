@@ -1,0 +1,19 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_schedule_one_1_1_item_framework_1_1_item_filter.html" title=" " alt="" coords="5,156,204,199"/>
+<area shape="rect" id="Node000001" href="$class_schedule_one_1_1_item_framework_1_1_i_ds.html" title=" " alt="" coords="252,5,471,32"/>
+<area shape="poly" id="edge46_Node000000_Node000001" title=" " alt="" coords="131,142,183,90,215,64,250,42,279,30,281,35,253,46,218,68,186,94,135,146"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_item_framework_1_1_item_filter___category.html" title=" " alt="" coords="262,56,460,99"/>
+<area shape="poly" id="edge47_Node000000_Node000002" title=" " alt="" coords="163,146,251,108,284,97,285,102,253,113,165,151"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_item_framework_1_1_item_filter___clothing_slot.html" title=" " alt="" coords="262,123,460,165"/>
+<area shape="poly" id="edge50_Node000000_Node000005" title=" " alt="" coords="219,160,261,154,262,160,220,165"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_item_framework_1_1_item_filter___dryable.html" title=" " alt="" coords="262,189,460,232"/>
+<area shape="poly" id="edge51_Node000000_Node000006" title=" " alt="" coords="220,190,262,195,261,200,219,195"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_item_framework_1_1_item_filter___i_d.html" title=" " alt="" coords="262,256,460,299"/>
+<area shape="poly" id="edge52_Node000000_Node000007" title=" " alt="" coords="165,203,253,242,285,253,284,258,251,246,163,208"/>
+<area shape="rect" id="Node000008" href="$class_schedule_one_1_1_item_framework_1_1_item_filter___mixing_ingredient.html" title=" " alt="" coords="262,323,460,365"/>
+<area shape="poly" id="edge53_Node000000_Node000008" title=" " alt="" coords="136,208,187,260,219,286,253,308,277,320,274,325,250,313,216,290,184,264,132,212"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_item_framework_1_1_item_filter___packaged_product.html" title=" " alt="" coords="520,23,719,65"/>
+<area shape="poly" id="edge48_Node000002_Node000003" title=" " alt="" coords="476,60,520,54,520,59,477,65"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_item_framework_1_1_item_filter___unpackaged_product.html" title=" " alt="" coords="519,89,720,132"/>
+<area shape="poly" id="edge49_Node000002_Node000004" title=" " alt="" coords="477,90,519,95,518,100,476,95"/>
+</map>

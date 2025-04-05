@@ -1,0 +1,8 @@
+<map id="ScheduleOne.UI.Phone.Messages.DealWindowSelector" name="ScheduleOne.UI.Phone.Messages.DealWindowSelector">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,609,221,1057"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="58,5,158,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,89,114,609,109,609,105,89"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_u_i_1_1_phone_1_1_messages_1_1_window_selector_button.html" title=" " alt="" coords="129,124,345,481"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="133,87,152,123,147,126,129,89"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,482,172,594,167,592,193,481"/>
+</map>

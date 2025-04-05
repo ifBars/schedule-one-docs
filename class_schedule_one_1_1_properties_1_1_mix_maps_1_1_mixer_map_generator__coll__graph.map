@@ -1,0 +1,12 @@
+<map id="ScheduleOne.Properties.MixMaps.MixerMapGenerator" name="ScheduleOne.Properties.MixMaps.MixerMapGenerator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,769,182,940"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="22,295,123,364"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,379,93,769,88,770,72,379"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_properties_1_1_mix_maps_1_1_effect.html" title=" " alt="" coords="109,599,286,705"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="87,378,108,452,137,534,169,598,165,600,133,536,103,454,82,379"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,706,147,756,143,753,169,704"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_properties_1_1_property.html" title=" " alt="" coords="146,124,356,535"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="220,535,212,582,207,581,214,534"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="198,5,304,75"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="254,89,254,124,248,124,248,89"/>
+</map>

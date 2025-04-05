@@ -1,0 +1,19 @@
+<map id="ScheduleOne.Economy.DeadDrop" name="ScheduleOne.Economy.DeadDrop">
+<area shape="rect" id="Node000001" title=" " alt="" coords="236,1543,445,1868"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="110,67,211,136"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,150,100,196,79,247,54,366,33,516,18,687,9,869,10,1049,21,1218,30,1295,43,1365,59,1426,79,1478,109,1528,148,1573,192,1611,237,1644,234,1648,189,1615,145,1576,105,1531,74,1480,54,1428,38,1366,25,1296,15,1219,5,1049,4,868,12,687,28,515,49,365,74,246,95,193,123,147"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_map_1_1_p_o_i.html" title=" " alt="" coords="88,604,233,1121"/>
+<area shape="poly" id="edge7_Node000007_Node000002" title=" " alt="" coords="163,151,163,604,158,604,158,151"/>
+<area shape="rect" id="Node000008" href="$class_schedule_one_1_1_dev_utilities_1_1_optimized_light.html" title=" " alt="" coords="257,713,424,1012"/>
+<area shape="poly" id="edge9_Node000008_Node000002" title=" " alt="" coords="195,147,223,193,247,246,282,366,308,490,325,608,335,713,330,714,320,609,303,491,277,367,242,248,219,196,191,150"/>
+<area shape="rect" id="Node000003" href="$interface_schedule_one_1_1_i_g_u_i_d_registerable.html" title=" " alt="" coords="448,817,652,908"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="546,923,532,1028,510,1168,479,1324,439,1479,417,1544,412,1542,434,1478,474,1323,505,1167,527,1028,541,922"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_storage_1_1_storage_entity.html" title=" " alt="" coords="676,247,922,1479"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="678,1460,665,1480,622,1533,571,1579,516,1619,462,1651,459,1646,513,1614,567,1575,618,1529,661,1477,674,1457"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="651,67,769,136"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="718,150,729,247,724,247,713,151"/>
+<area shape="rect" id="Node000006" href="$interface_schedule_one_1_1_item_framework_1_1_i_item_slot_owner.html" title=" " alt="" coords="793,5,981,197"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="877,213,873,247,868,247,872,212"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="183,1121,208,1298,225,1389,247,1478,262,1526,257,1528,242,1479,220,1390,202,1299,178,1122"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="343,1012,343,1525,338,1525,338,1012"/>
+</map>

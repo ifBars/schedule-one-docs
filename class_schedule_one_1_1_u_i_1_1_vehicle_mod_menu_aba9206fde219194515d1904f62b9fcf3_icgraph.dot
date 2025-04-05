@@ -1,0 +1,15 @@
+digraph "ScheduleOne.UI.VehicleModMenu.RefreshSelectionIndicator"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="ScheduleOne.UI.VehicleMod\lMenu.RefreshSelectionIndicator",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.UI.VehicleMod\lMenu.ColorClicked",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_vehicle_mod_menu.html#a23e078214e32b00c347f46ba687a864f",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.UI.VehicleMod\lMenu.ConfirmButtonClicked",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_vehicle_mod_menu.html#a714a9267304482b1eb475a41e95aff22",tooltip=" "];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.UI.VehicleMod\lMenu.Open",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_vehicle_mod_menu.html#a9272cd0fa5dd8aec8c3fd61ecebb2700",tooltip=" "];
+}

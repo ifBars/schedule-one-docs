@@ -1,0 +1,9 @@
+<map id="ScheduleOne.AvatarFramework.Customization.ACWindow" name="ScheduleOne.AvatarFramework.Customization.ACWindow">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,359,205,529"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="50,5,150,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,90,107,359,101,359,98,90"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_avatar_framework_1_1_customization_1_1_a_c_window.html" title=" " alt="" coords="121,124,321,295"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="135,85,162,122,158,126,131,89"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="182,296,157,345,152,342,177,293"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="322,188,340,196,348,209,345,218,339,224,335,220,341,215,342,210,337,200,320,193"/>
+</map>

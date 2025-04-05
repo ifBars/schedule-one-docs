@@ -1,0 +1,11 @@
+digraph "ScheduleOne.Law.CurfewManager.RpcReader___Observers_Enable_328543758"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.Law.CurfewManager.\lRpcReader___Observers_Enable\l_328543758",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Law.CurfewManager.\lRpcLogic___Enable_328543758",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_law_1_1_curfew_manager.html#a022a31eb3b02372299c5b077f8c2b0b6",tooltip=" "];
+}

@@ -1,0 +1,19 @@
+<map id="ScheduleOne.UI.HUD" name="ScheduleOne.UI.HUD">
+<area shape="rect" id="Node000001" title=" " alt="" coords="412,700,598,1452"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_dev_utilities_1_1_singleton-1-g.html" title=" " alt="" coords="5,276,170,468"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,481,151,550,183,619,237,712,297,802,414,960,410,963,293,805,233,714,179,621,146,552,119,483"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="455,5,555,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="440,44,380,49,311,62,243,87,211,104,183,126,154,158,132,196,116,237,104,277,99,275,111,235,127,194,150,155,179,122,208,100,241,82,310,57,379,44,440,38"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_u_i_1_1_item_slot_u_i.html" title=" " alt="" coords="194,124,382,620"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="444,81,419,102,396,126,383,143,379,140,392,122,415,98,441,77"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_u_i_1_1_crime_status_u_i.html" title=" " alt="" coords="406,199,604,545"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="508,89,508,199,502,199,502,89"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_u_i_1_1_balance_display.html" title=" " alt="" coords="628,263,830,481"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="569,78,595,98,618,122,662,190,695,262,691,264,657,193,614,126,591,102,566,82"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_u_i_1_1_crosshair_text.html" title=" " alt="" coords="854,295,1046,449"/>
+<area shape="poly" id="edge10_Node000007_Node000003" title=" " alt="" coords="570,38,634,43,706,57,779,82,813,100,844,122,879,160,905,204,925,250,939,294,933,296,920,252,901,206,875,163,841,126,810,104,777,86,704,62,633,49,570,43"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="365,619,382,675,409,762,404,763,377,677,360,621"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="508,545,508,683,502,683,502,545"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="697,482,606,767,601,765,692,480"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="925,450,889,534,845,621,789,710,729,798,611,952,607,949,725,795,785,708,840,619,885,531,920,448"/>
+</map>

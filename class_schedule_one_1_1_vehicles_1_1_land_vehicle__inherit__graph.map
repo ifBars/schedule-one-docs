@@ -1,0 +1,13 @@
+<map id="ScheduleOne.Vehicles.LandVehicle" name="ScheduleOne.Vehicles.LandVehicle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="124,523,395,2448"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_vehicles_1_1_forklift.html" title=" " alt="" coords="5,2496,246,3659"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="180,2463,177,2496,172,2496,175,2463"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_vehicles_1_1_shitbox.html" title=" " alt="" coords="270,2904,515,3251"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="344,2463,381,2904,375,2904,338,2463"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="15,205,133,275"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,289,126,575,121,576,78,290"/>
+<area shape="rect" id="Node000003" href="$interface_schedule_one_1_1_i_g_u_i_d_registerable.html" title=" " alt="" coords="157,195,361,285"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="262,300,262,523,256,523,256,300"/>
+<area shape="rect" id="Node000004" href="$interface_schedule_one_1_1_persistence_1_1_i_saveable.html" title=" " alt="" coords="384,5,552,475"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="429,490,397,681,392,680,424,489"/>
+</map>

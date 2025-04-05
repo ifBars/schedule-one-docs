@@ -1,0 +1,16 @@
+<map id="ScheduleOne.UI.Settings.Keybinder" name="ScheduleOne.UI.Settings.Keybinder">
+<area shape="rect" id="Node000001" title=" " alt="" coords="28,1068,190,1239"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,164,106,233"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="61,248,107,1068,102,1068,56,248"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_dev_utilities_1_1_rebind_action_u_i.html" title=" " alt="" coords="142,321,324,1004"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="96,244,109,264,144,341,139,343,104,267,92,247"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="149,1004,137,1053,132,1051,144,1003"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_dev_utilities_1_1_rebind_action_u_i_1_1_update_binding_u_i_event.html" title=" " alt="" coords="130,156,370,241"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="251,241,249,304,244,304,246,241"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="168,13,333,99"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="253,114,253,156,248,156,248,114"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_dev_utilities_1_1_rebind_action_u_i_1_1_interactive_rebind_event.html" title=" " alt="" coords="394,156,637,241"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="493,242,335,499,331,496,488,240"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="403,5,628,107"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="518,121,518,156,513,156,513,121"/>
+</map>

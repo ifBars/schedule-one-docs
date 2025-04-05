@@ -1,0 +1,14 @@
+<map id="ScheduleOne.Law.CurfewManager" name="ScheduleOne.Law.CurfewManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="320,844,538,1751"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_dev_utilities_1_1_network_singleton-1-g.html" title=" " alt="" coords="5,196,316,692"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,705,322,949,317,951,240,707"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="102,5,220,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="164,90,164,196,158,196,158,90"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_object_scripts_1_1_v_m_s_board.html" title=" " alt="" coords="341,391,517,497"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="432,497,432,827,426,827,426,497"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="485,5,586,75"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="525,90,445,391,440,390,520,88"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_audio_1_1_audio_source_controller.html" title=" " alt="" coords="540,124,744,764"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="551,89,560,124,555,125,546,90"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="565,765,545,846,539,844,560,763"/>
+</map>

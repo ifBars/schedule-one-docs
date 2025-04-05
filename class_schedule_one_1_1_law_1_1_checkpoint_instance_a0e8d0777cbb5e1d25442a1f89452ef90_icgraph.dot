@@ -1,0 +1,11 @@
+digraph "ScheduleOne.Law.CheckpointInstance.EnableCheckpoint"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="ScheduleOne.Law.Checkpoint\lInstance.EnableCheckpoint",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Law.Checkpoint\lInstance.Evaluate",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_law_1_1_checkpoint_instance.html#ad99aebb7ba09a3bf4f57935e4c0168bf",tooltip=" "];
+}

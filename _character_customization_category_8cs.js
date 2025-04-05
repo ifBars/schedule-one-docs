@@ -1,0 +1,4 @@
+var _character_customization_category_8cs =
+[
+    [ "ScheduleOne.UI.CharacterCustomization.CharacterCustomizationCategory", "class_schedule_one_1_1_u_i_1_1_character_customization_1_1_character_customization_category.html", "class_schedule_one_1_1_u_i_1_1_character_customization_1_1_character_customization_category" ]
+];

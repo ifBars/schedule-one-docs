@@ -1,0 +1,7 @@
+<map id="ScheduleOne.AvatarFramework.AvatarLayer" name="ScheduleOne.AvatarFramework.AvatarLayer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,123,205,336"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_avatar_framework_1_1_face_layer.html" title=" " alt="" coords="5,384,205,469"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="108,351,108,384,102,384,102,351"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="52,5,158,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,89,108,123,102,123,102,89"/>
+</map>

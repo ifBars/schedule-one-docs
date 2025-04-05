@@ -1,0 +1,11 @@
+<map id="ScheduleOne.ObjectScripts.BunsenBurner" name="ScheduleOne.ObjectScripts.BunsenBurner">
+<area shape="rect" id="Node000001" title=" " alt="" coords="77,828,252,1361"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="114,5,215,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,83,85,102,71,125,35,215,15,294,8,366,12,435,22,505,38,581,55,666,71,764,83,828,78,829,66,764,49,667,32,582,17,506,6,436,3,366,10,293,30,213,66,123,81,99,101,79"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_player_tasks_1_1_clickable.html" title=" " alt="" coords="80,295,249,593"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="167,90,167,295,162,295,162,90"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_audio_1_1_audio_source_controller.html" title=" " alt="" coords="273,124,477,764"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="226,83,263,122,276,143,271,146,258,126,222,86"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="167,593,167,811,162,811,162,593"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="292,764,279,805,261,858,256,857,274,803,287,763"/>
+</map>

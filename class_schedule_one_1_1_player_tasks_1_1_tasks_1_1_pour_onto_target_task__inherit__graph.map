@@ -1,0 +1,9 @@
+<map id="ScheduleOne.PlayerTasks.Tasks.PourOntoTargetTask" name="ScheduleOne.PlayerTasks.Tasks.PourOntoTargetTask">
+<area shape="rect" id="Node000001" title=" " alt="" coords="14,1237,194,1451"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_player_tasks_1_1_tasks_1_1_pour_water_task.html" title=" " alt="" coords="14,1499,194,1728"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="106,1465,106,1499,101,1499,101,1465"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_player_tasks_1_1_tasks_1_1_pour_into_pot_task.html" title=" " alt="" coords="14,848,193,1189"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,1204,106,1238,101,1238,101,1204"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_player_tasks_1_1_task.html" title=" " alt="" coords="5,5,202,800"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="106,815,106,848,101,848,101,815"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="ScheduleOne.Map.AutoshopAccessZone" name="ScheduleOne.Map.AutoshopAccessZone">
+<area shape="rect" id="Node000001" title=" " alt="" coords="20,629,196,779"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_map_1_1_n_p_c_presence_access_zone.html" title=" " alt="" coords="5,389,211,581"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,596,111,630,106,630,106,596"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_map_1_1_access_zone.html" title=" " alt="" coords="11,123,206,341"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,356,111,389,106,389,106,356"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="58,5,158,75"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="111,90,111,123,106,123,106,90"/>
+</map>

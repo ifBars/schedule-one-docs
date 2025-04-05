@@ -1,0 +1,10 @@
+<map id="ScheduleOne.Cutscenes.CutsceneManager" name="ScheduleOne.Cutscenes.CutsceneManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="86,492,302,641"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_dev_utilities_1_1_singleton-1-g.html" title=" " alt="" coords="5,180,170,372"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,385,170,491,165,493,125,387"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="144,5,245,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="175,89,133,182,128,179,171,87"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_cutscenes_1_1_cutscene.html" title=" " alt="" coords="194,124,410,428"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="218,87,235,123,230,125,213,89"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="248,429,230,477,225,476,243,427"/>
+</map>

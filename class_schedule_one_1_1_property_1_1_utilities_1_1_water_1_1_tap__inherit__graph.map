@@ -1,0 +1,7 @@
+<map id="ScheduleOne.Property.Utilities.Water.Tap" name="ScheduleOne.Property.Utilities.Water.Tap">
+<area shape="rect" id="Node000001" title=" " alt="" coords="13,187,305,1813"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,37,123,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,121,78,187,73,187,66,122"/>
+<area shape="rect" id="Node000003" href="$interface_schedule_one_1_1_management_1_1_i_usable.html" title=" " alt="" coords="146,5,363,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="249,154,246,187,240,187,244,153"/>
+</map>

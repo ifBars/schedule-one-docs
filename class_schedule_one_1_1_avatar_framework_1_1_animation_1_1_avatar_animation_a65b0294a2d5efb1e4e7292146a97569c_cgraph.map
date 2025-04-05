@@ -1,0 +1,12 @@
+<map id="ScheduleOne.AvatarFramework.Animation.AvatarAnimation.SkateboardDismounted" name="ScheduleOne.AvatarFramework.Animation.AvatarAnimation.SkateboardDismounted">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,255,89"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_avatar_framework_1_1_animation_1_1_avatar_animation.html#ac7f09c33d82632eac53a45c7d7f61a4f" title=" " alt="" coords="637,5,866,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="255,51,622,31,622,36,255,56"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_avatar_framework_1_1_animation_1_1_avatar_animation.html#a733f8b5374c77e66013a12810db309e3" title=" " alt="" coords="303,68,582,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="255,69,287,72,287,77,255,74"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_avatar_framework_1_1_animation_1_1_avatar_animation.html#a3a96be7d774333d07915d0dbb7a21bce" title=" " alt="" coords="921,31,1147,89"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="867,38,906,42,905,48,866,43"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_avatar_framework_1_1_animation_1_1_avatar_animation.html#a7bb46cc2741e6d78783a8d3b6ddd71df" title=" " alt="" coords="630,72,873,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="583,88,614,89,614,94,583,94"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="873,76,905,72,906,78,874,82"/>
+</map>

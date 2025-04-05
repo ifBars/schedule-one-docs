@@ -1,0 +1,16 @@
+<map id="ScheduleOne.ObjectScripts.WateringCan.StoredItem_WateringCan" name="ScheduleOne.ObjectScripts.WateringCan.StoredItem_WateringCan">
+<area shape="rect" id="Node000001" title=" " alt="" coords="159,1708,335,1809"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_storage_1_1_stored_item.html" title=" " alt="" coords="9,828,243,1644"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,1658,238,1708,233,1709,221,1659"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="250,5,351,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="236,56,205,66,175,81,147,100,125,126,82,205,50,290,28,379,14,469,9,561,10,652,16,742,26,828,21,828,11,742,4,653,3,561,9,469,23,378,45,289,77,203,121,122,143,96,172,76,203,61,234,51"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_interaction_1_1_interactable_object.html" title=" " alt="" coords="135,177,293,711"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="292,90,273,178,268,177,287,89"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_object_scripts_1_1_watering_can_1_1_watering_can_visuals.html" title=" " alt="" coords="267,1119,475,1353"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="309,89,310,98,331,386,348,671,369,1119,364,1119,343,671,326,386,304,99,303,90"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_audio_1_1_audio_source_controller.html" title=" " alt="" coords="366,124,570,764"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="343,85,351,97,369,132,364,134,346,100,338,88"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="187,711,175,812,170,811,181,710"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="346,1353,265,1692,260,1691,341,1352"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="432,764,390,1102,385,1101,426,763"/>
+</map>

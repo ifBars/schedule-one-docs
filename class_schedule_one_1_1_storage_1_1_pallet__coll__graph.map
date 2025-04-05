@@ -1,0 +1,16 @@
+<map id="ScheduleOne.Storage.Pallet" name="ScheduleOne.Storage.Pallet">
+<area shape="rect" id="Node000001" title=" " alt="" coords="219,620,453,1863"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,316,123,385"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,399,222,857,217,859,76,401"/>
+<area shape="rect" id="Node000003" href="$interface_schedule_one_1_1_storage_1_1_i_storage_entity.html" title=" " alt="" coords="147,191,381,511"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="281,525,289,620,283,620,276,526"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_storage_1_1_storage_grid.html" title=" " alt="" coords="406,145,616,556"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="473,556,459,629,454,628,468,555"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="499,16,600,85"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="546,100,540,146,535,145,541,99"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_storage_1_1_pallet_slot.html" title=" " alt="" coords="640,273,838,428"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="592,95,630,144,670,209,705,272,700,275,666,211,626,147,588,98"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="707,429,462,968,458,966,702,427"/>
+<area shape="rect" id="Node000007" href="$interface_schedule_one_1_1_i_g_u_i_d_registerable.html" title=" " alt="" coords="637,5,841,96"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="742,111,742,274,736,274,736,111"/>
+</map>

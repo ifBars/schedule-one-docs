@@ -1,0 +1,9 @@
+<map id="ScheduleOne.ConstructableScripts.EmployeeTrailer" name="ScheduleOne.ConstructableScripts.EmployeeTrailer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="28,3067,292,3365"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_constructable_scripts_1_1_constructable___grid_based.html" title=" " alt="" coords="5,1451,314,3019"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,3034,162,3067,157,3067,157,3034"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_constructable_scripts_1_1_constructable.html" title=" " alt="" coords="28,123,292,1403"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="162,1418,162,1451,157,1451,157,1418"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="101,5,219,75"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="162,90,162,123,157,123,157,90"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ScheduleOne.AvatarFramework.Avatar.ApplyHairSettings" name="ScheduleOne.AvatarFramework.Avatar.ApplyHairSettings">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,216,48"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_avatar_framework_1_1_avatar.html#a28eb8bad12fa0d64866a6884c2fd4505" title=" " alt="" coords="264,5,474,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,24,248,24,248,29,216,29"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_avatar_framework_1_1_avatar.html#afaedb678e1854f3dfdb8c8b0b0110ff4" title=" " alt="" coords="522,5,732,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="475,24,506,24,506,29,475,29"/>
+</map>

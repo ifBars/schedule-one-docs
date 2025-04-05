@@ -1,0 +1,19 @@
+digraph "ScheduleOne.Employees.Botanist.NetworkInitializeIfDisabled"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.Employees.Botanist.\lNetworkInitializeIfDisabled",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Employees.Botanist.\lNetworkInitialize___Early",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_employees_1_1_botanist.html#a754bd546286e0e42ca1bb139a33fbfc1",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Employees.Botanist.\lReadSyncVar___ScheduleOne\l_002EEmployees_002EBotanist",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_employees_1_1_botanist.html#ad8b18c9feab356397f34c1457b27c1f1",tooltip=" "];
+  Node2 -> Node4 [id="edge3_Node000002_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.Employees.Botanist.\lRpcReader___Server_SetConfigurer\l_3323014238",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_employees_1_1_botanist.html#ae657859e96cb1a39043c78b2738ce55c",tooltip=" "];
+  Node4 -> Node5 [id="edge4_Node000004_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.Employees.Botanist.\lRpcLogic___SetConfigurer_3323014238",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_employees_1_1_botanist.html#ad053101e0962f1408ae1db5e99799329",tooltip=" "];
+  Node1 -> Node6 [id="edge5_Node000001_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="ScheduleOne.Employees.Botanist.\lNetworkInitialize__Late",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_employees_1_1_botanist.html#aa023fc32e3927a54e28d686d4a621fc1",tooltip=" "];
+}

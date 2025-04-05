@@ -1,0 +1,9 @@
+<map id="ScheduleOne.UI.Phone.Delivery.DeliveryApp" name="ScheduleOne.UI.Phone.Delivery.DeliveryApp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,928,217,1499"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_u_i_1_1_app-1-g.html" title=" " alt="" coords="18,363,204,880"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,895,114,928,109,928,109,895"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_dev_utilities_1_1_player_singleton-1-g.html" title=" " alt="" coords="29,123,194,315"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="114,329,114,363,109,363,109,329"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="61,5,162,75"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="114,90,114,123,109,123,109,90"/>
+</map>

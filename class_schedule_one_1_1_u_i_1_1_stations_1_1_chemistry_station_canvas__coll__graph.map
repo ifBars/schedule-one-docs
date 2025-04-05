@@ -1,0 +1,13 @@
+<map id="ScheduleOne.UI.Stations.ChemistryStationCanvas" name="ScheduleOne.UI.Stations.ChemistryStationCanvas">
+<area shape="rect" id="Node000001" title=" " alt="" coords="191,716,382,1335"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_dev_utilities_1_1_singleton-1-g.html" title=" " alt="" coords="5,276,170,468"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,481,195,716,190,717,118,483"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="236,5,337,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="226,84,204,103,184,126,162,161,142,200,113,277,108,275,137,198,157,159,180,122,200,100,223,80"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_u_i_1_1_stations_1_1_station_recipe_entry.html" title=" " alt="" coords="194,212,378,532"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="289,89,289,212,284,212,284,89"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_u_i_1_1_item_slot_u_i.html" title=" " alt="" coords="403,124,591,620"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="350,81,392,122,405,140,401,143,388,126,346,84"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="289,532,289,699,284,699,284,532"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="461,620,441,693,418,758,391,822,386,820,413,756,436,691,455,619"/>
+</map>

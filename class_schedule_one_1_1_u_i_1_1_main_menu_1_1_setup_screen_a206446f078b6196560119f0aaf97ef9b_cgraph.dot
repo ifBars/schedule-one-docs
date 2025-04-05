@@ -1,0 +1,25 @@
+digraph "ScheduleOne.UI.MainMenu.SetupScreen.Start"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.UI.MainMenu.\lSetupScreen.Start",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.UI.MainMenu.\lSetupScreen.StartGame",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_main_menu_1_1_setup_screen.html#a819cc2c2eeb9bd589ac3b54e5385a8d5",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.UI.MainMenu.\lSetupScreen.ClearFolderContents",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_main_menu_1_1_setup_screen.html#a875a24703976c9518d0e7360cbdd0515",tooltip=" "];
+  Node2 -> Node4 [id="edge3_Node000002_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.UI.MainMenu.\lSetupScreen.CopyDefaultSaveTo\lFolder",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_main_menu_1_1_setup_screen.html#a73a9c88b55b4d5a43a3820fffb598e6b",tooltip=" "];
+  Node4 -> Node5 [id="edge4_Node000004_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.UI.MainMenu.\lSetupScreen.CopyFilesRecursively",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_main_menu_1_1_setup_screen.html#a22f4454e7fa80cd093cee41f107400d4",tooltip=" "];
+  Node2 -> Node6 [id="edge5_Node000002_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="ScheduleOne.Persistence.\lDatas.SaveData.GetJson",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_persistence_1_1_datas_1_1_save_data.html#a6f07a5b222bd81946af2db8c6d67e861",tooltip=" "];
+  Node6 -> Node7 [id="edge6_Node000006_Node000007",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="ScheduleOne.Console.LogError",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_console.html#af815c154f3082a5bf25f62c7cc93fad2",tooltip=" "];
+  Node2 -> Node8 [id="edge7_Node000002_Node000008",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="ScheduleOne.UI.MainMenu.\lSetupScreen.IsInputValid",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_main_menu_1_1_setup_screen.html#a955a49965357ddb9d5fc5c1a8f124825",tooltip=" "];
+  Node2 -> Node9 [id="edge8_Node000002_Node000009",color="steelblue1",style="solid",tooltip=" "];
+  Node9 [id="Node000009",label="ScheduleOne.Console.LogWarning",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_console.html#a4af4a471d16b1029b44a8121bf41d45c",tooltip=" "];
+}

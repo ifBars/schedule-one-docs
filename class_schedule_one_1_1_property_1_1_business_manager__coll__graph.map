@@ -1,0 +1,16 @@
+<map id="ScheduleOne.Property.BusinessManager" name="ScheduleOne.Property.BusinessManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="146,780,344,1079"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_dev_utilities_1_1_singleton-1-g.html" title=" " alt="" coords="5,524,170,716"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,728,172,779,167,781,141,731"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="37,205,138,275"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="90,289,90,524,85,524,85,289"/>
+<area shape="rect" id="Node000004" href="$interface_schedule_one_1_1_persistence_1_1_i_base_saveable.html" title=" " alt="" coords="245,577,410,663"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="315,677,287,781,282,779,310,676"/>
+<area shape="rect" id="Node000005" href="$interface_schedule_one_1_1_persistence_1_1_i_saveable.html" title=" " alt="" coords="184,5,352,475"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="238,490,236,524,233,620,236,716,238,780,233,780,230,716,227,620,230,524,233,490"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="310,489,324,577,318,578,304,490"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_businesses_loader.html" title=" " alt="" coords="434,577,602,663"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="484,664,358,806,354,802,480,660"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_loader.html" title=" " alt="" coords="436,165,601,315"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="521,330,521,578,516,578,516,330"/>
+</map>

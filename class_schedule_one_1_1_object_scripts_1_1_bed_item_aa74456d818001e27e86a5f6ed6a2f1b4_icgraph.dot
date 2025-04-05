@@ -1,0 +1,13 @@
+digraph "ScheduleOne.ObjectScripts.BedItem.NetworkInitialize___Early"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="ScheduleOne.ObjectScripts.\lBedItem.NetworkInitialize\l___Early",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.ObjectScripts.\lBedItem.Awake",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_object_scripts_1_1_bed_item.html#a56eafc6aee8b9e12cc321bbd1c3ffe00",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.ObjectScripts.\lBedItem.NetworkInitializeIfDisabled",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_object_scripts_1_1_bed_item.html#a2aa62d4cf169c65940ed1092fa89e5d1",tooltip=" "];
+}

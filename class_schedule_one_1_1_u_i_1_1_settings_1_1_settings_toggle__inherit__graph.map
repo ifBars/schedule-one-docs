@@ -1,0 +1,13 @@
+<map id="ScheduleOne.UI.Settings.SettingsToggle" name="ScheduleOne.UI.Settings.SettingsToggle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="285,123,448,229"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_u_i_1_1_settings_1_1_god_rays_toggle.html" title=" " alt="" coords="5,277,168,384"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="274,230,181,280,169,286,166,282,179,275,271,225"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_u_i_1_1_settings_1_1_invert_y_toggle.html" title=" " alt="" coords="192,277,355,384"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="329,243,307,279,303,276,325,241"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_u_i_1_1_settings_1_1_s_s_a_o_toggle.html" title=" " alt="" coords="379,277,541,384"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="409,241,431,276,426,279,404,243"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_u_i_1_1_settings_1_1_v_sync_toggle.html" title=" " alt="" coords="565,277,728,384"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="462,225,555,275,567,282,564,286,552,280,460,230"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="316,5,417,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="369,90,369,123,364,123,364,90"/>
+</map>

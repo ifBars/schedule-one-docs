@@ -1,0 +1,8 @@
+<map id="ScheduleOne.Tools.WheelRotator" name="ScheduleOne.Tools.WheelRotator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,828,213,1025"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="54,5,154,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,89,111,828,106,828,101,89"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_audio_1_1_audio_source_controller.html" title=" " alt="" coords="125,124,328,764"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="121,88,132,123,127,125,116,90"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="151,764,140,812,134,811,146,763"/>
+</map>

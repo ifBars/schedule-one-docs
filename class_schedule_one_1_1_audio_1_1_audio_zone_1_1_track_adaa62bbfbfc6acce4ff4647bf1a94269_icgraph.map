@@ -1,0 +1,7 @@
+<map id="ScheduleOne.Audio.AudioZone.Track.UpdateTimeMultiplier" name="ScheduleOne.Audio.AudioZone.Track.UpdateTimeMultiplier">
+<area shape="rect" id="Node000001" title=" " alt="" coords="514,5,720,48"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_audio_1_1_audio_zone.html#ade893c917883e7de09431a4c2fbbc162" title=" " alt="" coords="260,5,466,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="498,29,466,29,466,24,498,24"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_audio_1_1_audio_zone.html#addeb71a24513687a48c1c914f39d565e" title=" " alt="" coords="5,5,212,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="244,29,212,29,212,24,244,24"/>
+</map>

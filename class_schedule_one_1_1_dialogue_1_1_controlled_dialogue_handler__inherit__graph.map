@@ -1,0 +1,13 @@
+<map id="ScheduleOne.Dialogue.ControlledDialogueHandler" name="ScheduleOne.Dialogue.ControlledDialogueHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="224,1189,431,1403"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_dialogue_1_1_dialogue_handler___estate_agent.html" title=" " alt="" coords="5,1451,204,1664"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="229,1416,197,1453,193,1449,225,1412"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_dialogue_1_1_dialogue_handler___police.html" title=" " alt="" coords="228,1461,427,1653"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="330,1418,330,1462,325,1462,325,1418"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_dialogue_1_1_dialogue_handler___vehicle_salesman.html" title=" " alt="" coords="451,1451,649,1664"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="430,1412,462,1449,457,1453,426,1416"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_dialogue_1_1_dialogue_handler.html" title=" " alt="" coords="219,123,436,1141"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="330,1156,330,1190,325,1190,325,1156"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="277,5,378,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="330,89,330,123,325,123,325,89"/>
+</map>

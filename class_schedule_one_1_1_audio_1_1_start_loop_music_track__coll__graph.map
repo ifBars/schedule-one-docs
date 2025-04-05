@@ -1,0 +1,11 @@
+<map id="ScheduleOne.Audio.StartLoopMusicTrack" name="ScheduleOne.Audio.StartLoopMusicTrack">
+<area shape="rect" id="Node000001" title=" " alt="" coords="85,1245,270,1373"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_audio_1_1_music_track.html" title=" " alt="" coords="5,828,203,1196"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,1210,165,1245,159,1246,151,1211"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="70,5,170,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="122,90,110,828,105,828,117,89"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_audio_1_1_audio_source_controller.html" title=" " alt="" coords="141,124,345,764"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="137,88,148,123,143,125,132,90"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="254,764,245,978,234,1089,217,1197,209,1230,204,1228,212,1195,228,1088,239,978,248,764"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="167,765,156,812,150,811,162,763"/>
+</map>

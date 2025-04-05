@@ -1,0 +1,7 @@
+<map id="ScheduleOne.UI.Construction.ConstructionMenu" name="ScheduleOne.UI.Construction.ConstructionMenu">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,363,210,1333"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_dev_utilities_1_1_singleton-1-g.html" title=" " alt="" coords="26,123,190,315"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,330,110,363,105,363,105,330"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="58,5,158,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="110,90,110,123,105,123,105,90"/>
+</map>

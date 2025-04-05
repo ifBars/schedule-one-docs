@@ -1,0 +1,13 @@
+digraph "ScheduleOne.Vehicles.AI.NavigationUtility.GenerateNavigationGroup"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.Vehicles.AI.\lNavigationUtility.GenerateNavigationGroup",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.DevUtilities.\lAstarUtility.GetClosestPointOnGraph",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_dev_utilities_1_1_astar_utility.html#ae0969891a761589978de946e763d0d88",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Vehicles.AI.\lNavigationUtility.PathGroupEvent",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_vehicles_1_1_a_i_1_1_navigation_utility.html#a4a22344cc9e3a128d755c45b9d6d5463",tooltip=" "];
+}

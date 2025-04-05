@@ -1,0 +1,15 @@
+digraph "ScheduleOne.NPCs.Behaviour.CallPoliceBehaviour.RefreshIcon"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="ScheduleOne.NPCs.Behaviour.\lCallPoliceBehaviour.RefreshIcon",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.NPCs.Behaviour.\lCallPoliceBehaviour.Begin",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_behaviour_1_1_call_police_behaviour.html#a3fb015e9f1d2d90c372ba51229cc2043",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.NPCs.Behaviour.\lCallPoliceBehaviour.BehaviourUpdate",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_behaviour_1_1_call_police_behaviour.html#ae56b1493187a57433408ea850416a274",tooltip=" "];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.NPCs.Behaviour.\lCallPoliceBehaviour.Resume",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_behaviour_1_1_call_police_behaviour.html#a751e0bb6cec798b31ca267e7818559b3",tooltip=" "];
+}

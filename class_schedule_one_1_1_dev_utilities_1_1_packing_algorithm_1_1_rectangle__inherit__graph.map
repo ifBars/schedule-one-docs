@@ -1,0 +1,5 @@
+<map id="ScheduleOne.DevUtilities.PackingAlgorithm.Rectangle" name="ScheduleOne.DevUtilities.PackingAlgorithm.Rectangle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="22,5,198,197"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_dev_utilities_1_1_packing_algorithm_1_1_stored_item_data.html" title=" " alt="" coords="5,245,214,395"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,212,112,246,107,246,107,212"/>
+</map>

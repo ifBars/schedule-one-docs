@@ -1,0 +1,10 @@
+<map id="ScheduleOne.UI.HintDisplay" name="ScheduleOne.UI.HintDisplay">
+<area shape="rect" id="Node000001" title=" " alt="" coords="96,657,274,1196"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_dev_utilities_1_1_singleton-1-g.html" title=" " alt="" coords="5,263,170,455"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,469,142,657,136,658,104,470"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="135,5,235,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="173,90,119,264,114,262,168,88"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_u_i_1_1_input_1_1_input_prompt.html" title=" " alt="" coords="194,124,376,593"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="203,88,214,123,209,125,198,90"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="246,594,238,642,233,641,241,593"/>
+</map>

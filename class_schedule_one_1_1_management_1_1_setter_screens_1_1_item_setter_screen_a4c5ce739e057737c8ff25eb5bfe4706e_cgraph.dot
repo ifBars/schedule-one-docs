@@ -1,0 +1,31 @@
+digraph "ScheduleOne.Management.SetterScreens.ItemSetterScreen.Awake"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.Management.Setter\lScreens.ItemSetterScreen.Awake",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Management.Setter\lScreens.ItemSetterScreen.AllClicked",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_management_1_1_setter_screens_1_1_item_setter_screen.html#a53a55d30ae80185d3ffd309ae7d1bce1",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Management.Setter\lScreens.ItemSetterScreen.RefreshTicks",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_management_1_1_setter_screens_1_1_item_setter_screen.html#ad9f165a78500c91596dcbcca644b1967",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.Management.Setter\lScreens.ItemSetterScreen.SetEntry\lTicked",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_management_1_1_setter_screens_1_1_item_setter_screen.html#a4930086162d512c34818e682ab914626",tooltip=" "];
+  Node1 -> Node5 [id="edge4_Node000001_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.Management.Setter\lScreens.ItemSetterScreen.Close",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_management_1_1_setter_screens_1_1_item_setter_screen.html#ac238bb2dff5130a23689ec299caa6310",tooltip=" "];
+  Node5 -> Node6 [id="edge5_Node000005_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="ScheduleOne.Management.Setter\lScreens.ItemSetterScreen.Destroy\lEntries",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_management_1_1_setter_screens_1_1_item_setter_screen.html#a831e9444411f5b6a44fce35cf05b4503",tooltip=" "];
+  Node1 -> Node7 [id="edge6_Node000001_Node000007",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="ScheduleOne.Management.Setter\lScreens.ItemSetterScreen.CreateEntry",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_management_1_1_setter_screens_1_1_item_setter_screen.html#ac201e8b6465d322316419211cfab2100",tooltip=" "];
+  Node1 -> Node8 [id="edge7_Node000001_Node000008",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="ScheduleOne.Management.Setter\lScreens.ItemSetterScreen.Exit",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_management_1_1_setter_screens_1_1_item_setter_screen.html#af0f1fd1cd84c934873a0447d24183ac4",tooltip=" "];
+  Node8 -> Node5 [id="edge8_Node000008_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node1 -> Node9 [id="edge9_Node000001_Node000009",color="steelblue1",style="solid",tooltip=" "];
+  Node9 [id="Node000009",label="ScheduleOne.Management.Setter\lScreens.ItemSetterScreen.NoneClicked",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_management_1_1_setter_screens_1_1_item_setter_screen.html#a1281c89a0314cea66e84fc2f2b5aa595",tooltip=" "];
+  Node9 -> Node3 [id="edge10_Node000009_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node1 -> Node10 [id="edge11_Node000001_Node000010",color="steelblue1",style="solid",tooltip=" "];
+  Node10 [id="Node000010",label="ScheduleOne.GameInput.Register\lExitListener",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_game_input.html#a5d295f64af4087d5ced05f197db7132f",tooltip=" "];
+  Node10 -> Node11 [id="edge12_Node000010_Node000011",color="steelblue1",style="solid",tooltip=" "];
+  Node11 [id="Node000011",label="ScheduleOne.GameInput.Exit\lDelegate",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_game_input.html#adc37a272366740397766d17658a93fd3",tooltip=" "];
+}

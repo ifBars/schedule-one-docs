@@ -1,0 +1,23 @@
+digraph "ScheduleOne.UI.Stations.MixingStationCanvas.StationContentsChanged"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="ScheduleOne.UI.Stations.\lMixingStationCanvas.StationContents\lChanged",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.UI.Stations.\lMixingStationCanvas.Close",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_stations_1_1_mixing_station_canvas.html#a9fdf4a2bba1426b660cc6a73f444c3c5",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.UI.Stations.\lMixingStationCanvas.BeginButton\lPressed",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_stations_1_1_mixing_station_canvas.html#ac5629dc8817c1741bfc1b309db02cc80",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.UI.Stations.\lMixingStationCanvas.Awake",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_stations_1_1_mixing_station_canvas.html#a785e4fbb7fe7df93ad13007e76ddfa6d",tooltip=" "];
+  Node3 -> Node5 [id="edge4_Node000003_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.UI.Stations.\lMixingStationCanvas.Update",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_stations_1_1_mixing_station_canvas.html#ae535bcb0cb01734ca7a7a8f3cc0ca26b",tooltip=" "];
+  Node2 -> Node6 [id="edge5_Node000002_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="ScheduleOne.UI.Stations.\lMixingStationCanvas.Exit",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_stations_1_1_mixing_station_canvas.html#a1ee9c253fe3958be9b88ba2975bbbe83",tooltip=" "];
+  Node6 -> Node7 [id="edge6_Node000006_Node000007",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="ScheduleOne.UI.Stations.\lMixingStationCanvas.Start",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_stations_1_1_mixing_station_canvas.html#a2755f7b5f2e6399a6821f901ab9e1aad",tooltip=" "];
+  Node1 -> Node8 [id="edge7_Node000001_Node000008",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="ScheduleOne.UI.Stations.\lMixingStationCanvas.Open",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_stations_1_1_mixing_station_canvas.html#a2a0d20b3dae168a54debd0aa0abe5067",tooltip=" "];
+}

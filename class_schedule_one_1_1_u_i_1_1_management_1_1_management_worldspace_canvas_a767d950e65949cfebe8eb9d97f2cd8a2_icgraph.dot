@@ -1,0 +1,13 @@
+digraph "ScheduleOne.UI.Management.ManagementWorldspaceCanvas.UpdateInputPrompt"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="ScheduleOne.UI.Management.\lManagementWorldspaceCanvas.Update\lInputPrompt",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.UI.Management.\lManagementWorldspaceCanvas.Open",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_management_1_1_management_worldspace_canvas.html#a0d61179bffe2a3276166a6a48d0d3f72",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.UI.Management.\lManagementWorldspaceCanvas.Update",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_management_1_1_management_worldspace_canvas.html#ab53b2b1f61988bf720263a1863a61b14",tooltip=" "];
+}

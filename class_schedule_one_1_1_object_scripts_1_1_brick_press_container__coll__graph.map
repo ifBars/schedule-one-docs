@@ -1,0 +1,20 @@
+<map id="ScheduleOne.ObjectScripts.BrickPressContainer" name="ScheduleOne.ObjectScripts.BrickPressContainer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="8,523,184,651"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,232,106,301"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="64,315,90,523,85,523,59,316"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_packaging_1_1_filled_packaging_visuals.html" title=" " alt="" coords="131,373,319,459"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="107,309,179,372,176,376,104,313"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="195,460,156,511,152,508,191,457"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_packaging_1_1_filled_packaging_visuals_1_1_weed_visuals.html" title=" " alt="" coords="578,224,773,309"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="579,307,567,312,450,352,336,386,335,381,448,347,565,307,578,302"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_packaging_1_1_filled_packaging_visuals_1_1_base_visuals.html" title=" " alt="" coords="353,16,545,101"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="507,109,632,222,629,226,504,113"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_packaging_1_1_filled_packaging_visuals_1_1_meth_visuals.html" title=" " alt="" coords="130,224,320,309"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="395,113,272,226,268,222,391,109"/>
+<area shape="rect" id="Node000008" href="$class_schedule_one_1_1_packaging_1_1_filled_packaging_visuals_1_1_cocaine_visuals.html" title=" " alt="" coords="344,224,554,309"/>
+<area shape="poly" id="edge10_Node000008_Node000005" title=" " alt="" coords="452,116,452,224,446,224,446,116"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_packaging_1_1_filled_packaging_visuals_1_1_mesh_index_pair.html" title=" " alt="" coords="573,5,778,112"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="678,112,678,207,673,207,673,112"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="228,309,228,356,222,356,222,309"/>
+<area shape="poly" id="edge9_Node000003_Node000008" title=" " alt="" coords="387,311,304,366,301,362,385,307"/>
+</map>

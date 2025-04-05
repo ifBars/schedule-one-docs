@@ -1,0 +1,7 @@
+<map id="ScheduleOne.NPCs.Behaviour.BagTrashCanBehaviour" name="ScheduleOne.NPCs.Behaviour.BagTrashCanBehaviour">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1541,299,2379"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_n_p_cs_1_1_behaviour_1_1_behaviour.html" title=" " alt="" coords="16,123,288,1493"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,1508,155,1542,150,1542,150,1508"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="94,5,211,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="155,90,155,123,150,123,150,90"/>
+</map>

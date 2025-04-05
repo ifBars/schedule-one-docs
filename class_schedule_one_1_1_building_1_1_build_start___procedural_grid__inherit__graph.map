@@ -1,0 +1,7 @@
+<map id="ScheduleOne.Building.BuildStart_ProceduralGrid" name="ScheduleOne.Building.BuildStart_ProceduralGrid">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,256,177,363"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_building_1_1_build_start___base.html" title=" " alt="" coords="5,123,177,208"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,223,94,256,88,256,88,223"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="41,5,142,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="94,89,94,123,88,123,88,89"/>
+</map>

@@ -1,0 +1,13 @@
+digraph "ScheduleOne.EntityFramework.BuildableItem.ReceiveBuildableItemData"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.EntityFramework.\lBuildableItem.ReceiveBuildableItemData",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.EntityFramework.\lBuildableItem.RpcWriter\l___Observers_ReceiveBuildableItem\lData_3859851844",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_entity_framework_1_1_buildable_item.html#ae63b85a5e2e4c0856ed540462d7cff3a",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.EntityFramework.\lBuildableItem.RpcWriter\l___Target_ReceiveBuildableItemData\l_3859851844",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_entity_framework_1_1_buildable_item.html#a1c4bb3c0e0b2a8960387a200e62a8e09",tooltip=" "];
+}

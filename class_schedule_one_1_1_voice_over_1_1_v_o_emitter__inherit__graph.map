@@ -1,0 +1,7 @@
+<map id="ScheduleOne.VoiceOver.VOEmitter" name="ScheduleOne.VoiceOver.VOEmitter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,123,223,384"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_voice_over_1_1_police_chatter_v_o.html" title=" " alt="" coords="18,432,210,603"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="117,399,117,432,112,432,112,399"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="64,5,164,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,89,117,123,112,123,112,89"/>
+</map>

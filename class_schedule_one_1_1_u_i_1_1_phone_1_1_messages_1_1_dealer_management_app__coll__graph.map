@@ -1,0 +1,12 @@
+<map id="ScheduleOne.UI.Phone.Messages.DealerManagementApp" name="ScheduleOne.UI.Phone.Messages.DealerManagementApp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="61,1251,277,1848"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_u_i_1_1_app-1-g.html" title=" " alt="" coords="5,684,191,1201"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,1216,137,1251,132,1251,128,1216"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_dev_utilities_1_1_player_singleton-1-g.html" title=" " alt="" coords="25,124,190,316"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="109,331,104,684,99,684,104,331"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="119,5,219,75"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="155,89,143,125,138,123,150,88"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_u_i_1_1_phone_1_1_customer_selector.html" title=" " alt="" coords="130,340,339,660"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="193,87,205,123,224,233,234,340,229,340,219,233,200,125,188,89"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="233,660,223,914,206,1202,204,1234,199,1233,201,1201,217,914,227,660"/>
+</map>

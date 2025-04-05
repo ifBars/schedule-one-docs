@@ -1,0 +1,9 @@
+<map id="ScheduleOne.Properties.MixMaps.Effect" name="ScheduleOne.Properties.MixMaps.Effect">
+<area shape="rect" id="Node000001" title=" " alt="" coords="22,599,199,705"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,295,106,364"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="66,378,104,598,99,599,61,379"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_properties_1_1_property.html" title=" " alt="" coords="130,124,339,535"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="158,535,139,584,134,582,153,533"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="181,5,288,75"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="237,89,237,124,232,124,232,89"/>
+</map>

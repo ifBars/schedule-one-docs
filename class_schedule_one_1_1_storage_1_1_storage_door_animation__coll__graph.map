@@ -1,0 +1,8 @@
+<map id="ScheduleOne.Storage.StorageDoorAnimation" name="ScheduleOne.Storage.StorageDoorAnimation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,844,192,1185"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="43,5,144,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,89,100,844,95,844,91,90"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_audio_1_1_audio_source_controller.html" title=" " alt="" coords="114,124,318,764"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="110,88,121,123,116,125,105,90"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,764,140,828,135,827,148,763"/>
+</map>

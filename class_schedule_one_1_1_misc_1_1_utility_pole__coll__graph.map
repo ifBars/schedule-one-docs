@@ -1,0 +1,9 @@
+<map id="ScheduleOne.Misc.UtilityPole" name="ScheduleOne.Misc.UtilityPole">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,636,225,1068"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="60,5,160,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,90,117,636,111,636,108,90"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_misc_1_1_utility_pole.html" title=" " alt="" coords="132,124,352,556"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="133,87,149,123,144,125,128,89"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="191,557,175,621,170,619,186,555"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="354,298,372,314,379,340,376,358,368,371,363,369,371,356,373,340,367,317,350,302"/>
+</map>

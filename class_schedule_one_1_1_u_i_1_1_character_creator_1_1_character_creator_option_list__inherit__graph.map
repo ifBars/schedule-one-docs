@@ -1,0 +1,9 @@
+<map id="ScheduleOne.UI.CharacterCreator.CharacterCreatorOptionList" name="ScheduleOne.UI.CharacterCreator.CharacterCreatorOptionList">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,560,222,795"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_u_i_1_1_character_creator_1_1_character_creator_field-1-g.html" title=" " alt="" coords="5,363,222,512"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,527,116,560,111,560,111,527"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_u_i_1_1_character_creator_1_1_base_character_creator_field.html" title=" " alt="" coords="6,123,222,315"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="116,329,116,363,111,363,111,329"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="63,5,164,75"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="116,90,116,123,111,123,111,90"/>
+</map>

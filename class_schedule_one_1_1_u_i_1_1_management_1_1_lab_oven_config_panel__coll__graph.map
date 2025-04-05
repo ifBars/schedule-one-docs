@@ -1,0 +1,10 @@
+<map id="ScheduleOne.UI.Management.LabOvenConfigPanel" name="ScheduleOne.UI.Management.LabOvenConfigPanel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="111,593,300,679"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_management_1_1_u_i_1_1_config_panel.html" title=" " alt="" coords="5,284,195,369"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,382,194,593,189,595,117,384"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="155,5,256,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="190,89,118,285,113,283,185,88"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_u_i_1_1_management_1_1_object_field_u_i.html" title=" " alt="" coords="219,124,408,529"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="226,88,240,123,235,125,221,90"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="245,530,228,578,223,577,240,528"/>
+</map>

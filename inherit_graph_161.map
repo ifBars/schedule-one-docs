@@ -1,0 +1,95 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_loader.html" title=" " alt="" coords="5,1239,182,1281"/>
+<area shape="rect" id="Node000001" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_buildable_item_loader.html" title=" " alt="" coords="243,405,432,448"/>
+<area shape="poly" id="edge1427_Node000000_Node000001" title=" " alt="" coords="93,1223,102,1060,124,832,142,715,164,608,192,519,209,485,228,458,241,446,244,450,232,462,214,488,197,521,169,609,147,716,129,832,108,1061,99,1223"/>
+<area shape="rect" id="Node000016" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_businesses_loader.html" title=" " alt="" coords="249,472,427,515"/>
+<area shape="poly" id="edge1442_Node000000_Node000016" title=" " alt="" coords="94,1223,105,1073,128,864,146,758,168,660,195,580,211,549,228,525,247,510,250,514,232,528,215,552,200,582,173,662,151,759,134,865,110,1073,99,1223"/>
+<area shape="rect" id="Node000017" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_cocaine_product_loader.html" title=" " alt="" coords="236,539,440,581"/>
+<area shape="poly" id="edge1443_Node000000_Node000017" title=" " alt="" coords="95,1223,108,1084,133,896,150,800,172,713,197,641,212,613,228,592,241,580,245,584,232,595,216,616,202,643,177,715,155,801,138,897,113,1085,100,1223"/>
+<area shape="rect" id="Node000018" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_deliveries_loader.html" title=" " alt="" coords="250,605,426,648"/>
+<area shape="poly" id="edge1444_Node000000_Node000018" title=" " alt="" coords="96,1223,110,1097,137,929,155,844,176,766,200,702,228,658,248,643,251,647,232,662,205,705,181,768,160,845,142,930,116,1098,101,1223"/>
+<area shape="rect" id="Node000019" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_game_data_loader.html" title=" " alt="" coords="250,672,426,715"/>
+<area shape="poly" id="edge1445_Node000000_Node000019" title=" " alt="" coords="97,1223,113,1110,141,961,159,887,180,819,202,763,228,725,247,710,251,714,232,728,207,766,185,821,164,888,146,962,119,1111,102,1224"/>
+<area shape="rect" id="Node000020" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_generic_saveables_loader.html" title=" " alt="" coords="230,739,446,781"/>
+<area shape="poly" id="edge1446_Node000000_Node000020" title=" " alt="" coords="92,1223,96,1136,103,1081,115,1021,132,959,156,899,187,842,228,791,243,780,246,784,232,795,192,845,161,901,137,961,120,1022,109,1082,102,1137,97,1223"/>
+<area shape="rect" id="Node000021" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_law_loader.html" title=" " alt="" coords="250,805,426,848"/>
+<area shape="poly" id="edge1447_Node000000_Node000021" title=" " alt="" coords="94,1223,102,1147,124,1050,141,998,164,947,192,900,228,858,247,844,251,848,231,862,197,903,168,950,146,1000,129,1051,108,1148,99,1224"/>
+<area shape="rect" id="Node000022" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_metadata_loader.html" title=" " alt="" coords="250,872,426,915"/>
+<area shape="poly" id="edge1448_Node000000_Node000022" title=" " alt="" coords="97,1223,109,1159,133,1079,150,1037,171,996,197,958,228,925,248,911,251,915,231,929,201,962,176,999,155,1039,138,1081,114,1160,102,1224"/>
+<area shape="rect" id="Node000023" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_meth_product_loader.html" title=" " alt="" coords="246,939,430,981"/>
+<area shape="poly" id="edge1449_Node000000_Node000023" title=" " alt="" coords="101,1223,117,1171,143,1109,179,1046,202,1017,228,991,245,980,248,984,231,995,206,1020,184,1049,147,1111,122,1173,106,1224"/>
+<area shape="rect" id="Node000024" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_money_loader.html" title=" " alt="" coords="250,1005,426,1048"/>
+<area shape="poly" id="edge1450_Node000000_Node000024" title=" " alt="" coords="107,1223,127,1185,153,1140,187,1096,228,1058,248,1046,251,1050,231,1062,191,1099,158,1143,131,1187,112,1226"/>
+<area shape="rect" id="Node000025" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_n_p_c_loader.html" title=" " alt="" coords="250,1072,426,1115"/>
+<area shape="poly" id="edge1451_Node000000_Node000025" title=" " alt="" coords="119,1225,166,1173,196,1147,228,1124,251,1113,254,1118,231,1129,199,1151,170,1177,122,1229"/>
+<area shape="rect" id="Node000031" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_n_p_cs_loader.html" title=" " alt="" coords="250,1139,426,1181"/>
+<area shape="poly" id="edge1457_Node000000_Node000031" title=" " alt="" coords="147,1229,229,1191,260,1179,262,1184,231,1196,149,1234"/>
+<area shape="rect" id="Node000032" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_player_loader.html" title=" " alt="" coords="250,1205,426,1248"/>
+<area shape="poly" id="edge1458_Node000000_Node000032" title=" " alt="" coords="197,1243,249,1236,250,1241,198,1249"/>
+<area shape="rect" id="Node000033" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_players_loader.html" title=" " alt="" coords="250,1272,426,1315"/>
+<area shape="poly" id="edge1459_Node000000_Node000033" title=" " alt="" coords="198,1271,250,1279,249,1284,197,1277"/>
+<area shape="rect" id="Node000034" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_product_manager_loader.html" title=" " alt="" coords="235,1339,440,1381"/>
+<area shape="poly" id="edge1460_Node000000_Node000034" title=" " alt="" coords="149,1286,231,1324,262,1336,260,1341,229,1329,147,1291"/>
+<area shape="rect" id="Node000035" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_properties_loader.html" title=" " alt="" coords="250,1405,426,1448"/>
+<area shape="poly" id="edge1461_Node000000_Node000035" title=" " alt="" coords="122,1291,170,1343,199,1369,231,1391,254,1402,251,1407,228,1396,196,1373,166,1347,119,1295"/>
+<area shape="rect" id="Node000036" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_property_loader.html" title=" " alt="" coords="250,1472,426,1515"/>
+<area shape="poly" id="edge1462_Node000000_Node000036" title=" " alt="" coords="112,1294,131,1333,158,1377,191,1421,231,1458,251,1470,248,1474,228,1462,187,1424,153,1380,127,1335,107,1297"/>
+<area shape="rect" id="Node000038" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_quests_loader.html" title=" " alt="" coords="250,1539,426,1581"/>
+<area shape="poly" id="edge1464_Node000000_Node000038" title=" " alt="" coords="106,1296,122,1347,147,1409,184,1471,206,1500,231,1525,251,1537,248,1542,228,1529,202,1503,179,1474,143,1411,117,1349,101,1297"/>
+<area shape="rect" id="Node000039" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_rank_loader.html" title=" " alt="" coords="250,1605,426,1648"/>
+<area shape="poly" id="edge1465_Node000000_Node000039" title=" " alt="" coords="102,1296,114,1360,138,1439,155,1481,176,1521,201,1558,231,1591,251,1605,248,1609,228,1595,197,1562,171,1524,150,1483,133,1441,109,1361,97,1297"/>
+<area shape="rect" id="Node000040" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_storage_loader.html" title=" " alt="" coords="250,1672,426,1715"/>
+<area shape="poly" id="edge1466_Node000000_Node000040" title=" " alt="" coords="99,1296,108,1372,129,1469,146,1520,168,1570,197,1617,231,1658,251,1672,247,1676,228,1662,192,1620,164,1573,141,1522,124,1470,102,1373,94,1297"/>
+<area shape="rect" id="Node000041" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_time_loader.html" title=" " alt="" coords="250,1739,426,1781"/>
+<area shape="poly" id="edge1467_Node000000_Node000041" title=" " alt="" coords="97,1297,102,1383,109,1438,120,1498,137,1559,161,1619,192,1675,232,1725,251,1739,248,1743,228,1729,187,1678,156,1621,132,1561,115,1499,103,1439,96,1384,92,1297"/>
+<area shape="rect" id="Node000042" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_trash_loader.html" title=" " alt="" coords="250,1805,426,1848"/>
+<area shape="poly" id="edge1468_Node000000_Node000042" title=" " alt="" coords="102,1296,119,1409,146,1558,164,1632,185,1699,207,1754,232,1792,251,1806,247,1810,228,1795,202,1757,180,1701,159,1633,141,1559,113,1410,97,1297"/>
+<area shape="rect" id="Node000043" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_variables_loader.html" title=" " alt="" coords="250,1872,426,1915"/>
+<area shape="poly" id="edge1469_Node000000_Node000043" title=" " alt="" coords="101,1297,116,1422,142,1590,160,1675,181,1752,205,1815,232,1858,251,1873,248,1877,228,1862,200,1818,176,1754,155,1676,137,1591,110,1423,96,1297"/>
+<area shape="rect" id="Node000044" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_vehicle_loader.html" title=" " alt="" coords="250,1939,426,1981"/>
+<area shape="poly" id="edge1470_Node000000_Node000044" title=" " alt="" coords="100,1297,113,1435,138,1623,155,1719,177,1805,202,1877,216,1904,232,1925,251,1940,248,1944,228,1929,212,1907,197,1879,172,1807,150,1720,133,1624,108,1436,95,1297"/>
+<area shape="rect" id="Node000045" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_vehicles_loader.html" title=" " alt="" coords="250,2005,426,2048"/>
+<area shape="poly" id="edge1471_Node000000_Node000045" title=" " alt="" coords="99,1297,110,1447,134,1655,151,1761,173,1858,200,1938,215,1968,232,1991,251,2007,248,2011,228,1995,211,1971,195,1940,168,1860,146,1762,128,1656,105,1447,94,1297"/>
+<area shape="rect" id="Node000046" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_weed_product_loader.html" title=" " alt="" coords="244,2072,432,2115"/>
+<area shape="poly" id="edge1472_Node000000_Node000046" title=" " alt="" coords="99,1297,108,1459,129,1688,147,1804,169,1911,197,1999,214,2032,232,2058,245,2070,241,2074,228,2062,209,2035,192,2001,164,1912,142,1805,124,1688,102,1460,93,1297"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_grid_item_loader.html" title=" " alt="" coords="517,372,693,415"/>
+<area shape="poly" id="edge1428_Node000001_Node000002" title=" " alt="" coords="447,410,516,402,517,407,448,416"/>
+<area shape="rect" id="Node000015" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_procedural_grid_item_loader.html" title=" " alt="" coords="494,439,716,481"/>
+<area shape="poly" id="edge1441_Node000001_Node000015" title=" " alt="" coords="448,438,494,443,493,449,447,443"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_brick_press_loader.html" title=" " alt="" coords="782,5,959,48"/>
+<area shape="poly" id="edge1429_Node000002_Node000003" title=" " alt="" coords="611,356,628,292,658,212,678,170,702,129,730,91,763,58,780,46,783,50,766,62,734,95,706,132,682,173,663,214,633,294,616,357"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_cauldron_loader.html" title=" " alt="" coords="782,72,959,115"/>
+<area shape="poly" id="edge1430_Node000002_Node000004" title=" " alt="" coords="616,356,636,305,668,242,710,179,735,150,763,125,781,113,784,117,766,129,739,154,714,182,672,245,641,307,621,358"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_chemistry_station_loader.html" title=" " alt="" coords="765,139,976,181"/>
+<area shape="poly" id="edge1431_Node000002_Node000005" title=" " alt="" coords="623,357,647,319,679,274,718,229,763,191,783,180,786,184,766,196,721,233,683,277,651,322,627,360"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_drying_rack_loader.html" title=" " alt="" coords="781,205,960,248"/>
+<area shape="poly" id="edge1432_Node000002_Node000006" title=" " alt="" coords="636,359,692,307,727,281,763,258,788,246,790,251,766,262,730,285,695,311,639,363"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_lab_oven_loader.html" title=" " alt="" coords="782,272,959,315"/>
+<area shape="poly" id="edge1433_Node000002_Node000007" title=" " alt="" coords="668,363,763,324,796,313,798,318,765,329,670,368"/>
+<area shape="rect" id="Node000008" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_mixing_station_loader.html" title=" " alt="" coords="776,339,965,381"/>
+<area shape="poly" id="edge1434_Node000002_Node000008" title=" " alt="" coords="709,378,775,369,776,375,709,383"/>
+<area shape="rect" id="Node000009" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_packaging_station_loader.html" title=" " alt="" coords="764,405,977,448"/>
+<area shape="poly" id="edge1435_Node000002_Node000009" title=" " alt="" coords="709,404,764,411,764,416,709,409"/>
+<area shape="rect" id="Node000010" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_pot_loader.html" title=" " alt="" coords="782,472,959,515"/>
+<area shape="poly" id="edge1436_Node000002_Node000010" title=" " alt="" coords="704,418,718,424,742,441,766,458,792,469,790,474,763,462,739,445,715,429,702,423"/>
+<area shape="rect" id="Node000011" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_soil_pourer_loader.html" title=" " alt="" coords="782,539,959,581"/>
+<area shape="poly" id="edge1437_Node000002_Node000011" title=" " alt="" coords="708,417,718,425,730,437,737,450,743,476,749,501,755,513,766,525,783,537,780,541,763,529,751,516,744,503,738,477,732,452,725,440,715,429,705,421"/>
+<area shape="rect" id="Node000012" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_storage_rack_loader.html" title=" " alt="" coords="777,605,964,648"/>
+<area shape="poly" id="edge1438_Node000002_Node000012" title=" " alt="" coords="709,417,718,425,734,446,742,468,743,510,744,551,751,571,766,591,780,603,777,607,762,595,747,574,739,552,738,510,736,469,729,449,714,428,705,421"/>
+<area shape="rect" id="Node000013" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_toggleable_item_loader.html" title=" " alt="" coords="771,672,970,715"/>
+<area shape="poly" id="edge1439_Node000002_Node000013" title=" " alt="" coords="708,416,718,425,738,455,747,485,747,514,743,543,739,572,740,601,747,629,766,658,779,670,776,674,762,662,742,632,734,602,734,572,738,543,742,514,741,485,734,457,714,428,705,420"/>
+<area shape="rect" id="Node000014" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_trash_container_loader.html" title=" " alt="" coords="771,739,970,781"/>
+<area shape="poly" id="edge1440_Node000002_Node000014" title=" " alt="" coords="708,416,718,425,743,464,752,502,750,540,743,577,736,614,735,651,743,688,766,725,779,736,775,740,762,728,738,690,729,651,731,613,738,576,745,539,746,502,738,466,714,428,705,419"/>
+<area shape="rect" id="Node000026" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_employee_loader.html" title=" " alt="" coords="517,1072,693,1115"/>
+<area shape="poly" id="edge1452_Node000025_Node000026" title=" " alt="" coords="442,1091,517,1091,517,1096,442,1096"/>
+<area shape="rect" id="Node000027" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_botanist_loader.html" title=" " alt="" coords="782,972,959,1015"/>
+<area shape="poly" id="edge1453_Node000026_Node000027" title=" " alt="" coords="668,1063,763,1024,796,1013,798,1018,765,1029,670,1068"/>
+<area shape="rect" id="Node000028" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_chemist_loader.html" title=" " alt="" coords="782,1039,959,1081"/>
+<area shape="poly" id="edge1454_Node000026_Node000028" title=" " alt="" coords="709,1078,782,1068,782,1074,710,1083"/>
+<area shape="rect" id="Node000029" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_cleaner_loader.html" title=" " alt="" coords="782,1105,959,1148"/>
+<area shape="poly" id="edge1455_Node000026_Node000029" title=" " alt="" coords="710,1104,782,1113,782,1118,709,1109"/>
+<area shape="rect" id="Node000030" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_packager_loader.html" title=" " alt="" coords="782,1172,959,1215"/>
+<area shape="poly" id="edge1456_Node000026_Node000030" title=" " alt="" coords="670,1119,765,1158,798,1169,796,1174,763,1162,668,1124"/>
+<area shape="rect" id="Node000037" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_business_loader.html" title=" " alt="" coords="517,1472,693,1515"/>
+<area shape="poly" id="edge1463_Node000036_Node000037" title=" " alt="" coords="442,1491,517,1491,517,1496,442,1496"/>
+</map>

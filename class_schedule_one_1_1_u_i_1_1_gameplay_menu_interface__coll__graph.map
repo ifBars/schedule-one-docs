@@ -1,0 +1,15 @@
+<map id="ScheduleOne.UI.GameplayMenuInterface" name="ScheduleOne.UI.GameplayMenuInterface">
+<area shape="rect" id="Node000001" title=" " alt="" coords="8,1292,210,1569"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_dev_utilities_1_1_singleton-1-g.html" title=" " alt="" coords="5,644,170,836"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,851,107,1292,102,1293,88,851"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="140,5,241,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="177,89,174,99,145,247,123,396,97,645,92,644,118,396,140,247,169,98,172,88"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_u_i_1_1_character_interface.html" title=" " alt="" coords="125,1015,293,1228"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="194,89,210,1015,205,1015,188,89"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_u_i_1_1_item_slot_u_i.html" title=" " alt="" coords="230,124,418,620"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="212,87,232,138,227,140,207,89"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="177,1229,162,1277,156,1275,172,1227"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_u_i_1_1_clothing_slot_u_i.html" title=" " alt="" coords="227,860,423,951"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="304,952,277,1001,272,999,299,949"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="327,635,328,860,322,860,322,635"/>
+</map>

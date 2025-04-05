@@ -1,0 +1,9 @@
+<map id="ScheduleOne.Audio.AmbientTrack" name="ScheduleOne.Audio.AmbientTrack">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,524,234,860"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="64,5,165,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,90,121,524,116,524,112,90"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_audio_1_1_ambient_track.html" title=" " alt="" coords="136,124,365,460"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="142,86,162,123,157,126,137,89"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,460,182,509,177,507,193,459"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="366,258,384,271,392,292,389,306,381,316,377,313,384,304,386,292,380,274,363,263"/>
+</map>

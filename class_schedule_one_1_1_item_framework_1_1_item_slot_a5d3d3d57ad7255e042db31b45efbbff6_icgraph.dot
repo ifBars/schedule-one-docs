@@ -1,0 +1,21 @@
+digraph "ScheduleOne.ItemFramework.ItemSlot.SetSlotOwner"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="ScheduleOne.ItemFramework.\lItemSlot.SetSlotOwner",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.NPCs.NPCInventory.\lAwake_UserLogic_ScheduleOne\l_002ENPCs_002ENPCInventory\l_Assembly_002DCSharp_002Edll",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_n_p_c_inventory.html#a85c9f4bfd25ea1a5da2a6c54c568fe75",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.NPCs.NPCInventory.\lAwake",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_n_p_c_inventory.html#a8a0c251fb9fd3173d659faa2a7d1c429",tooltip=" "];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.PlayerScripts.\lPlayerClothing.Awake_UserLogic\l_ScheduleOne_002EPlayerScripts\l_002EPlayerClothing_Assembly_002DCSharp_002Edll",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_player_scripts_1_1_player_clothing.html#a0e2b296e384f9320409f7d57bd3d795d",tooltip=" "];
+  Node4 -> Node5 [id="edge4_Node000004_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.PlayerScripts.\lPlayerClothing.Awake",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_player_scripts_1_1_player_clothing.html#aac75d2acaaa0b5b7497668f6253f16f5",tooltip=" "];
+  Node1 -> Node6 [id="edge5_Node000001_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="ScheduleOne.Storage.Storage\lEntity.Awake_UserLogic_Schedule\lOne_002EStorage_002EStorageEntity\l_Assembly_002DCSharp_002Edll",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_storage_1_1_storage_entity.html#afb1f2a08c555a9ec271c9675272f7b1c",tooltip=" "];
+  Node6 -> Node7 [id="edge6_Node000006_Node000007",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="ScheduleOne.Storage.Storage\lEntity.Awake",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_storage_1_1_storage_entity.html#ac7d7a3cbf8fe01e4d8d55b06665f02d6",tooltip=" "];
+}

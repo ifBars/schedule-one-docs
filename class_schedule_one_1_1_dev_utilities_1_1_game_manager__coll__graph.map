@@ -1,0 +1,18 @@
+<map id="ScheduleOne.DevUtilities.GameManager" name="ScheduleOne.DevUtilities.GameManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="331,1084,617,2119"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_dev_utilities_1_1_network_singleton-1-g.html" title=" " alt="" coords="5,524,316,1020"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="262,1033,334,1222,329,1224,257,1035"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="102,205,220,275"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="164,290,164,524,158,524,158,290"/>
+<area shape="rect" id="Node000004" href="$interface_schedule_one_1_1_persistence_1_1_i_base_saveable.html" title=" " alt="" coords="391,729,557,815"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="477,829,477,1084,472,1084,472,829"/>
+<area shape="rect" id="Node000005" href="$interface_schedule_one_1_1_persistence_1_1_i_saveable.html" title=" " alt="" coords="309,5,477,475"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="383,490,382,524,374,772,374,881,382,1020,388,1084,383,1085,377,1020,369,881,368,772,377,524,378,490"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="434,489,471,729,465,730,428,490"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_dev_utilities_1_1_game_settings.html" title=" " alt="" coords="581,729,746,815"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="657,815,599,1068,593,1067,652,814"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_game_data_loader.html" title=" " alt="" coords="770,729,936,815"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="841,815,806,910,761,1021,695,1165,627,1307,622,1305,690,1163,756,1019,801,908,836,813"/>
+<area shape="rect" id="Node000008" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_loader.html" title=" " alt="" coords="770,165,936,315"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="856,329,856,730,850,730,850,329"/>
+</map>

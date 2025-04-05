@@ -1,0 +1,13 @@
+<map id="ScheduleOne.Audio.AmbientTrack.Update" name="ScheduleOne.Audio.AmbientTrack.Update">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,105,194,148"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_game_time_1_1_time_manager.html#adde91e40d9db73f6d0f28273bbdc8da3" title=" " alt="" coords="242,39,471,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,102,256,83,257,88,185,107"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_audio_1_1_music_track.html#a7c1d50d5a034aa1a9ca65796b15da742" title=" " alt="" coords="250,105,462,148"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="194,124,235,124,235,129,194,129"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_console.html#afb218907244d12f7d08b1c1831fa1f8c" title=" " alt="" coords="268,172,444,199"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="193,146,242,157,278,165,277,171,241,163,192,151"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_game_time_1_1_time_manager.html#a9ee5cbd3ac8e4876d62fea5403aac2db" title=" " alt="" coords="519,5,764,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="471,44,503,40,504,45,472,49"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_game_time_1_1_time_manager.html#a49fb641341146bbc007d356add9645b5" title=" " alt="" coords="519,72,764,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="472,71,504,75,503,80,471,76"/>
+</map>

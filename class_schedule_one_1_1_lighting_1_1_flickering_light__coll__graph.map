@@ -1,0 +1,5 @@
+<map id="ScheduleOne.Lighting.FlickeringLight" name="ScheduleOne.Lighting.FlickeringLight">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,123,203,421"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="54,5,154,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,89,107,123,102,123,102,89"/>
+</map>

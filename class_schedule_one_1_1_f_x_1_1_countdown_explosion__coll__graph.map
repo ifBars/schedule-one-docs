@@ -1,0 +1,8 @@
+<map id="ScheduleOne.FX.CountdownExplosion" name="ScheduleOne.FX.CountdownExplosion">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,828,185,999"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="40,5,140,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,90,97,828,92,828,87,90"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_audio_1_1_audio_source_controller.html" title=" " alt="" coords="111,124,314,764"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="107,88,118,123,113,125,102,90"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="135,764,123,812,118,811,130,763"/>
+</map>

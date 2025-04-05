@@ -1,0 +1,5 @@
+<map id="ScheduleOne.Audio.AudioZone.AddModifier" name="ScheduleOne.Audio.AudioZone.AddModifier">
+<area shape="rect" id="Node000001" title=" " alt="" coords="256,5,462,48"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_audio_1_1_audio_zone_modifier_volume.html#a458a83ed713513c04303e5d2972b4a53" title=" " alt="" coords="5,5,208,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,29,208,29,208,24,240,24"/>
+</map>

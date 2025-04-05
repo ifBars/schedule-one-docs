@@ -1,0 +1,11 @@
+<map id="ScheduleOne.Vehicles.Forklift" name="ScheduleOne.Vehicles.Forklift">
+<area shape="rect" id="Node000001" title=" " alt="" coords="129,2496,370,3659"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_vehicles_1_1_land_vehicle.html" title=" " alt="" coords="114,523,385,2448"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,2463,252,2496,247,2496,247,2463"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,205,123,275"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="74,289,117,575,111,576,69,290"/>
+<area shape="rect" id="Node000004" href="$interface_schedule_one_1_1_i_g_u_i_d_registerable.html" title=" " alt="" coords="148,195,351,285"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="252,300,252,523,247,523,247,300"/>
+<area shape="rect" id="Node000005" href="$interface_schedule_one_1_1_persistence_1_1_i_saveable.html" title=" " alt="" coords="375,5,543,475"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="420,490,388,681,382,680,414,489"/>
+</map>

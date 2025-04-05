@@ -1,0 +1,7 @@
+<map id="ScheduleOne.Economy.DeadDrop" name="ScheduleOne.Economy.DeadDrop">
+<area shape="rect" id="Node000001" title=" " alt="" coords="39,144,248,533"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,16,106,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,99,87,144,82,145,68,101"/>
+<area shape="rect" id="Node000003" href="$interface_schedule_one_1_1_i_g_u_i_d_registerable.html" title=" " alt="" coords="130,5,334,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,111,206,145,201,144,211,110"/>
+</map>

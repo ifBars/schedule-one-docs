@@ -1,0 +1,5 @@
+<map id="ScheduleOne.Packaging.FilledPackagingVisuals.WeedVisuals" name="ScheduleOne.Packaging.FilledPackagingVisuals.WeedVisuals">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,139,200,288"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_packaging_1_1_filled_packaging_visuals_1_1_base_visuals.html" title=" " alt="" coords="7,5,198,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,105,105,139,100,139,100,105"/>
+</map>

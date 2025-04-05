@@ -1,0 +1,7 @@
+<map id="ScheduleOne.Properties.PropertyMixCalculator.Reaction" name="ScheduleOne.Properties.PropertyMixCalculator.Reaction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="8,615,212,700"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_properties_1_1_property.html" title=" " alt="" coords="5,124,214,535"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,534,112,598,107,598,107,534"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="56,5,163,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="112,89,112,124,107,124,107,89"/>
+</map>

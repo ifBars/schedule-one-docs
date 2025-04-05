@@ -1,0 +1,21 @@
+digraph "ScheduleOne.ObjectScripts.BrickPress.SetSlotLocked_Internal"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="ScheduleOne.ObjectScripts.\lBrickPress.SetSlotLocked\l_Internal",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.ObjectScripts.\lBrickPress.RpcLogic___SetSlotLocked\l_3170825843",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_object_scripts_1_1_brick_press.html#ab4ba736946d517567cd3b7550be7d28d",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.ObjectScripts.\lBrickPress.RpcReader__\l_Server_SetSlotLocked_3170825843",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_object_scripts_1_1_brick_press.html#ad242ae0ac4aab429854e126219f77edb",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.ObjectScripts.\lBrickPress.NetworkInitialize\l___Early",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_object_scripts_1_1_brick_press.html#ae007fbefd2f7daea409f6a969869002d",tooltip=" "];
+  Node4 -> Node5 [id="edge4_Node000004_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.ObjectScripts.\lBrickPress.Awake",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_object_scripts_1_1_brick_press.html#a1837c88b53d81375cde3dc8272185007",tooltip=" "];
+  Node4 -> Node6 [id="edge5_Node000004_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="ScheduleOne.ObjectScripts.\lBrickPress.NetworkInitializeIf\lDisabled",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_object_scripts_1_1_brick_press.html#aff8a89e5006b4e24213d98a21a41b0c0",tooltip=" "];
+  Node2 -> Node7 [id="edge6_Node000002_Node000007",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="ScheduleOne.ObjectScripts.\lBrickPress.SetSlotLocked",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_object_scripts_1_1_brick_press.html#a41a1f6c7147e7facd861c8a7eeff4b37",tooltip=" "];
+}

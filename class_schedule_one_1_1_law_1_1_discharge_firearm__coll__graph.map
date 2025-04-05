@@ -1,0 +1,5 @@
+<map id="ScheduleOne.Law.DischargeFirearm" name="ScheduleOne.Law.DischargeFirearm">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,123,184,208"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_law_1_1_crime.html" title=" " alt="" coords="17,5,172,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,89,97,123,92,123,92,89"/>
+</map>

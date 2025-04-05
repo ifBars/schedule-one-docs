@@ -1,0 +1,23 @@
+digraph "ScheduleOne.Variables.VariableDatabase.RpcWriter___Observers_ReceiveValue_3895153758"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="ScheduleOne.Variables.Variable\lDatabase.RpcWriter___Observers\l_ReceiveValue_3895153758",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Variables.Variable\lDatabase.ReceiveValue",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_variables_1_1_variable_database.html#a460cb14183422e164106832a24ab6379",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Variables.Variable\lDatabase.RpcLogic___SendValue\l_3895153758",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_variables_1_1_variable_database.html#ae2d7f76cb389aa265ae80567998e7329",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.Variables.Variable\lDatabase.RpcReader___Server\l_SendValue_3895153758",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_variables_1_1_variable_database.html#a428567b6cc1e27b4625f6e7644914b77",tooltip=" "];
+  Node4 -> Node5 [id="edge4_Node000004_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.Variables.Variable\lDatabase.NetworkInitialize\l___Early",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_variables_1_1_variable_database.html#af6fa2332009f2b8d3f543ccb9b50779f",tooltip=" "];
+  Node5 -> Node6 [id="edge5_Node000005_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="ScheduleOne.Variables.Variable\lDatabase.Awake",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_variables_1_1_variable_database.html#ad0284526bdd2c25f1949afff17001ee6",tooltip=" "];
+  Node5 -> Node7 [id="edge6_Node000005_Node000007",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="ScheduleOne.Variables.Variable\lDatabase.NetworkInitializeIfDisabled",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_variables_1_1_variable_database.html#a07ace25edff5ba93ad4bce1227ed27f2",tooltip=" "];
+  Node3 -> Node8 [id="edge7_Node000003_Node000008",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="ScheduleOne.Variables.Variable\lDatabase.SendValue",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_variables_1_1_variable_database.html#ab39c4d44ef0c81db0b1451bfa4e95ab5",tooltip=" "];
+}

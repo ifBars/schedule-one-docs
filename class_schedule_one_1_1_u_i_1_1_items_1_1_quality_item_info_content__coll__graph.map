@@ -1,0 +1,7 @@
+<map id="ScheduleOne.UI.Items.QualityItemInfoContent" name="ScheduleOne.UI.Items.QualityItemInfoContent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,320,194,427"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_u_i_1_1_items_1_1_item_info_content.html" title=" " alt="" coords="13,123,186,272"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,287,102,320,97,320,97,287"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="49,5,150,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="102,90,102,123,97,123,97,90"/>
+</map>

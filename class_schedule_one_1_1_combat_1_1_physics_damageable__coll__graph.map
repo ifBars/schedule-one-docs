@@ -1,0 +1,7 @@
+<map id="ScheduleOne.Combat.PhysicsDamageable" name="ScheduleOne.Combat.PhysicsDamageable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="39,144,256,400"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,16,106,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,98,97,143,92,145,73,100"/>
+<area shape="rect" id="Node000003" href="$interface_schedule_one_1_1_combat_1_1_i_damageable.html" title=" " alt="" coords="130,5,350,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="218,111,203,145,198,143,213,109"/>
+</map>

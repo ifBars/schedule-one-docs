@@ -1,0 +1,11 @@
+<map id="ScheduleOne.NPCs.Behaviour.ScheduleBehaviour" name="ScheduleOne.NPCs.Behaviour.ScheduleBehaviour">
+<area shape="rect" id="Node000001" title=" " alt="" coords="140,1559,409,2012"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_n_p_cs_1_1_behaviour_1_1_behaviour.html" title=" " alt="" coords="5,124,277,1495"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,1509,246,1559,241,1559,234,1510"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="82,5,200,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="144,89,144,124,139,124,139,89"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_n_p_cs_1_1_n_p_c_schedule_manager.html" title=" " alt="" coords="302,471,517,1148"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="365,1148,311,1542,306,1541,360,1147"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="359,5,460,75"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="412,89,412,471,407,471,407,89"/>
+</map>

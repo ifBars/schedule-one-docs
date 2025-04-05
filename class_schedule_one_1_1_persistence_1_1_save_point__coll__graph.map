@@ -1,0 +1,8 @@
+<map id="ScheduleOne.Persistence.SavePoint" name="ScheduleOne.Persistence.SavePoint">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,721,171,956"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="32,5,133,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,90,90,722,85,722,80,90"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_interaction_1_1_interactable_object.html" title=" " alt="" coords="104,124,262,657"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="99,88,109,123,104,125,94,89"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="129,657,119,705,114,704,124,656"/>
+</map>

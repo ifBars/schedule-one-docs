@@ -1,0 +1,9 @@
+<map id="ScheduleOne.ObjectScripts.WateringCan.WateringCanDefinition" name="ScheduleOne.ObjectScripts.WateringCan.WateringCanDefinition">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,795,225,901"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_item_framework_1_1_storable_item_definition.html" title=" " alt="" coords="21,533,209,747"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,762,118,795,112,795,112,762"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_item_framework_1_1_item_definition.html" title=" " alt="" coords="21,123,209,485"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="118,500,118,533,112,533,112,500"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="62,5,168,75"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="118,90,118,123,112,123,112,90"/>
+</map>

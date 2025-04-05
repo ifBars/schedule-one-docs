@@ -1,0 +1,7 @@
+<map id="ScheduleOne.Dialogue.DialogueController_Ming" name="ScheduleOne.Dialogue.DialogueController_Ming">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,960,204,1301"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_dialogue_1_1_dialogue_controller.html" title=" " alt="" coords="5,123,204,912"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,927,107,960,102,960,102,927"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="54,5,155,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,89,107,123,102,123,102,89"/>
+</map>

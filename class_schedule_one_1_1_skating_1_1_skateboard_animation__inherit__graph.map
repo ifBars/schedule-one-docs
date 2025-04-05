@@ -1,0 +1,5 @@
+<map id="ScheduleOne.Skating.SkateboardAnimation" name="ScheduleOne.Skating.SkateboardAnimation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,123,212,848"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="58,5,159,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,90,111,123,106,123,106,90"/>
+</map>

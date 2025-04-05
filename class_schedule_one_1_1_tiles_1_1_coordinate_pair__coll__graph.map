@@ -1,0 +1,5 @@
+<map id="ScheduleOne.Tiles.CoordinatePair" name="ScheduleOne.Tiles.CoordinatePair">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,453,216,523"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_tiles_1_1_coordinate.html" title=" " alt="" coords="17,5,204,373"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,373,113,437,108,437,108,373"/>
+</map>

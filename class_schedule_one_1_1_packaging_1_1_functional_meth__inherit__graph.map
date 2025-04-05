@@ -1,0 +1,11 @@
+<map id="ScheduleOne.Packaging.FunctionalMeth" name="ScheduleOne.Packaging.FunctionalMeth">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1461,252,1531"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_packaging_1_1_functional_product.html" title=" " alt="" coords="20,1093,238,1413"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,1428,131,1461,126,1461,126,1428"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_player_tasks_1_1_draggable.html" title=" " alt="" coords="32,469,225,1045"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="131,1060,131,1094,126,1094,126,1060"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_player_tasks_1_1_clickable.html" title=" " alt="" coords="44,123,213,421"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="131,436,131,470,126,470,126,436"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="78,5,179,75"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="131,89,131,123,126,123,126,89"/>
+</map>

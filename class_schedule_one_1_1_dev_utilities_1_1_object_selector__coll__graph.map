@@ -1,0 +1,18 @@
+<map id="ScheduleOne.DevUtilities.ObjectSelector" name="ScheduleOne.DevUtilities.ObjectSelector">
+<area shape="rect" id="Node000001" title=" " alt="" coords="235,2401,418,2849"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_dev_utilities_1_1_singleton-1-g.html" title=" " alt="" coords="5,1335,170,1527"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,1541,93,1699,107,1899,119,2008,136,2119,157,2230,185,2337,208,2402,237,2466,233,2469,203,2404,180,2338,152,2231,130,2120,114,2009,102,1900,88,1699,84,1541"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="37,205,138,275"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="90,289,90,1335,85,1335,85,289"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_entity_framework_1_1_buildable_item.html" title=" " alt="" coords="483,524,746,2337"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="485,2328,469,2378,450,2424,428,2469,423,2467,445,2422,464,2376,480,2326"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="306,205,424,275"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="388,287,431,394,473,523,485,573,480,574,468,525,426,396,383,289"/>
+<area shape="rect" id="Node000008" href="$class_schedule_one_1_1_constructable_scripts_1_1_constructable.html" title=" " alt="" coords="194,791,458,2071"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="366,289,350,791,344,791,361,289"/>
+<area shape="rect" id="Node000006" href="$interface_schedule_one_1_1_i_g_u_i_d_registerable.html" title=" " alt="" coords="499,195,703,285"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="604,300,607,524,602,524,599,300"/>
+<area shape="rect" id="Node000007" href="$interface_schedule_one_1_1_persistence_1_1_i_saveable.html" title=" " alt="" coords="726,5,894,475"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="772,490,748,633,743,632,767,489"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="329,2070,329,2385,324,2385,324,2070"/>
+</map>

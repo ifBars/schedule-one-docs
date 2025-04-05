@@ -1,0 +1,25 @@
+<map id="ScheduleOne.Persistence.Datas.ItemData" name="ScheduleOne.Persistence.Datas.ItemData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="479,224,644,331"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_persistence_1_1_datas_1_1_cash_data.html" title=" " alt="" coords="5,379,171,464"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="465,303,331,336,184,381,172,385,170,380,182,376,329,331,464,297"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_persistence_1_1_datas_1_1_clothing_data.html" title=" " alt="" coords="195,379,360,464"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="467,329,361,381,359,376,464,324"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_persistence_1_1_datas_1_1_integer_item_data.html" title=" " alt="" coords="384,379,550,464"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="521,344,497,380,492,377,516,342"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_persistence_1_1_datas_1_1_quality_item_data.html" title=" " alt="" coords="573,379,739,464"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="607,342,631,377,626,380,602,344"/>
+<area shape="rect" id="Node000011" href="$class_schedule_one_1_1_persistence_1_1_datas_1_1_trash_grabber_data.html" title=" " alt="" coords="763,379,928,464"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="659,324,764,376,762,381,656,329"/>
+<area shape="rect" id="Node000012" href="$class_schedule_one_1_1_persistence_1_1_datas_1_1_watering_can_data.html" title=" " alt="" coords="952,379,1118,464"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="659,297,794,331,941,376,953,380,951,385,939,381,792,336,658,303"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_persistence_1_1_datas_1_1_save_data.html" title=" " alt="" coords="479,5,644,176"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="564,191,564,224,559,224,559,191"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_persistence_1_1_datas_1_1_product_item_data.html" title=" " alt="" coords="573,512,739,597"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="659,479,659,512,654,512,654,479"/>
+<area shape="rect" id="Node000008" href="$class_schedule_one_1_1_persistence_1_1_datas_1_1_cocaine_data.html" title=" " alt="" coords="384,645,550,731"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="586,608,528,648,525,643,583,603"/>
+<area shape="rect" id="Node000009" href="$class_schedule_one_1_1_persistence_1_1_datas_1_1_meth_data.html" title=" " alt="" coords="573,645,739,731"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="659,612,659,645,654,645,654,612"/>
+<area shape="rect" id="Node000010" href="$class_schedule_one_1_1_persistence_1_1_datas_1_1_weed_data.html" title=" " alt="" coords="763,645,928,731"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="729,603,787,643,784,648,726,608"/>
+</map>

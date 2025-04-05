@@ -1,0 +1,22 @@
+digraph "ScheduleOne.UI.Management.TransitEntitySelector.ObjectClicked"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.UI.Management.\lTransitEntitySelector.ObjectClicked",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.UI.Management.\lTransitEntitySelector.Close",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_management_1_1_transit_entity_selector.html#a37351cc41f1f4aef397dbf4f46a72167",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.UI.Management.\lTransitEntitySelector.SetSelection\lOutline",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_management_1_1_transit_entity_selector.html#a8e91a59d4e78d8bbff3c2ee908a4d837",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.Management.ITransit\lEntity.HideOutline",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$interface_schedule_one_1_1_management_1_1_i_transit_entity.html#a37640cfc256b829759d5ca7b968af22e",tooltip=" "];
+  Node3 -> Node5 [id="edge4_Node000003_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.Management.ITransit\lEntity.ShowOutline",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$interface_schedule_one_1_1_management_1_1_i_transit_entity.html#a76934c5ad08bcc06146eca3c1ae72875",tooltip=" "];
+  Node1 -> Node6 [id="edge5_Node000001_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="ScheduleOne.GameInput.Get\lButton",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_game_input.html#a82ccf8c0156e81f595f0315a5f8f1e5a",tooltip=" "];
+  Node1 -> Node7 [id="edge6_Node000001_Node000007",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="ScheduleOne.UI.Management.\lTransitEntitySelector.IsObject\lTypeValid",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_management_1_1_transit_entity_selector.html#a66b5f4c5e0522983d16b2988732b21da",tooltip=" "];
+  Node1 -> Node3 [id="edge7_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+}

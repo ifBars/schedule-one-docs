@@ -1,0 +1,7 @@
+<map id="ScheduleOne.AvatarFramework.Animation.AvatarFootstepDetector.LateUpdate" name="ScheduleOne.AvatarFramework.Animation.AvatarFootstepDetector.LateUpdate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,232,64"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_avatar_framework_1_1_animation_1_1_avatar_footstep_detector.html#af4eaf44c3cd050864068fa41e07efd29" title=" " alt="" coords="280,5,506,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,32,264,32,264,37,232,37"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_avatar_framework_1_1_animation_1_1_avatar_footstep_detector.html#ab8dd275cd0d9b6e4dcbe08c804aa37a7" title=" " alt="" coords="554,5,780,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="507,32,538,32,538,37,507,37"/>
+</map>

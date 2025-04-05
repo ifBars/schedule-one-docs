@@ -1,0 +1,19 @@
+<map id="ScheduleOne.Storage.PalletSlotDetector" name="ScheduleOne.Storage.PalletSlotDetector">
+<area shape="rect" id="Node000001" title=" " alt="" coords="72,1927,247,2012"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="230,16,331,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,88,189,114,166,147,114,270,73,399,43,532,23,667,12,803,8,938,11,1071,19,1201,31,1325,47,1442,83,1652,121,1817,150,1926,144,1927,115,1818,78,1653,41,1443,26,1325,13,1201,5,1071,3,938,7,803,18,667,38,531,68,398,109,268,161,144,185,110,216,84"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_storage_1_1_storage_grid.html" title=" " alt="" coords="175,145,386,556"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="283,100,283,146,278,146,278,100"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_storage_1_1_pallet_slot.html" title=" " alt="" coords="410,273,607,428"/>
+<area shape="poly" id="edge8_Node000007_Node000002" title=" " alt="" coords="344,92,373,116,400,144,444,207,479,272,474,275,440,210,396,147,370,120,341,96"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_storage_1_1_pallet.html" title=" " alt="" coords="392,620,626,1863"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="394,1486,189,1913,184,1910,389,1484"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="631,316,749,385"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="683,401,628,668,623,667,677,400"/>
+<area shape="rect" id="Node000005" href="$interface_schedule_one_1_1_storage_1_1_i_storage_entity.html" title=" " alt="" coords="773,191,1007,511"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="818,525,628,969,623,967,814,523"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="336,555,390,767,385,769,330,556"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="511,428,511,603,506,603,506,428"/>
+<area shape="rect" id="Node000008" href="$interface_schedule_one_1_1_i_g_u_i_d_registerable.html" title=" " alt="" coords="407,5,610,96"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="511,111,511,274,506,274,506,111"/>
+</map>

@@ -1,0 +1,13 @@
+digraph "ScheduleOne.AvatarFramework.Eye.SetEyeLidState"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.AvatarFramework.\lEye.SetEyeLidState",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Console.Log",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_console.html#afb218907244d12f7d08b1c1831fa1f8c",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.AvatarFramework.\lEye.EyeLidConfiguration.ToString",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$struct_schedule_one_1_1_avatar_framework_1_1_eye_1_1_eye_lid_configuration.html#a020292546108415265550e10ad4145b8",tooltip=" "];
+}

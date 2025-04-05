@@ -1,0 +1,7 @@
+<map id="ScheduleOne.PlayerScripts.PlayerClothing" name="ScheduleOne.PlayerScripts.PlayerClothing">
+<area shape="rect" id="Node000001" title=" " alt="" coords="30,245,275,1312"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,67,123,136"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,150,85,245,80,246,68,151"/>
+<area shape="rect" id="Node000003" href="$interface_schedule_one_1_1_item_framework_1_1_i_item_slot_owner.html" title=" " alt="" coords="148,5,335,197"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="230,213,225,246,220,245,224,212"/>
+</map>

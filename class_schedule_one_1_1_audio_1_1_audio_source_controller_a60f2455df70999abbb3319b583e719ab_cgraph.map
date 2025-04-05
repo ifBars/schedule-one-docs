@@ -1,0 +1,7 @@
+<map id="ScheduleOne.Audio.AudioSourceController.DoPauseStuff" name="ScheduleOne.Audio.AudioSourceController.DoPauseStuff">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,220,81"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_audio_1_1_audio_source_controller.html#a1b5874eabb4bb4f8beaee7d39fa1558d" title=" " alt="" coords="268,5,482,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,44,252,40,253,45,221,49"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_audio_1_1_audio_source_controller.html#a6a94f34d6dd3691249001ea9d08e7593" title=" " alt="" coords="268,72,482,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="221,71,253,75,252,80,220,76"/>
+</map>

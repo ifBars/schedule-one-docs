@@ -1,0 +1,33 @@
+digraph "ScheduleOne.Economy.Dealer.GetAllSlots"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="ScheduleOne.Economy.Dealer.\lGetAllSlots",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Economy.Dealer.\lGetItems",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_economy_1_1_dealer.html#a0131ccefe34c8eb43d22bce1a34c3f21",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Economy.Dealer.\lRemoveContractItems",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_economy_1_1_dealer.html#aa2f3f4f8430bcbe7763d1e51f4572298",tooltip=" "];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.Economy.Dealer.\lGetOrderableProducts",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_economy_1_1_dealer.html#a1ca67d9f8781d5282ca1c4c0653fbb2e",tooltip=" "];
+  Node1 -> Node5 [id="edge4_Node000001_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.Economy.Dealer.\lGetProductCount",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_economy_1_1_dealer.html#ae74b2c3ad258ff3082863bcd70cbed71",tooltip=" "];
+  Node5 -> Node6 [id="edge5_Node000005_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="ScheduleOne.Economy.Dealer.\lShouldAcceptContract",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_economy_1_1_dealer.html#a49e1c965e743be22cc8215498b3f9c88",tooltip=" "];
+  Node6 -> Node7 [id="edge6_Node000006_Node000007",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="ScheduleOne.Economy.Dealer.\lContractedOffered",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_economy_1_1_dealer.html#a94c09d06f409986c7586d1e84f8f0dc1",tooltip=" "];
+  Node1 -> Node8 [id="edge7_Node000001_Node000008",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="ScheduleOne.Economy.Dealer.\lGetTotalInventoryItemCount",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_economy_1_1_dealer.html#a9e5711e2367a7a00625100d214b313c7",tooltip=" "];
+  Node8 -> Node9 [id="edge8_Node000008_Node000009",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node9 [id="Node000009",label="ScheduleOne.Economy.Dealer.\lCustomerContractEnded",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_economy_1_1_dealer.html#a8e6594e476cae074eb381cc41ac79270",tooltip=" "];
+  Node9 -> Node10 [id="edge9_Node000009_Node000010",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node10 [id="Node000010",label="ScheduleOne.Economy.Dealer.\lCustomerContractStarted",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_economy_1_1_dealer.html#a7d98e71f31e7bea2017585489efe6f80",tooltip=" "];
+  Node10 -> Node11 [id="edge10_Node000010_Node000011",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node11 [id="Node000011",label="ScheduleOne.Economy.Dealer.\lAddCustomer",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_economy_1_1_dealer.html#aef255d5a8418b3398454d4aa3ec927cd",tooltip=" "];
+  Node10 -> Node12 [id="edge11_Node000010_Node000012",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node12 [id="Node000012",label="ScheduleOne.Economy.Dealer.Load",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_economy_1_1_dealer.html#ac5f2bb0ed1322179ab795ff4752bb51c",tooltip=" "];
+  Node10 -> Node13 [id="edge12_Node000010_Node000013",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node13 [id="Node000013",label="ScheduleOne.Economy.Dealer.\lRemoveCustomer",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_economy_1_1_dealer.html#a1da4bc131d28b4117a4ac73e6d670c61",tooltip=" "];
+}

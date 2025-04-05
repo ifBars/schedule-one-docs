@@ -1,0 +1,9 @@
+<map id="ScheduleOne.Persistence.Loaders.TrashContainerLoader" name="ScheduleOne.Persistence.Loaders.TrashContainerLoader">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,555,194,640"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_grid_item_loader.html" title=" " alt="" coords="17,400,182,507"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,522,102,555,97,555,97,522"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_buildable_item_loader.html" title=" " alt="" coords="10,203,189,352"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="102,367,102,400,97,400,97,367"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_loader.html" title=" " alt="" coords="17,5,182,155"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="102,170,102,203,97,203,97,170"/>
+</map>

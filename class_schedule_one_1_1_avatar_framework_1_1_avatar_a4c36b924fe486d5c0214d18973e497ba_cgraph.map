@@ -1,0 +1,9 @@
+<map id="ScheduleOne.AvatarFramework.Avatar.SetBlockEyeFaceLayers" name="ScheduleOne.AvatarFramework.Avatar.SetBlockEyeFaceLayers">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,27,216,69"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_avatar_framework_1_1_avatar.html#aa291014c7dd459de711f459a4aed7f59" title=" " alt="" coords="264,27,474,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,45,248,45,248,51,216,51"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_console.html#a4af4a471d16b1029b44a8121bf41d45c" title=" " alt="" coords="522,5,745,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="474,34,506,30,507,35,475,39"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_avatar_framework_1_1_avatar.html#afaedb678e1854f3dfdb8c8b0b0110ff4" title=" " alt="" coords="528,56,739,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="475,57,513,61,513,67,474,62"/>
+</map>

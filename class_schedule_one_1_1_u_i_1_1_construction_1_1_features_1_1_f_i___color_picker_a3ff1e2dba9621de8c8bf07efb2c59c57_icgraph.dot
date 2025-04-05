@@ -1,0 +1,18 @@
+digraph "ScheduleOne.UI.Construction.Features.FI_ColorPicker.UpdateSelection"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="ScheduleOne.UI.Construction.\lFeatures.FI_ColorPicker.UpdateSelection",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.UI.Construction.\lFeatures.FI_ColorPicker.BuyButton\lClicked",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_construction_1_1_features_1_1_f_i___color_picker.html#af4cb7ae2d8e8653b286495c8cb669588",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.UI.Construction.\lFeatures.FI_ColorPicker.Initialize",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_construction_1_1_features_1_1_f_i___color_picker.html#ae52c0a20c4334afe57b3e9ed7aba5c4e",tooltip=" "];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.UI.Construction.\lFeatures.FI_ColorPicker.Select",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_construction_1_1_features_1_1_f_i___color_picker.html#af99b20877aab6fb3157c27d36528d2ad",tooltip=" "];
+  Node4 -> Node5 [id="edge4_Node000004_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.UI.Construction.\lFeatures.FI_ColorPicker.Close",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_construction_1_1_features_1_1_f_i___color_picker.html#aec958ce73d79832c82e07b4ab9d05767",tooltip=" "];
+  Node4 -> Node3 [id="edge5_Node000004_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+}

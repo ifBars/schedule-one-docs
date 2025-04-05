@@ -1,0 +1,10 @@
+<map id="ScheduleOne.UI.ArrestScreen" name="ScheduleOne.UI.ArrestScreen">
+<area shape="rect" id="Node000001" title=" " alt="" coords="97,828,284,1047"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_dev_utilities_1_1_singleton-1-g.html" title=" " alt="" coords="5,348,170,540"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,554,170,827,165,829,108,555"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="140,5,241,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="181,90,114,349,109,348,176,89"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_audio_1_1_audio_source_controller.html" title=" " alt="" coords="194,124,398,764"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="205,89,215,124,210,125,200,90"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="230,764,220,812,214,811,225,763"/>
+</map>

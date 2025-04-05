@@ -1,0 +1,14 @@
+<map id="ScheduleOne.TV.TVApp" name="ScheduleOne.TV.TVApp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="35,881,187,1356"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="113,5,213,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,87,89,105,78,125,45,218,23,316,11,415,8,515,12,614,21,709,34,799,50,881,45,882,29,800,16,710,7,614,3,515,6,415,18,315,39,217,73,123,85,102,101,83"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_t_v_1_1_t_v_app.html" title=" " alt="" coords="87,124,239,599"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="166,90,166,124,160,124,160,90"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_u_i_1_1_t_v_pause_screen.html" title=" " alt="" coords="239,663,445,817"/>
+<area shape="poly" id="edge6_Node000004_Node000002" title=" " alt="" coords="229,44,269,53,311,68,350,91,381,122,418,187,436,247,439,303,432,359,405,477,393,545,388,623,388,639,382,663,376,662,383,638,383,623,388,545,399,476,427,358,434,303,431,248,413,190,377,126,347,95,309,73,267,58,228,50"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="132,599,126,663,116,865,110,864,120,662,127,598"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="240,312,250,319,259,329,264,344,266,361,263,383,255,399,250,397,258,382,260,361,259,345,254,332,247,323,237,317"/>
+<area shape="poly" id="edge7_Node000004_Node000003" title=" " alt="" coords="230,597,250,637,257,648,252,650,246,640,225,600"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="298,818,198,981,193,978,293,816"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="303,664,244,539,249,537,308,662"/>
+</map>

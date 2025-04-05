@@ -1,0 +1,16 @@
+digraph "ScheduleOne.UI.WorldspacePopup.WorldspacePopup.CreateUI"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="ScheduleOne.UI.Worldspace\lPopup.WorldspacePopup.CreateUI",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.UI.Worldspace\lPopup.WorldspacePopupCanvas.Create\lHUDIcon",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_worldspace_popup_1_1_worldspace_popup_canvas.html#a26fb1b597bf1e053af5902d7ade7a4c8",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.UI.Worldspace\lPopup.WorldspacePopupCanvas.Update",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_worldspace_popup_1_1_worldspace_popup_canvas.html#a86cd6d163776692c0f31ff7485a3e65a",tooltip=" "];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.UI.Worldspace\lPopup.WorldspacePopupCanvas.Create\lWorldspaceIcon",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_worldspace_popup_1_1_worldspace_popup_canvas.html#acee81d9ae375776610ad14dfa39958d1",tooltip=" "];
+  Node4 -> Node3 [id="edge4_Node000004_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+}

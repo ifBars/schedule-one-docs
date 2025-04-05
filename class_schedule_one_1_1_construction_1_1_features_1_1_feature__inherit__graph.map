@@ -1,0 +1,13 @@
+<map id="ScheduleOne.Construction.Features.Feature" name="ScheduleOne.Construction.Features.Feature">
+<area shape="rect" id="Node000001" title=" " alt="" coords="178,123,435,661"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_construction_1_1_features_1_1_color_feature.html" title=" " alt="" coords="5,720,287,1483"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="245,676,235,721,230,720,240,675"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_construction_1_1_features_1_1_option_list_feature.html" title=" " alt="" coords="311,709,621,1493"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="373,675,381,709,375,710,368,676"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="248,5,365,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="309,89,309,123,304,123,304,89"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_construction_1_1_features_1_1_generic_option_list_feature.html" title=" " alt="" coords="156,1541,454,1989"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="370,1509,362,1542,357,1541,365,1507"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_construction_1_1_features_1_1_material_feature.html" title=" " alt="" coords="478,1563,775,1968"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="567,1507,580,1562,575,1564,562,1508"/>
+</map>

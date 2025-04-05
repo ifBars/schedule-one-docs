@@ -1,0 +1,9 @@
+<map id="ScheduleOne.Persistence.Loaders.ChemistryStationLoader" name="ScheduleOne.Persistence.Loaders.ChemistryStationLoader">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,555,206,640"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_grid_item_loader.html" title=" " alt="" coords="23,400,188,507"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,522,108,555,103,555,103,522"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_buildable_item_loader.html" title=" " alt="" coords="16,203,195,352"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="108,367,108,400,103,400,103,367"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_loader.html" title=" " alt="" coords="23,5,188,155"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="108,170,108,203,103,203,103,170"/>
+</map>

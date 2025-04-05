@@ -1,0 +1,7 @@
+<map id="ScheduleOne.Stealth.PlayerVisibility" name="ScheduleOne.Stealth.PlayerVisibility">
+<area shape="rect" id="Node000001" title=" " alt="" coords="39,219,263,832"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,45,123,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,129,94,218,88,219,71,130"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_vision_1_1_visibility_attribute.html" title=" " alt="" coords="147,5,328,155"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="226,155,216,203,211,202,221,154"/>
+</map>

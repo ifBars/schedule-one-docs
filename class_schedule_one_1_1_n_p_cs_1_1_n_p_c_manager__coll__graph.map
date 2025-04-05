@@ -1,0 +1,22 @@
+<map id="ScheduleOne.NPCs.NPCManager" name="ScheduleOne.NPCs.NPCManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="334,1283,614,2045"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_dev_utilities_1_1_network_singleton-1-g.html" title=" " alt="" coords="5,691,316,1187"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="276,1199,337,1339,332,1341,271,1201"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="102,348,220,417"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="164,432,164,691,158,691,158,432"/>
+<area shape="rect" id="Node000004" href="$interface_schedule_one_1_1_persistence_1_1_i_base_saveable.html" title=" " alt="" coords="391,896,557,981"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="477,996,477,1283,472,1283,472,996"/>
+<area shape="rect" id="Node000005" href="$interface_schedule_one_1_1_persistence_1_1_i_saveable.html" title=" " alt="" coords="309,148,477,617"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="384,632,382,691,372,939,372,1048,382,1186,394,1283,389,1283,377,1187,367,1048,367,939,377,691,378,632"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="432,632,471,896,465,896,427,632"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_map_1_1_n_p_c_po_i.html" title=" " alt="" coords="581,893,752,984"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="657,984,582,1267,577,1266,652,983"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_map_1_1_p_o_i.html" title=" " alt="" coords="594,124,738,641"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="669,657,669,893,664,893,664,657"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="616,5,716,75"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="669,90,669,124,664,124,664,90"/>
+<area shape="rect" id="Node000009" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_n_p_cs_loader.html" title=" " alt="" coords="775,896,941,981"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="855,981,828,1109,805,1185,775,1260,743,1321,706,1380,627,1491,623,1488,702,1377,738,1318,770,1258,800,1184,823,1107,850,980"/>
+<area shape="rect" id="Node000010" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_loader.html" title=" " alt="" coords="775,308,941,457"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="861,472,861,896,856,896,856,472"/>
+</map>

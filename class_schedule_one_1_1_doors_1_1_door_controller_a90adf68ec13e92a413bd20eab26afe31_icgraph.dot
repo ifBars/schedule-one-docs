@@ -1,0 +1,15 @@
+digraph "ScheduleOne.Doors.DoorController.RpcReader___Observers_SetIsOpen_3381113727"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="ScheduleOne.Doors.DoorController.\lRpcReader___Observers_SetIsOpen\l_3381113727",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Doors.DoorController.\lNetworkInitialize___Early",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_doors_1_1_door_controller.html#a75ce0b0ae8927725d2d4b22a4d32eac8",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Doors.DoorController.\lAwake",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_doors_1_1_door_controller.html#a99e6a8008bd56e7833dbc055386af4da",tooltip=" "];
+  Node2 -> Node4 [id="edge3_Node000002_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.Doors.DoorController.\lNetworkInitializeIfDisabled",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_doors_1_1_door_controller.html#a56f32316985eedd13f3ab68ece3dad8a",tooltip=" "];
+}

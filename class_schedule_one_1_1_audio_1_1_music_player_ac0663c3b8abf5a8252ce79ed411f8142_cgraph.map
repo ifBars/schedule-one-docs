@@ -1,0 +1,5 @@
+<map id="ScheduleOne.Audio.MusicPlayer.Start" name="ScheduleOne.Audio.MusicPlayer.Start">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,222,48"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_audio_1_1_music_player.html#a73339b34fbf93af4191f80ccd62f7697" title=" " alt="" coords="270,5,486,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,24,254,24,254,29,222,29"/>
+</map>

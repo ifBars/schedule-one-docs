@@ -1,0 +1,8 @@
+<map id="ScheduleOne.AvatarFramework.EyebrowController" name="ScheduleOne.AvatarFramework.EyebrowController">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,567,205,695"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="50,5,150,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,90,107,567,102,567,98,90"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_avatar_framework_1_1_eyebrow.html" title=" " alt="" coords="121,124,321,487"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="124,87,141,123,136,125,119,90"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,487,136,552,131,550,154,485"/>
+</map>

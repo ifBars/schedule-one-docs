@@ -1,0 +1,35 @@
+digraph "ScheduleOne.Misc.ModularSwitch.SwitchOff"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="ScheduleOne.Misc.Modular\lSwitch.SwitchOff",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Misc.Modular\lSwitch.RpcLogic___SetIsOn\l_214505783",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_misc_1_1_modular_switch.html#a59246ff98cb94bdd2d00eb976fddbebf",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Misc.Modular\lSwitch.RpcReader___Observers\l_SetIsOn_214505783",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_misc_1_1_modular_switch.html#a5a4415310c9dc226441611ae53022e46",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.Misc.Modular\lSwitch.NetworkInitialize\l___Early",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_misc_1_1_modular_switch.html#a258dbd375140cbd2c08e2b6aa1e11f32",tooltip=" "];
+  Node4 -> Node5 [id="edge4_Node000004_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.Misc.Modular\lSwitch.Awake",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_misc_1_1_modular_switch.html#a26e405dcf1f4b53a1d03a3202e9eefa3",tooltip=" "];
+  Node4 -> Node6 [id="edge5_Node000004_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="ScheduleOne.Misc.Modular\lSwitch.NetworkInitializeIfDisabled",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_misc_1_1_modular_switch.html#abbce787ab45010b589cb1cea85ce65b4",tooltip=" "];
+  Node2 -> Node7 [id="edge6_Node000002_Node000007",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="ScheduleOne.Misc.Modular\lSwitch.RpcReader___Target\l_SetIsOn_214505783",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_misc_1_1_modular_switch.html#a6bd0b630156804ba014ca7d839a393d1",tooltip=" "];
+  Node7 -> Node4 [id="edge7_Node000007_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 -> Node8 [id="edge8_Node000002_Node000008",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="ScheduleOne.Misc.Modular\lSwitch.SetIsOn",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_misc_1_1_modular_switch.html#a70b22942932aabf6d812081c85d5d31d",tooltip=" "];
+  Node8 -> Node9 [id="edge9_Node000008_Node000009",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node9 [id="Node000009",label="ScheduleOne.Misc.Modular\lSwitch.OnSpawnServer",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_misc_1_1_modular_switch.html#af47dff01e2754eba0efa0b18e7a6c64d",tooltip=" "];
+  Node8 -> Node10 [id="edge10_Node000008_Node000010",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node10 [id="Node000010",label="ScheduleOne.Misc.Modular\lSwitch.RpcLogic___SendIsOn\l_1140765316",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_misc_1_1_modular_switch.html#a67d02bbdde3bdc78a5572bae3dc68662",tooltip=" "];
+  Node10 -> Node11 [id="edge11_Node000010_Node000011",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node11 [id="Node000011",label="ScheduleOne.Misc.Modular\lSwitch.RpcReader___Server\l_SendIsOn_1140765316",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_misc_1_1_modular_switch.html#a3ac4afde10bf55d37547a9fd6bcdf219",tooltip=" "];
+  Node11 -> Node4 [id="edge12_Node000011_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node10 -> Node12 [id="edge13_Node000010_Node000012",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node12 [id="Node000012",label="ScheduleOne.Misc.Modular\lSwitch.SendIsOn",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_misc_1_1_modular_switch.html#aedf617d99c313773efe00248992b4532",tooltip=" "];
+  Node12 -> Node13 [id="edge14_Node000012_Node000013",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node13 [id="Node000013",label="ScheduleOne.Misc.Modular\lSwitch.Interacted",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_misc_1_1_modular_switch.html#ac36f64f9e20682cebf5e6ced25bb4537",tooltip=" "];
+}

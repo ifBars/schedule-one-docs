@@ -1,0 +1,8 @@
+<map id="ScheduleOne.Market.Merchant" name="ScheduleOne.Market.Merchant">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,721,196,876"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="45,5,146,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,89,103,721,97,721,93,89"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_interaction_1_1_interactable_object.html" title=" " alt="" coords="116,124,274,657"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="111,88,122,123,117,125,106,89"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="136,658,125,705,120,704,131,657"/>
+</map>

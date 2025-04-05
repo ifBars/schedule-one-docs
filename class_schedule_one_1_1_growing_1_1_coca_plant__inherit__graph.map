@@ -1,0 +1,7 @@
+<map id="ScheduleOne.Growing.CocaPlant" name="ScheduleOne.Growing.CocaPlant">
+<area shape="rect" id="Node000001" title=" " alt="" coords="24,773,199,859"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_growing_1_1_plant.html" title=" " alt="" coords="5,123,217,725"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,740,114,773,109,773,109,740"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="61,5,162,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="114,90,114,123,109,123,109,90"/>
+</map>

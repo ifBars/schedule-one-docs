@@ -1,0 +1,5 @@
+<map id="ScheduleOne.Management.TransitRoute" name="ScheduleOne.Management.TransitRoute">
+<area shape="rect" id="Node000001" title=" " alt="" coords="14,5,226,325"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_management_1_1_advanced_transit_route.html" title=" " alt="" coords="5,373,235,523"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,340,123,373,118,373,118,340"/>
+</map>

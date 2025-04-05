@@ -1,0 +1,14 @@
+<map id="ScheduleOne.PlayerTasks.DraggableConstraint" name="ScheduleOne.PlayerTasks.DraggableConstraint">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1091,182,1517"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="166,5,267,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,83,138,103,123,125,97,184,76,245,43,372,24,502,16,632,16,759,24,880,36,991,51,1091,46,1091,31,992,19,880,11,759,10,632,19,501,38,371,70,244,92,182,118,123,133,99,153,79"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_player_tasks_1_1_clickable.html" title=" " alt="" coords="132,124,301,423"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="219,89,219,124,214,124,214,89"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_player_tasks_1_1_draggable_constraint.html" title=" " alt="" coords="223,1091,400,1517"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="280,80,300,99,315,123,345,190,369,252,386,311,397,367,404,420,406,471,402,572,375,784,363,908,360,1051,360,1091,354,1091,355,1051,358,908,369,784,397,571,401,471,399,420,392,368,380,312,363,254,340,192,310,125,295,103,276,83"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_player_tasks_1_1_draggable.html" title=" " alt="" coords="120,472,313,1027"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="150,1027,144,1051,139,1075,134,1074,139,1050,145,1026"/>
+<area shape="poly" id="edge7_Node000005_Node000003" title=" " alt="" coords="209,1026,215,1066,221,1090,216,1091,210,1067,204,1027"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="219,438,219,472,214,472,214,438"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="285,1091,279,1051,278,1044,283,1043,284,1050,291,1090"/>
+</map>

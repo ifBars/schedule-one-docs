@@ -1,0 +1,16 @@
+<map id="ScheduleOne.UI.Construction.ConstructionMenu" name="ScheduleOne.UI.Construction.ConstructionMenu">
+<area shape="rect" id="Node000001" title=" " alt="" coords="188,1600,393,2507"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_dev_utilities_1_1_singleton-1-g.html" title=" " alt="" coords="5,800,170,992"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,1006,144,1249,192,1536,203,1600,198,1601,186,1536,139,1250,101,1007"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="37,64,138,133"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="90,148,90,800,85,800,85,148"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_u_i_1_1_construction_1_1_construction_menu_1_1_construction_menu_category.html" title=" " alt="" coords="210,5,437,192"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="261,193,245,224,234,257,221,313,211,378,200,532,196,707,199,892,216,1255,234,1536,237,1583,231,1583,228,1536,211,1255,194,892,191,707,194,532,206,378,216,312,228,255,240,222,256,190"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_u_i_1_1_construction_1_1_construction_menu_1_1_construction_menu_listing.html" title=" " alt="" coords="353,771,580,1021"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="343,191,444,753,438,754,338,192"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="450,1021,364,1584,359,1583,445,1021"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_constructable_scripts_1_1_constructable.html" title=" " alt="" coords="604,256,868,1536"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="606,1505,594,1537,553,1631,505,1724,404,1892,400,1889,500,1722,548,1629,589,1535,601,1503"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="677,64,794,133"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="738,148,738,256,733,256,733,148"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="ScheduleOne.Audio.HeartbeatSoundController" name="ScheduleOne.Audio.HeartbeatSoundController">
+<area shape="rect" id="Node000001" title=" " alt="" coords="85,844,272,951"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,106,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="48,90,29,212,20,292,15,382,16,477,23,574,40,671,67,763,90,805,121,842,117,846,86,808,63,765,35,672,18,575,10,477,10,381,15,292,23,211,43,89"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_audio_1_1_audio_source_controller.html" title=" " alt="" coords="76,124,280,764"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="73,88,84,123,78,125,68,90"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,764,181,827,176,827,176,764"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_tools_1_1_float_smoother.html" title=" " alt="" coords="304,292,517,596"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="369,597,336,682,294,765,270,800,244,833,240,829,266,797,289,763,331,680,364,595"/>
+</map>

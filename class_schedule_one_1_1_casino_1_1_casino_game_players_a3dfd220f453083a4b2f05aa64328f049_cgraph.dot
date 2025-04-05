@@ -1,0 +1,13 @@
+digraph "ScheduleOne.Casino.CasinoGamePlayers.RemovePlayer"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.Casino.Casino\lGamePlayers.RemovePlayer",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Casino.Casino\lGamePlayers.RequestRemovePlayer",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_casino_1_1_casino_game_players.html#a77b7bdaa87d8c9bdc962044e5d5c9017",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Casino.Casino\lGamePlayers.RpcWriter_\l__Server_RequestRemovePlayer\l_3323014238",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_casino_1_1_casino_game_players.html#af0c94efc0e539ef9aa5da264518ec4f8",tooltip=" "];
+}

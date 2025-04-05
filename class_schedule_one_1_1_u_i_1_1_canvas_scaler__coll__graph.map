@@ -1,0 +1,9 @@
+<map id="ScheduleOne.UI.CanvasScaler" name="ScheduleOne.UI.CanvasScaler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,407,213,625"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="54,5,154,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,90,111,407,105,407,102,90"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_u_i_1_1_canvas_scaler.html" title=" " alt="" coords="125,124,333,343"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="136,86,161,123,156,126,132,89"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="186,344,165,392,160,390,181,341"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="334,209,353,217,360,233,358,243,351,251,347,247,353,241,355,234,349,221,332,213"/>
+</map>

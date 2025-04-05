@@ -1,0 +1,15 @@
+<map id="ScheduleOne.Tiles.CoordinateFootprintTilePair" name="ScheduleOne.Tiles.CoordinateFootprintTilePair">
+<area shape="rect" id="Node000001" title=" " alt="" coords="43,881,230,967"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_tiles_1_1_coordinate.html" title=" " alt="" coords="5,449,193,817"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,817,132,864,126,865,120,817"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_tiles_1_1_footprint_tile.html" title=" " alt="" coords="217,535,414,732"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="259,733,207,819,175,869,170,866,202,816,255,730"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="265,5,366,75"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="253,72,222,95,199,125,183,161,173,193,169,222,169,251,181,311,199,385,224,462,258,534,254,536,219,464,194,386,175,312,164,251,163,222,168,192,178,159,194,123,219,91,250,68"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_tiles_1_1_tile_appearance.html" title=" " alt="" coords="208,167,422,343"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="318,89,318,167,312,167,312,89"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_tiles_1_1_tile_detector.html" title=" " alt="" coords="447,124,642,385"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="379,78,437,122,449,133,445,137,433,126,376,82"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="318,342,318,518,312,518,312,342"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="468,386,386,521,381,519,464,383"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ScheduleOne.ItemFramework.ClipboardSlot" name="ScheduleOne.ItemFramework.ClipboardSlot">
+<area shape="rect" id="Node000001" title=" " alt="" coords="12,976,200,1061"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_player_scripts_1_1_hotbar_slot.html" title=" " alt="" coords="19,693,194,928"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,943,109,976,104,976,104,943"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_item_framework_1_1_item_slot.html" title=" " alt="" coords="5,5,207,645"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="109,660,109,693,104,693,104,660"/>
+</map>

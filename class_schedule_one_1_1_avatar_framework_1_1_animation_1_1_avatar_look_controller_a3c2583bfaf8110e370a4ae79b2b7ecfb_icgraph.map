@@ -1,0 +1,9 @@
+<map id="ScheduleOne.AvatarFramework.Animation.AvatarLookController.LookForward" name="ScheduleOne.AvatarFramework.Animation.AvatarLookController.LookForward">
+<area shape="rect" id="Node000001" title=" " alt="" coords="561,35,771,93"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_avatar_framework_1_1_animation_1_1_avatar_look_controller.html#aa903f6e5f89b7ab5f61aa077955dca41" title=" " alt="" coords="264,5,513,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="545,50,513,46,514,41,546,45"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_avatar_framework_1_1_animation_1_1_avatar_look_controller.html#a4946344885de36564afe30117953bc65" title=" " alt="" coords="283,72,494,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="546,83,494,90,494,85,545,78"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_avatar_framework_1_1_animation_1_1_avatar_look_controller.html#a3d49fa7581ed13379a6c3e3197173841" title=" " alt="" coords="5,72,216,131"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="268,104,216,104,216,99,268,99"/>
+</map>

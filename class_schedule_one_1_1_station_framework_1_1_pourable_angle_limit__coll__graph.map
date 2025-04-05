@@ -1,0 +1,35 @@
+<map id="ScheduleOne.StationFramework.PourableAngleLimit" name="ScheduleOne.StationFramework.PourableAngleLimit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,3121,208,3292"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="346,5,446,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="331,53,262,65,186,81,120,102,95,113,78,126,44,169,29,210,26,257,27,315,27,2728,32,2835,47,2941,66,3039,86,3121,81,3122,61,3040,42,2942,27,2835,21,2728,21,315,21,256,24,209,39,166,74,122,92,109,118,97,185,76,261,59,330,48"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_station_framework_1_1_item_module.html" title=" " alt="" coords="441,532,644,639"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="436,86,442,98,466,155,486,215,515,336,533,446,542,532,537,532,527,447,510,337,481,217,461,157,438,100,431,88"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_station_framework_1_1_liquid_container.html" title=" " alt="" coords="712,124,915,508"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="461,64,527,96,625,161,714,228,711,232,622,165,524,101,458,68"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_station_framework_1_1_liquid_volume_collider.html" title=" " alt="" coords="889,897,1092,983"/>
+<area shape="poly" id="edge8_Node000006_Node000002" title=" " alt="" coords="461,40,578,47,716,60,783,71,844,84,893,101,928,122,968,163,1000,208,1025,257,1044,310,1057,365,1065,421,1070,535,1061,647,1044,748,1025,834,1007,898,1001,897,1019,833,1039,747,1056,646,1064,535,1060,422,1052,366,1039,311,1020,259,995,211,964,166,925,126,891,106,842,89,782,76,715,65,577,52,461,46"/>
+<area shape="rect" id="Node000008" href="$class_schedule_one_1_1_player_tasks_1_1_clickable.html" title=" " alt="" coords="160,167,328,465"/>
+<area shape="poly" id="edge12_Node000008_Node000002" title=" " alt="" coords="362,88,354,100,316,168,311,165,350,97,358,85"/>
+<area shape="rect" id="Node000009" href="$class_schedule_one_1_1_player_tasks_1_1_draggable_constraint.html" title=" " alt="" coords="61,1905,238,2332"/>
+<area shape="poly" id="edge14_Node000009_Node000002" title=" " alt="" coords="331,46,284,54,235,68,188,91,168,107,150,125,130,168,113,236,99,327,89,437,75,697,70,988,72,1281,78,1547,87,1756,96,1881,99,1905,94,1906,91,1882,82,1757,73,1547,67,1281,65,988,70,697,83,436,94,327,108,235,125,166,146,123,164,103,185,87,233,63,283,48,330,41"/>
+<area shape="rect" id="Node000010" href="$class_schedule_one_1_1_audio_1_1_audio_source_controller.html" title=" " alt="" coords="321,1241,524,1881"/>
+<area shape="poly" id="edge18_Node000010_Node000002" title=" " alt="" coords="394,90,393,99,389,303,393,508,402,889,413,1242,408,1242,397,889,388,508,384,303,388,99,389,90"/>
+<area shape="rect" id="Node000011" href="$class_schedule_one_1_1_station_framework_1_1_fillable.html" title=" " alt="" coords="573,823,776,1057"/>
+<area shape="poly" id="edge20_Node000011_Node000002" title=" " alt="" coords="399,89,400,213,406,373,420,528,430,591,443,638,469,693,501,746,538,795,576,839,572,842,534,798,497,749,464,696,437,640,424,592,414,528,401,373,395,213,393,89"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_station_framework_1_1_pourable_module.html" title=" " alt="" coords="321,2396,524,3057"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="324,2882,174,3109,169,3106,319,2880"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="549,653,558,923,563,1336,559,1577,549,1829,532,2083,507,2332,497,2396,492,2396,501,2332,527,2083,544,1828,554,1577,557,1336,553,923,543,654"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="823,508,831,930,831,1189,827,1460,816,1725,798,1969,785,2079,769,2177,751,2263,729,2333,692,2414,644,2490,591,2559,537,2619,533,2616,586,2556,639,2487,687,2411,724,2331,746,2261,764,2176,779,2078,792,1969,811,1724,822,1459,826,1189,825,930,817,508"/>
+<area shape="poly" id="edge9_Node000006_Node000005" title=" " alt="" coords="830,507,841,573,857,638,879,705,906,771,961,881,956,883,901,773,874,707,851,639,836,574,825,508"/>
+<area shape="poly" id="edge21_Node000011_Node000005" title=" " alt="" coords="715,480,695,533,680,601,671,672,668,741,668,806,662,806,662,741,666,672,675,600,690,531,710,478"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="992,897,996,826,994,734,984,633,973,582,959,533,942,494,921,457,926,454,947,492,964,531,978,581,989,632,1000,734,1001,827,997,898"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_player_tasks_1_1_draggable.html" title=" " alt="" coords="125,663,318,1217"/>
+<area shape="poly" id="edge10_Node000003_Node000007" title=" " alt="" coords="282,1217,285,1241,304,1406,313,1547,318,1787,322,2026,331,2166,349,2332,356,2379,350,2380,344,2332,326,2167,317,2026,313,1787,308,1547,298,1407,280,1242,277,1217"/>
+<area shape="poly" id="edge15_Node000009_Node000007" title=" " alt="" coords="127,1194,117,1242,106,1325,98,1409,95,1580,103,1743,117,1888,112,1889,98,1743,90,1580,93,1409,100,1324,112,1241,122,1193"/>
+<area shape="poly" id="edge11_Node000007_Node000008" title=" " alt="" coords="241,480,234,663,229,663,235,480"/>
+<area shape="poly" id="edge22_Node000001_Node000009" title=" " alt="" coords="144,2332,113,3105,108,3104,138,2332"/>
+<area shape="poly" id="edge16_Node000003_Node000009" title=" " alt="" coords="139,2331,154,2371,160,2379,168,2383,186,2394,253,2470,314,2550,310,2553,249,2473,182,2398,165,2388,157,2383,149,2373,134,2333"/>
+<area shape="poly" id="edge13_Node000007_Node000009" title=" " alt="" coords="179,1906,181,1881,197,1598,210,1234,216,1235,203,1598,187,1882,184,1906"/>
+<area shape="poly" id="edge17_Node000003_Node000010" title=" " alt="" coords="425,1881,425,2379,420,2379,420,1881"/>
+<area shape="poly" id="edge19_Node000003_Node000011" title=" " alt="" coords="680,1057,679,1299,665,1627,651,1811,630,1999,602,2189,565,2373,532,2484,527,2482,560,2371,597,2188,625,1999,646,1810,660,1627,673,1299,675,1057"/>
+</map>

@@ -1,0 +1,17 @@
+digraph "ScheduleOne.Vehicles.LandVehicle.RpcReader___Observers_SetOwnedColor_1679996372"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.Vehicles.Land\lVehicle.RpcReader___Observers\l_SetOwnedColor_1679996372",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Vehicles.Land\lVehicle.RpcLogic___SetOwnedColor\l_1679996372",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_vehicles_1_1_land_vehicle.html#aa227078ff04dc804fa364138aa98ccc0",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Vehicles.Land\lVehicle.ApplyOwnedColor",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_vehicles_1_1_land_vehicle.html#a61e427317364261bd0e1c2027787c2bb",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.Vehicles.Land\lVehicle.ApplyColor",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_vehicles_1_1_land_vehicle.html#a681dcfac0248ef58e58d567c75b99e37",tooltip=" "];
+  Node2 -> Node5 [id="edge4_Node000002_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.Vehicles.Land\lVehicle.RefreshPoI",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_vehicles_1_1_land_vehicle.html#a1cab52296fc001a78673f429dc6dd55b",tooltip=" "];
+}

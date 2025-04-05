@@ -1,0 +1,9 @@
+<map id="ScheduleOne.NPCs.Schedules.NPCSignal_UseATM" name="ScheduleOne.NPCs.Schedules.NPCSignal_UseATM">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1680,332,2405"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_n_p_cs_1_1_schedules_1_1_n_p_c_signal.html" title=" " alt="" coords="28,1077,310,1632"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,1647,172,1680,166,1680,166,1647"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_n_p_cs_1_1_schedules_1_1_n_p_c_action.html" title=" " alt="" coords="27,123,310,1029"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="172,1045,172,1078,166,1078,166,1045"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="110,5,228,75"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="172,90,172,123,166,123,166,90"/>
+</map>

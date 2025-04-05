@@ -1,0 +1,15 @@
+digraph "ScheduleOne.Building.BuildUpdate_StoredItem.LateUpdate"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.Building.Build\lUpdate_StoredItem.LateUpdate",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Building.Build\lUpdate_StoredItem.ApplyRotation",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_building_1_1_build_update___stored_item.html#ac568b5510224c4df1c5a8c7c9c8bf720",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Building.Build\lUpdate_StoredItem.CheckGridIntersections",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_building_1_1_build_update___stored_item.html#ace3a6a082fc33519f31bdcc0366ca89d",tooltip=" "];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.Building.Build\lUpdate_StoredItem.UpdateMaterials",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_building_1_1_build_update___stored_item.html#aa9b455f423266db1d6a8eaa7c940aa78",tooltip=" "];
+}

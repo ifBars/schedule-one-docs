@@ -1,0 +1,12 @@
+<map id="ScheduleOne.DevUtilities.IconGenerator" name="ScheduleOne.DevUtilities.IconGenerator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="8,1017,178,1316"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_dev_utilities_1_1_singleton-1-g.html" title=" " alt="" coords="5,124,170,316"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,331,95,1018,89,1018,86,331"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_dev_utilities_1_1_persistent_singleton-1-g.html" title=" " alt="" coords="117,365,282,451"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="155,327,177,364,172,367,150,330"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="37,5,138,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="90,89,90,124,85,124,85,89"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_registry.html" title=" " alt="" coords="110,500,306,953"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="151,954,139,1002,133,1001,146,952"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="204,466,205,500,199,501,198,466"/>
+</map>

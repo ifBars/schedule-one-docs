@@ -1,0 +1,10 @@
+<map id="ScheduleOne.AvatarFramework.Animation.AvatarAnimation.SetBool" name="ScheduleOne.AvatarFramework.Animation.AvatarAnimation.SetBool">
+<area shape="rect" id="Node000001" title=" " alt="" coords="562,55,791,97"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_avatar_framework_1_1_animation_1_1_avatar_animation.html#a65b0294a2d5efb1e4e7292146a97569c" title=" " alt="" coords="265,5,514,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="546,60,514,55,515,50,547,55"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_avatar_framework_1_1_animation_1_1_avatar_animation.html#a60e0c546340e742208a52a0936ba9abd" title=" " alt="" coords="265,88,514,147"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="547,97,515,102,514,97,546,92"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_avatar_framework_1_1_animation_1_1_avatar_animation.html#a9b6788571bba5aef2c08b178df2d1b88" title=" " alt="" coords="5,55,217,97"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="249,58,218,63,217,58,249,53"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="249,99,217,94,218,89,249,94"/>
+</map>

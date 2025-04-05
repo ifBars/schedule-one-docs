@@ -1,0 +1,11 @@
+<map id="ScheduleOne.ObjectScripts.FunctionalWateringCan" name="ScheduleOne.ObjectScripts.FunctionalWateringCan">
+<area shape="rect" id="Node000001" title=" " alt="" coords="14,1824,190,1952"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_player_tasks_1_1_pourable.html" title=" " alt="" coords="18,1093,186,1776"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,1791,104,1824,99,1824,99,1791"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_player_tasks_1_1_draggable.html" title=" " alt="" coords="5,469,198,1045"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="104,1060,104,1094,99,1094,99,1060"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_player_tasks_1_1_clickable.html" title=" " alt="" coords="18,123,186,421"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="104,436,104,470,99,470,99,436"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="52,5,152,75"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="104,89,104,123,99,123,99,89"/>
+</map>

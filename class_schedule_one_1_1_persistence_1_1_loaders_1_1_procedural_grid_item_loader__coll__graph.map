@@ -1,0 +1,7 @@
+<map id="ScheduleOne.Persistence.Loaders.ProceduralGridItemLoader" name="ScheduleOne.Persistence.Loaders.ProceduralGridItemLoader">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,400,217,507"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_buildable_item_loader.html" title=" " alt="" coords="22,203,200,352"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,367,114,400,108,400,108,367"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_loader.html" title=" " alt="" coords="28,5,194,155"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="114,170,114,203,108,203,108,170"/>
+</map>

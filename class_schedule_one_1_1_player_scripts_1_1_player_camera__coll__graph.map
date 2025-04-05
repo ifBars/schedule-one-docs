@@ -1,0 +1,20 @@
+<map id="ScheduleOne.PlayerScripts.PlayerCamera" name="ScheduleOne.PlayerScripts.PlayerCamera">
+<area shape="rect" id="Node000001" title=" " alt="" coords="291,1175,514,2625"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_dev_utilities_1_1_player_singleton-1-g.html" title=" " alt="" coords="5,788,170,980"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,994,293,1539,288,1541,119,995"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="352,5,453,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="341,78,314,100,291,126,242,207,202,295,170,387,145,478,125,567,111,650,95,789,90,788,106,649,120,566,139,477,165,385,197,293,238,205,287,122,310,96,338,74"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_audio_1_1_heartbeat_sound_controller.html" title=" " alt="" coords="528,1004,714,1111"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="467,71,495,94,518,123,528,165,541,251,571,507,619,1004,614,1005,565,508,536,251,523,166,513,125,491,98,463,76"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_audio_1_1_audio_source_controller.html" title=" " alt="" coords="300,124,504,764"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="405,90,405,124,400,124,400,90"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_tools_1_1_float_smoother.html" title=" " alt="" coords="627,292,839,596"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="758,596,768,717,773,857,768,1005,759,1079,746,1151,728,1225,705,1299,649,1445,587,1580,524,1700,520,1698,582,1578,645,1443,700,1298,723,1224,741,1150,754,1078,762,1005,768,857,763,717,752,596"/>
+<area shape="poly" id="edge8_Node000005_Node000004" title=" " alt="" coords="686,597,660,691,639,788,628,892,624,987,618,987,622,892,634,788,655,690,680,595"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="594,1112,584,1136,551,1233,521,1334,516,1333,546,1232,579,1134,590,1110"/>
+<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="303,675,247,835,224,920,206,1004,196,1084,194,1165,199,1247,210,1328,225,1407,244,1484,288,1626,283,1627,238,1485,220,1408,205,1328,194,1247,189,1165,191,1084,200,1004,218,919,242,834,298,673"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="436,763,461,892,477,942,495,978,516,997,512,1001,491,982,472,944,456,893,431,764"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_audio_1_1_randomized_audio_source_controller.html" title=" " alt="" coords="301,1004,504,1111"/>
+<area shape="poly" id="edge11_Node000007_Node000006" title=" " alt="" coords="405,779,405,1004,400,1004,400,779"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="405,1111,405,1158,400,1158,400,1111"/>
+</map>

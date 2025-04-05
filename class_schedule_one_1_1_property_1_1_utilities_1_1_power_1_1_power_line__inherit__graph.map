@@ -1,0 +1,7 @@
+<map id="ScheduleOne.Property.Utilities.Power.PowerLine" name="ScheduleOne.Property.Utilities.Power.PowerLine">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1451,298,2240"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_constructable_scripts_1_1_constructable.html" title=" " alt="" coords="20,123,284,1403"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,1418,154,1451,149,1451,149,1418"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="93,5,211,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="154,90,154,123,149,123,149,90"/>
+</map>

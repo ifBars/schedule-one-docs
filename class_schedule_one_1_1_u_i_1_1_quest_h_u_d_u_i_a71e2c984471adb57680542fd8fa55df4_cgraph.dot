@@ -1,0 +1,27 @@
+digraph "ScheduleOne.UI.QuestHUDUI.Initialize"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.UI.QuestHUDUI.\lInitialize",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.UI.QuestHUDUI.\lEntryEnded",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_quest_h_u_d_u_i.html#a6a4d7c2ded55addfed12779fa6680742",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.UI.QuestHUDUI.\lComplete",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_quest_h_u_d_u_i.html#a47bf5e87b36b39e477f51060458b467b",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.UI.QuestHUDUI.\lFadeOut",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_quest_h_u_d_u_i.html#a94fb03b6c00c88c3e5be29b863ad384d",tooltip=" "];
+  Node2 -> Node4 [id="edge4_Node000002_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node1 -> Node5 [id="edge5_Node000001_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.UI.QuestHUDUI.\lFadeIn",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_quest_h_u_d_u_i.html#adcc8ff75c5a9b7a5505b688cd2b77eb7",tooltip=" "];
+  Node1 -> Node6 [id="edge6_Node000001_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="ScheduleOne.UI.QuestHUDUI.\lUpdateMainLabel",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_quest_h_u_d_u_i.html#a637046a4c3cde53e2981541a63d272e2",tooltip=" "];
+  Node1 -> Node7 [id="edge7_Node000001_Node000007",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="ScheduleOne.UI.QuestHUDUI.\lUpdateUI",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_quest_h_u_d_u_i.html#ad486638b1a2502e8a27c5dbc39cab212",tooltip=" "];
+  Node7 -> Node8 [id="edge8_Node000007_Node000008",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="ScheduleOne.UI.QuestHUDUI.\lUpdateExpiry",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_quest_h_u_d_u_i.html#a194e4c73985b751dc7b4fc9dea4ed8f4",tooltip=" "];
+  Node7 -> Node6 [id="edge9_Node000007_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node7 -> Node9 [id="edge10_Node000007_Node000009",color="steelblue1",style="solid",tooltip=" "];
+  Node9 [id="Node000009",label="ScheduleOne.UI.QuestHUDUI.\lUpdateShade",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_quest_h_u_d_u_i.html#a26dd1662739bb7e20672c1414cfb46a8",tooltip=" "];
+}

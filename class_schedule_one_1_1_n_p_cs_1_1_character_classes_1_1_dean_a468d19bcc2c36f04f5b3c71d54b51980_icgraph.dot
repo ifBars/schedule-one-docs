@@ -1,0 +1,13 @@
+digraph "ScheduleOne.NPCs.CharacterClasses.Dean.TattooChoiceValid"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="ScheduleOne.NPCs.Character\lClasses.Dean.TattooChoiceValid",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.NPCs.Character\lClasses.Dean.Awake_UserLogic\l_ScheduleOne_002ENPCs_002ECharacter\lClasses_002EDean_Assembly_002DCSharp_002Edll",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_character_classes_1_1_dean.html#ae10dcfd79225c7883677f3c094e02206",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.NPCs.Character\lClasses.Dean.Awake",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_character_classes_1_1_dean.html#ae5d108dd75ce8aa8a99221833235585c",tooltip=" "];
+}

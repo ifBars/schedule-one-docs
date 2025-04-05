@@ -1,0 +1,15 @@
+<map id="ScheduleOne.PlayerTasks.Pourable" name="ScheduleOne.PlayerTasks.Pourable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="238,1093,407,1776"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_growing_1_1_pourable_additive.html" title=" " alt="" coords="5,2016,210,2165"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="236,1708,134,2017,129,2015,231,1706"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_object_scripts_1_1_functional_watering_can.html" title=" " alt="" coords="235,2027,410,2155"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="325,1791,325,2027,320,2027,320,1791"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_object_scripts_1_1_soil_1_1_pourable_soil.html" title=" " alt="" coords="434,1824,622,2357"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="414,1718,447,1823,442,1825,409,1719"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_player_tasks_1_1_draggable.html" title=" " alt="" coords="226,469,419,1045"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="325,1060,325,1094,320,1094,320,1060"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_player_tasks_1_1_clickable.html" title=" " alt="" coords="238,123,407,421"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="325,436,325,470,320,470,320,436"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="272,5,373,75"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="325,89,325,123,320,123,320,89"/>
+</map>

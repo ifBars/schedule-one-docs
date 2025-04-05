@@ -1,0 +1,11 @@
+digraph "ScheduleOne.NPCs.Actions.NPCActions.RpcWriter___Server_CallPolice_Networked_1385486242"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="ScheduleOne.NPCs.Actions.\lNPCActions.RpcWriter__\l_Server_CallPolice_Networked\l_1385486242",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.NPCs.Actions.\lNPCActions.CallPolice_Networked",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_actions_1_1_n_p_c_actions.html#a5712805beebc7b773ac3de20016f50dd",tooltip=" "];
+}

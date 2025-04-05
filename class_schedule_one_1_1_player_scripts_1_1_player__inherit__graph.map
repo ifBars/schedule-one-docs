@@ -1,0 +1,9 @@
+<map id="ScheduleOne.PlayerScripts.Player" name="ScheduleOne.PlayerScripts.Player">
+<area shape="rect" id="Node000001" title=" " alt="" coords="108,523,353,2384"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,205,123,275"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,289,111,562,106,563,68,290"/>
+<area shape="rect" id="Node000003" href="$interface_schedule_one_1_1_persistence_1_1_i_saveable.html" title=" " alt="" coords="147,5,315,475"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="234,490,234,523,228,523,228,490"/>
+<area shape="rect" id="Node000004" href="$interface_schedule_one_1_1_combat_1_1_i_damageable.html" title=" " alt="" coords="338,195,558,285"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="440,300,356,770,351,769,435,299"/>
+</map>

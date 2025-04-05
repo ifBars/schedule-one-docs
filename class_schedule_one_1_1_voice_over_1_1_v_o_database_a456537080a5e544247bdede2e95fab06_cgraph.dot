@@ -1,0 +1,13 @@
+digraph "ScheduleOne.VoiceOver.VODatabase.GetRandomClip"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.VoiceOver.VODatabase.\lGetRandomClip",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.VoiceOver.VODatabase.\lGetEntry",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_voice_over_1_1_v_o_database.html#a4173e5e7a7781d379a4cd9bf204412a1",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.VoiceOver.VODatabase\lEntry.GetRandomClip",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_voice_over_1_1_v_o_database_entry.html#aa3ece4d91e9229b93d6f9eda72e681b3",tooltip=" "];
+}

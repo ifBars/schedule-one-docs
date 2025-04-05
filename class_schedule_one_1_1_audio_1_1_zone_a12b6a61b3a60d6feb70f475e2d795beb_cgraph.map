@@ -1,0 +1,7 @@
+<map id="ScheduleOne.Audio.Zone.DoBoundsContainPoint" name="ScheduleOne.Audio.Zone.DoBoundsContainPoint">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,196,48"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_audio_1_1_zone.html#ac9ccb336604796d4c65e87ce3e87972c" title=" " alt="" coords="244,5,438,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,24,228,24,228,29,196,29"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_audio_1_1_zone.html#ae17d5318c75043198fe817745770179d" title=" " alt="" coords="486,5,680,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="439,24,471,24,471,29,439,29"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="ScheduleOne.AvatarFramework.Customization.ACSelection&lt; T &gt;" name="ScheduleOne.AvatarFramework.Customization.ACSelection&lt; T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="282,123,485,485"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_avatar_framework_1_1_customization_1_1_a_c_accessory_selection.html" title=" " alt="" coords="5,533,239,661"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="274,431,180,535,176,532,270,427"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_avatar_framework_1_1_customization_1_1_a_c_avatar_layer_selection.html" title=" " alt="" coords="263,533,504,661"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="386,500,386,534,381,534,381,500"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_avatar_framework_1_1_customization_1_1_a_c_face_layer_selection.html" title=" " alt="" coords="528,533,761,661"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="497,427,591,532,587,535,493,431"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="333,5,434,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="386,90,386,123,381,123,381,90"/>
+</map>

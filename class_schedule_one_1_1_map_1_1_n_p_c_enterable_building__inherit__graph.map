@@ -1,0 +1,11 @@
+<map id="ScheduleOne.Map.NPCEnterableBuilding" name="ScheduleOne.Map.NPCEnterableBuilding">
+<area shape="rect" id="Node000001" title=" " alt="" coords="120,144,326,501"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_map_1_1_medical_centre.html" title=" " alt="" coords="5,741,211,811"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="177,516,119,742,114,741,171,515"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_map_1_1_police_station.html" title=" " alt="" coords="235,549,443,1003"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="275,515,283,549,278,550,270,516"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="84,16,185,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,98,168,144,163,145,148,100"/>
+<area shape="rect" id="Node000003" href="$interface_schedule_one_1_1_i_g_u_i_d_registerable.html" title=" " alt="" coords="209,5,413,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="294,111,283,145,278,144,289,109"/>
+</map>

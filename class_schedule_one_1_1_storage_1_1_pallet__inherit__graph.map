@@ -1,0 +1,7 @@
+<map id="ScheduleOne.Storage.Pallet" name="ScheduleOne.Storage.Pallet">
+<area shape="rect" id="Node000001" title=" " alt="" coords="47,373,281,1659"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,131,123,200"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,215,91,373,86,374,67,215"/>
+<area shape="rect" id="Node000003" href="$interface_schedule_one_1_1_storage_1_1_i_storage_entity.html" title=" " alt="" coords="147,5,381,325"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="246,340,242,374,237,373,241,340"/>
+</map>

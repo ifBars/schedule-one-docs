@@ -1,0 +1,5 @@
+<map id="ScheduleOne.PlayerTasks.HarvestPlant" name="ScheduleOne.PlayerTasks.HarvestPlant">
+<area shape="rect" id="Node000001" title=" " alt="" coords="18,848,190,1189"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_player_tasks_1_1_task.html" title=" " alt="" coords="5,5,202,800"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,815,106,848,101,848,101,815"/>
+</map>

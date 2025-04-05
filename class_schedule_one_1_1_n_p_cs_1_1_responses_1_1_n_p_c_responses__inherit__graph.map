@@ -1,0 +1,11 @@
+<map id="ScheduleOne.NPCs.Responses.NPCResponses" name="ScheduleOne.NPCs.Responses.NPCResponses">
+<area shape="rect" id="Node000001" title=" " alt="" coords="247,123,546,800"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_employees_1_1_n_p_c_responses___employee.html" title=" " alt="" coords="5,997,262,1163"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="249,815,171,998,166,996,244,813"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_n_p_cs_1_1_responses_1_1_n_p_c_responses___civilian.html" title=" " alt="" coords="286,883,507,1277"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="399,815,399,883,394,883,394,815"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_police_1_1_n_p_c_responses___police.html" title=" " alt="" coords="530,848,758,1312"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="540,813,554,847,549,849,535,815"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="346,5,447,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="399,90,399,123,394,123,394,90"/>
+</map>

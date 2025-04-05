@@ -1,0 +1,7 @@
+<map id="ScheduleOne.UI.NotificationsManager" name="ScheduleOne.UI.NotificationsManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,363,189,576"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_dev_utilities_1_1_singleton-1-g.html" title=" " alt="" coords="15,123,180,315"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,330,100,363,94,363,94,330"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="47,5,148,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="100,90,100,123,94,123,94,90"/>
+</map>

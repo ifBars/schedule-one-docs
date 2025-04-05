@@ -1,0 +1,15 @@
+digraph "ScheduleOne.Management.ConfigurationReplicator.RpcReader___Observers_ReceiveItemField_2801973956"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.Management.Configuration\lReplicator.RpcReader___Observers\l_ReceiveItemField_2801973956",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Management.Configuration\lReplicator.RpcLogic___ReceiveItemField\l_2801973956",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_management_1_1_configuration_replicator.html#a61b2ecfa140fb51c42015ba7bd53e290",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Registry.GetItem",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_registry.html#ad08d598935d9438bdd2e1884e18de07c",tooltip=" "];
+  Node2 -> Node4 [id="edge3_Node000002_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.Management.Item\lField.SetItem",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_management_1_1_item_field.html#aab13e92377176d4d768abfc1b644edfa",tooltip=" "];
+}

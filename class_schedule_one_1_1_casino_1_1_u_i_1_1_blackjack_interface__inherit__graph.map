@@ -1,0 +1,7 @@
+<map id="ScheduleOne.Casino.UI.BlackjackInterface" name="ScheduleOne.Casino.UI.BlackjackInterface">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,363,223,1024"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_dev_utilities_1_1_singleton-1-g.html" title=" " alt="" coords="32,123,197,315"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,330,117,363,112,363,112,330"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="64,5,165,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="117,90,117,123,112,123,112,90"/>
+</map>

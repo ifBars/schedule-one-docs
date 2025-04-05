@@ -1,0 +1,15 @@
+digraph "ScheduleOne.Dialogue.DialogueModule.GetLine"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.Dialogue.Dialogue\lModule.GetLine",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Dialogue.Dialogue\lModule.GetEntry",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_dialogue_1_1_dialogue_module.html#a195000c6633741294ebb2f2d78134410",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Dialogue.Entry.\lGetRandomLine",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$struct_schedule_one_1_1_dialogue_1_1_entry.html#a1f43456c1dc92dd3150c456c5fced865",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.Dialogue.Entry.\lGetRandomChain",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$struct_schedule_one_1_1_dialogue_1_1_entry.html#adf7be6f29613732f7739bf9b6669443c",tooltip=" "];
+}

@@ -1,0 +1,17 @@
+<map id="ScheduleOne.NPCs.CharacterClasses.Benji" name="ScheduleOne.NPCs.CharacterClasses.Benji">
+<area shape="rect" id="Node000001" title=" " alt="" coords="324,3883,614,4309"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_economy_1_1_dealer.html" title=" " alt="" coords="350,2203,589,3835"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="472,3850,472,3883,467,3883,467,3850"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_n_p_cs_1_1_n_p_c.html" title=" " alt="" coords="238,523,468,2155"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="414,2169,416,2203,411,2203,408,2170"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,205,123,275"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="79,288,241,901,236,902,74,289"/>
+<area shape="rect" id="Node000005" href="$interface_schedule_one_1_1_i_g_u_i_d_registerable.html" title=" " alt="" coords="148,195,351,285"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="258,300,279,522,274,523,252,300"/>
+<area shape="rect" id="Node000006" href="$interface_schedule_one_1_1_persistence_1_1_i_saveable.html" title=" " alt="" coords="375,5,543,475"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="438,490,434,523,429,523,432,489"/>
+<area shape="rect" id="Node000007" href="$interface_schedule_one_1_1_combat_1_1_i_damageable.html" title=" " alt="" coords="566,195,786,285"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="658,300,618,388,590,434,557,477,537,492,517,500,500,508,484,524,470,546,466,543,479,521,497,503,515,495,534,487,553,473,585,431,613,385,653,298"/>
+<area shape="rect" id="Node000008" href="$interface_schedule_one_1_1_item_framework_1_1_i_item_slot_owner.html" title=" " alt="" coords="493,1243,681,1435"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="582,1450,529,2203,524,2203,577,1449"/>
+</map>

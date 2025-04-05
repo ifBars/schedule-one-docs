@@ -1,0 +1,25 @@
+digraph "ScheduleOne.Dialogue.DialogueHandler.DialogueCallback"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="ScheduleOne.Dialogue.Dialogue\lHandler.DialogueCallback",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Dialogue.Dialogue\lHandler.ShowNode",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_dialogue_1_1_dialogue_handler.html#ab07f6baf44ab3c4ca2e3e5a172773d22",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Dialogue.Dialogue\lHandler.ChoiceSelected",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_dialogue_1_1_dialogue_handler.html#a72d93bb2140d68f2824aac75645f87fd",tooltip=" "];
+  Node2 -> Node4 [id="edge3_Node000002_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.Dialogue.Dialogue\lHandler.ContinueSubmitted",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_dialogue_1_1_dialogue_handler.html#ad2af4b34aeddecda3da98b8a9f88b81c",tooltip=" "];
+  Node2 -> Node5 [id="edge4_Node000002_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.Dialogue.Dialogue\lHandler.EvaluateBranch",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_dialogue_1_1_dialogue_handler.html#a98c6b8f250244df26f8f32248265eb6f",tooltip=" "];
+  Node5 -> Node3 [id="edge5_Node000005_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 -> Node4 [id="edge6_Node000005_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 -> Node5 [id="edge7_Node000005_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 -> Node6 [id="edge8_Node000005_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="ScheduleOne.Dialogue.Dialogue\lHandler.InitializeDialogue",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_dialogue_1_1_dialogue_handler.html#a3d1c473c6f77c2c05206cd0226cd2196",tooltip=" "];
+  Node2 -> Node6 [id="edge9_Node000002_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 -> Node7 [id="edge10_Node000002_Node000007",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="ScheduleOne.Dialogue.Dialogue\lHandler.StopOverride",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_dialogue_1_1_dialogue_handler.html#aec6a5ecd4b8cdde0eaf56b75199273d7",tooltip=" "];
+}

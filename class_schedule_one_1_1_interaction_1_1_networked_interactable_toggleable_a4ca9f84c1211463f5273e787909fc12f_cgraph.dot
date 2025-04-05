@@ -1,0 +1,15 @@
+digraph "ScheduleOne.Interaction.NetworkedInteractableToggleable.SetState"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.Interaction.\lNetworkedInteractableToggleable.\lSetState",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Interaction.\lNetworkedInteractableToggleable.\lRpcLogic___SetState_214505783",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_interaction_1_1_networked_interactable_toggleable.html#ab96cb35bb3ecad5b9131f8ec85e5b9fb",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Interaction.\lNetworkedInteractableToggleable.\lRpcWriter___Observers_SetState\l_214505783",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_interaction_1_1_networked_interactable_toggleable.html#a5f7fcd0a20d7d6acad928b620e15408b",tooltip=" "];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.Interaction.\lNetworkedInteractableToggleable.\lRpcWriter___Target_SetState\l_214505783",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_interaction_1_1_networked_interactable_toggleable.html#a6b2609460b8003a49abda512d6af3cab",tooltip=" "];
+}

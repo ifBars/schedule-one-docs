@@ -1,0 +1,15 @@
+digraph "ScheduleOne.Delivery.DeliveryManager.RpcLogic___SetDeliveryState_316609003"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.Delivery.Delivery\lManager.RpcLogic___SetDeliveryState\l_316609003",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Delivery.Delivery\lManager.GetDelivery",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_delivery_1_1_delivery_manager.html#a764865ccfb4c0a3afbf5a3a7e95b3eab",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Delivery.Delivery\lInstance.SetStatus",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_delivery_1_1_delivery_instance.html#ad91285ce1a9ce80c9d49f88b475923f2",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.Console.Log",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_console.html#afb218907244d12f7d08b1c1831fa1f8c",tooltip=" "];
+}

@@ -1,0 +1,28 @@
+<map id="ScheduleOne.ItemFramework.ItemPickup" name="ScheduleOne.ItemFramework.ItemPickup">
+<area shape="rect" id="Node000001" title=" " alt="" coords="153,1217,420,1932"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="329,969,446,1039"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="382,1054,352,1218,347,1217,376,1053"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_item_framework_1_1_item_definition.html" title=" " alt="" coords="591,855,779,1153"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="593,1114,511,1219,431,1337,426,1334,507,1216,589,1111"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_item_framework_1_1_item_instance.html" title=" " alt="" coords="520,1308,708,1841"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="669,1153,652,1291,647,1291,664,1153"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="521,164,628,233"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="584,248,667,855,662,855,578,248"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_equipping_1_1_equippable.html" title=" " alt="" coords="423,2071,640,2183"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="639,2069,693,2026,716,2000,735,1971,741,1950,746,1918,752,1827,750,1578,739,1327,728,1178,727,1171,732,1170,733,1177,745,1327,756,1578,757,1827,751,1919,746,1952,739,1973,721,2003,697,2030,642,2074"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="560,5,661,75"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="551,84,529,104,511,126,491,159,486,198,486,1576,491,1716,501,1854,526,2071,521,2071,496,1855,485,1716,481,1576,481,197,486,157,507,122,526,100,547,80"/>
+<area shape="rect" id="Node000008" href="$class_schedule_one_1_1_u_i_1_1_items_1_1_item_u_i.html" title=" " alt="" coords="786,1996,974,2257"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="676,50,778,71,889,103,939,123,980,145,1008,170,1016,183,1018,197,1018,1576,1022,1757,1014,1835,990,1933,964,1997,959,1995,985,1931,1009,1834,1016,1756,1013,1576,1013,198,1011,185,1004,173,977,150,937,128,888,108,776,77,675,55"/>
+<area shape="rect" id="Node000009" href="$class_schedule_one_1_1_u_i_1_1_items_1_1_item_info_content.html" title=" " alt="" coords="652,124,825,273"/>
+<area shape="poly" id="edge12_Node000009_Node000006" title=" " alt="" coords="649,84,681,123,677,126,645,88"/>
+<area shape="rect" id="Node000011" href="$class_schedule_one_1_1_interaction_1_1_interactable_object.html" title=" " alt="" coords="243,297,401,831"/>
+<area shape="poly" id="edge15_Node000011_Node000006" title=" " alt="" coords="546,56,504,73,484,85,467,100,432,144,404,193,381,245,363,298,358,297,376,243,399,191,428,141,463,97,481,81,501,68,545,51"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="554,1842,536,1956,532,2054,527,2054,531,1956,548,1841"/>
+<area shape="poly" id="edge10_Node000008_Node000007" title=" " alt="" coords="688,1840,729,1931,778,2006,773,2009,724,1933,683,1842"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="880,1996,881,1803,877,1579,862,1368,850,1283,834,1218,814,1171,786,1126,791,1124,818,1169,840,1216,856,1282,868,1368,882,1578,886,1803,885,1996"/>
+<area shape="poly" id="edge11_Node000003_Node000009" title=" " alt="" coords="736,273,699,838,693,838,731,273"/>
+<area shape="rect" id="Node000010" href="$class_schedule_one_1_1_variables_1_1_condition.html" title=" " alt="" coords="5,948,210,1060"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="115,1060,124,1124,138,1193,150,1234,145,1236,133,1194,119,1125,110,1060"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="275,831,273,855,264,1028,265,1201,259,1201,258,1028,267,854,270,830"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ScheduleOne.Packaging.FilledPackagingVisuals.WeedVisuals" name="ScheduleOne.Packaging.FilledPackagingVisuals.WeedVisuals">
+<area shape="rect" id="Node000001" title=" " alt="" coords="114,224,309,309"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_packaging_1_1_filled_packaging_visuals_1_1_base_visuals.html" title=" " alt="" coords="5,16,197,101"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,113,192,223,187,226,128,116"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_packaging_1_1_filled_packaging_visuals_1_1_mesh_index_pair.html" title=" " alt="" coords="221,5,427,112"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="298,113,245,211,240,208,293,111"/>
+</map>

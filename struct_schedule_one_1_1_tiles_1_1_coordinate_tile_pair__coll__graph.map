@@ -1,0 +1,17 @@
+<map id="ScheduleOne.Tiles.CoordinateTilePair" name="ScheduleOne.Tiles.CoordinateTilePair">
+<area shape="rect" id="Node000001" title=" " alt="" coords="43,1137,230,1223"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_tiles_1_1_coordinate.html" title=" " alt="" coords="5,684,193,1052"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,1052,132,1121,127,1121,119,1052"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_tiles_1_1_tile.html" title=" " alt="" coords="216,663,384,1073"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="219,1052,207,1075,177,1124,172,1121,202,1072,214,1049"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="274,16,375,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="386,93,408,117,424,144,452,215,470,277,480,334,481,388,476,443,466,501,431,639,412,693,387,745,382,743,407,691,426,638,461,500,471,442,476,388,474,334,465,278,447,216,419,147,403,120,382,97"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_tiles_1_1_grid.html" title=" " alt="" coords="15,145,216,599"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="275,97,229,147,218,164,213,161,225,144,271,94"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_lighting_1_1_light_exposure_node.html" title=" " alt="" coords="240,287,409,457"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="327,100,327,287,322,287,322,100"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="202,597,220,646,215,648,197,599"/>
+<area shape="rect" id="Node000006" href="$interface_schedule_one_1_1_i_g_u_i_d_registerable.html" title=" " alt="" coords="13,5,217,96"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="118,111,118,145,112,145,112,111"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="318,457,305,623,304,646,299,646,300,623,313,457"/>
+</map>

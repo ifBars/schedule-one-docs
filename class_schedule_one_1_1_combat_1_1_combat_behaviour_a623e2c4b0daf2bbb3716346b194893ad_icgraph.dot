@@ -1,0 +1,43 @@
+digraph "ScheduleOne.Combat.CombatBehaviour.SucessfulHit"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="ScheduleOne.Combat.Combat\lBehaviour.SucessfulHit",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Combat.Combat\lBehaviour.RpcLogic___ClearWeapon\l_2166136261",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_combat_1_1_combat_behaviour.html#afee5e9e496dd781d3a22c33fc8a9fe7a",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Combat.Combat\lBehaviour.ClearWeapon",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_combat_1_1_combat_behaviour.html#aa735bf211e9e6b70dee53bf2ea561521",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.Combat.Combat\lBehaviour.EndCombat",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_combat_1_1_combat_behaviour.html#a9bb51528bcadb1959fb9271c2fd3109c",tooltip=" "];
+  Node4 -> Node5 [id="edge4_Node000004_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.Combat.Combat\lBehaviour.End",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_combat_1_1_combat_behaviour.html#a09aa686849f991036d1215336befa705",tooltip=" "];
+  Node5 -> Node6 [id="edge5_Node000005_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="ScheduleOne.Combat.Combat\lBehaviour.Disable",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_combat_1_1_combat_behaviour.html#ad9f7e321708a6cbe578cac5b0bfad59b",tooltip=" "];
+  Node4 -> Node7 [id="edge6_Node000004_Node000007",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="ScheduleOne.Combat.Combat\lBehaviour.Pause",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_combat_1_1_combat_behaviour.html#a4083f944005103b638566061c42ec155",tooltip=" "];
+  Node3 -> Node8 [id="edge7_Node000003_Node000008",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="ScheduleOne.Combat.Combat\lBehaviour.RpcLogic___SetWeapon\l_3615296227",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_combat_1_1_combat_behaviour.html#a32d93ff3a11bf067f6bd5fd75eef534f",tooltip=" "];
+  Node8 -> Node9 [id="edge8_Node000008_Node000009",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node9 [id="Node000009",label="ScheduleOne.Combat.Combat\lBehaviour.RpcReader___Observers\l_SetWeapon_3615296227",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_combat_1_1_combat_behaviour.html#ae4dd4293882360b2751e37f9ac51718a",tooltip=" "];
+  Node9 -> Node10 [id="edge9_Node000009_Node000010",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node10 [id="Node000010",label="ScheduleOne.Combat.Combat\lBehaviour.NetworkInitialize\l___Early",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_combat_1_1_combat_behaviour.html#adc8f03a6e6fa13f21e649b5791bed121",tooltip=" "];
+  Node10 -> Node11 [id="edge10_Node000010_Node000011",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node11 [id="Node000011",label="ScheduleOne.Combat.Combat\lBehaviour.Awake",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_combat_1_1_combat_behaviour.html#ab8492224ca6a5934269606176acdf8b5",tooltip=" "];
+  Node10 -> Node12 [id="edge11_Node000010_Node000012",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node12 [id="Node000012",label="ScheduleOne.Combat.Combat\lBehaviour.NetworkInitializeIfDisabled",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_combat_1_1_combat_behaviour.html#a5356517f6eaf0dad5b2dc55acff81678",tooltip=" "];
+  Node8 -> Node13 [id="edge12_Node000008_Node000013",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node13 [id="Node000013",label="ScheduleOne.Combat.Combat\lBehaviour.SetWeapon",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_combat_1_1_combat_behaviour.html#af4fd3c964b283f7a62c98b5e9a5bbe04",tooltip=" "];
+  Node13 -> Node14 [id="edge13_Node000013_Node000014",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node14 [id="Node000014",label="ScheduleOne.Combat.Combat\lBehaviour.StartCombat",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_combat_1_1_combat_behaviour.html#a05117ca3a273a296fd6ea0f039ef6f6f",tooltip=" "];
+  Node14 -> Node15 [id="edge14_Node000014_Node000015",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node15 [id="Node000015",label="ScheduleOne.Combat.Combat\lBehaviour.Begin",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_combat_1_1_combat_behaviour.html#a05444db7df6331955dc77ead1df2aa47",tooltip=" "];
+  Node14 -> Node16 [id="edge15_Node000014_Node000016",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node16 [id="Node000016",label="ScheduleOne.Combat.Combat\lBehaviour.Resume",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_combat_1_1_combat_behaviour.html#a10012bef84f53f376b7c8954bceca3f4",tooltip=" "];
+  Node2 -> Node17 [id="edge16_Node000002_Node000017",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node17 [id="Node000017",label="ScheduleOne.Combat.Combat\lBehaviour.RpcReader___Observers\l_ClearWeapon_2166136261",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_combat_1_1_combat_behaviour.html#a879bb62488e6bfc95a34ef362719c50d",tooltip=" "];
+  Node17 -> Node10 [id="edge17_Node000017_Node000010",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node1 -> Node8 [id="edge18_Node000001_Node000008",dir="back",color="steelblue1",style="solid",tooltip=" "];
+}

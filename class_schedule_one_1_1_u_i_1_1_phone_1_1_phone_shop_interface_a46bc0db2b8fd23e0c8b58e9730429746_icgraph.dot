@@ -1,0 +1,24 @@
+digraph "ScheduleOne.UI.Phone.PhoneShopInterface.GetOrderTotal"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="ScheduleOne.UI.Phone.Phone\lShopInterface.GetOrderTotal",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.UI.Phone.Phone\lShopInterface.CanConfirmOrder",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_phone_1_1_phone_shop_interface.html#ae0f59d8af2416612a415cf8e6ab3ce12",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.UI.Phone.Phone\lShopInterface.CartChanged",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_phone_1_1_phone_shop_interface.html#a6e8dc45bd999066f60c29bcc0582becd",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.UI.Phone.Phone\lShopInterface.ChangeListingQuantity",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_phone_1_1_phone_shop_interface.html#aace61680aa4c87c923d6959ed44de042",tooltip=" "];
+  Node3 -> Node5 [id="edge4_Node000003_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.UI.Phone.Phone\lShopInterface.Open",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_phone_1_1_phone_shop_interface.html#ab71724991bbe694df27cf729f91c1804",tooltip=" "];
+  Node1 -> Node6 [id="edge5_Node000001_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="ScheduleOne.UI.Phone.Phone\lShopInterface.ConfirmOrderPressed",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_phone_1_1_phone_shop_interface.html#a15c8101269194d01234c7406ab794e40",tooltip=" "];
+  Node6 -> Node7 [id="edge6_Node000006_Node000007",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="ScheduleOne.UI.Phone.Phone\lShopInterface.Start",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_phone_1_1_phone_shop_interface.html#aa9d52a776d303c3d6dd4d93e03266763",tooltip=" "];
+  Node1 -> Node8 [id="edge7_Node000001_Node000008",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="ScheduleOne.UI.Phone.Phone\lShopInterface.UpdateOrderTotal",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_phone_1_1_phone_shop_interface.html#a0694b5dee6a80cba6b678d8cec71e043",tooltip=" "];
+  Node8 -> Node3 [id="edge8_Node000008_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+}

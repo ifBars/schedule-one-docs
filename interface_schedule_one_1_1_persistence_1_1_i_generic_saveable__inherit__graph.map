@@ -1,0 +1,7 @@
+<map id="ScheduleOne.Persistence.IGenericSaveable" name="ScheduleOne.Persistence.IGenericSaveable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="168,5,334,133"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_money_1_1_a_t_m.html" title=" " alt="" coords="5,181,233,1488"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,149,235,182,230,181,235,148"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_object_scripts_1_1_vending_machine.html" title=" " alt="" coords="257,213,512,1456"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="267,147,279,213,274,214,262,148"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ScheduleOne.Dialogue.Entry" name="ScheduleOne.Dialogue.Entry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="15,155,194,245"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_dialogue_1_1_dialogue_chain.html" title=" " alt="" coords="5,5,204,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,91,107,138,102,138,102,91"/>
+</map>

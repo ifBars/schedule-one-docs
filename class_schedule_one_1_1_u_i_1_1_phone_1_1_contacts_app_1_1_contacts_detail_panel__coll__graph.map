@@ -1,0 +1,8 @@
+<map id="ScheduleOne.UI.Phone.ContactsApp.ContactsDetailPanel" name="ScheduleOne.UI.Phone.ContactsApp.ContactsDetailPanel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,705,210,1047"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="52,5,153,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,90,109,705,104,706,100,90"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_map_1_1_p_o_i.html" title=" " alt="" coords="123,124,268,641"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="118,88,128,124,123,125,113,90"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="152,642,144,689,138,688,147,641"/>
+</map>

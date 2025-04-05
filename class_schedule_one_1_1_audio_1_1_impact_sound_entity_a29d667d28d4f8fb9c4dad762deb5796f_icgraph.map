@@ -1,0 +1,5 @@
+<map id="ScheduleOne.Audio.ImpactSoundEntity.OnImpacted" name="ScheduleOne.Audio.ImpactSoundEntity.OnImpacted">
+<area shape="rect" id="Node000001" title=" " alt="" coords="234,5,414,48"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_audio_1_1_impact_sound_entity.html#acc2dad75c68b4e408e5a5f45b564230f" title=" " alt="" coords="5,5,186,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,29,186,29,186,24,218,24"/>
+</map>

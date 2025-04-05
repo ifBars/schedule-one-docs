@@ -1,0 +1,19 @@
+<map id="ScheduleOne.ItemFramework.ItemFilter" name="ScheduleOne.ItemFramework.ItemFilter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="556,5,744,91"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_item_framework_1_1_i_ds.html" title=" " alt="" coords="5,157,214,227"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="542,68,392,98,309,118,228,141,179,160,177,155,226,136,307,113,390,92,541,63"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_item_framework_1_1_item_filter___category.html" title=" " alt="" coords="238,139,426,245"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="543,96,440,141,427,147,425,142,438,136,541,91"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_item_framework_1_1_item_filter___clothing_slot.html" title=" " alt="" coords="450,139,638,245"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="612,104,585,141,581,137,608,101"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_item_framework_1_1_item_filter___dryable.html" title=" " alt="" coords="662,139,850,245"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="692,101,720,137,715,141,688,104"/>
+<area shape="rect" id="Node000008" href="$class_schedule_one_1_1_item_framework_1_1_item_filter___i_d.html" title=" " alt="" coords="874,139,1062,245"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="758,91,863,136,876,142,874,147,861,141,756,96"/>
+<area shape="rect" id="Node000009" href="$class_schedule_one_1_1_item_framework_1_1_item_filter___mixing_ingredient.html" title=" " alt="" coords="1086,149,1274,235"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="758,62,910,91,993,111,1075,136,1102,147,1100,152,1073,141,992,116,909,96,757,67"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_item_framework_1_1_item_filter___packaged_product.html" title=" " alt="" coords="119,293,316,400"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="286,259,259,295,255,292,282,256"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_item_framework_1_1_item_filter___unpackaged_product.html" title=" " alt="" coords="340,293,552,400"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="382,256,409,292,405,295,378,259"/>
+</map>

@@ -1,0 +1,15 @@
+digraph "ScheduleOne.GameTime.GameDateTime.operator&lt;"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.GameTime.Game\lDateTime.operator\<",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.GameTime.Game\lDateTime.GameDateTime",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$struct_schedule_one_1_1_game_time_1_1_game_date_time.html#a41926a1648afe67fcdb3af0a79a413a6",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.GameTime.Game\lDateTime.GetMinSum",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$struct_schedule_one_1_1_game_time_1_1_game_date_time.html#a519d0fa628159917a8dc51c44197440a",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.GameTime.Time\lManager.GetMinSumFrom24HourTime",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_game_time_1_1_time_manager.html#a49fb641341146bbc007d356add9645b5",tooltip=" "];
+}

@@ -1,0 +1,5 @@
+<map id="ScheduleOne.Audio.AmbientLoopJukebox.MinPass" name="ScheduleOne.Audio.AmbientLoopJukebox.MinPass">
+<area shape="rect" id="Node000001" title=" " alt="" coords="242,5,430,48"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_audio_1_1_ambient_loop_jukebox.html#ae362b44e27272df63acc784c8a697575" title=" " alt="" coords="5,5,194,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,29,194,29,194,24,226,24"/>
+</map>

@@ -1,0 +1,27 @@
+digraph "ScheduleOne.ObjectScripts.MixingStation.OnSpawnServer"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.ObjectScripts.\lMixingStation.OnSpawnServer",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.ObjectScripts.\lMixingStation.SendConfiguration\lToClient",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_object_scripts_1_1_mixing_station.html#ae70428ee7e79093b9b68f88c9449882b",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.ItemFramework.\lIItemSlotOwner.SendItemsToClient",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$interface_schedule_one_1_1_item_framework_1_1_i_item_slot_owner.html#a0987be4790db53f7bb8a85e16010483e",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.ItemFramework.\lIItemSlotOwner.SetSlotLocked",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$interface_schedule_one_1_1_item_framework_1_1_i_item_slot_owner.html#a283d4b04693515de72284b39ff4b978a",tooltip=" "];
+  Node3 -> Node5 [id="edge4_Node000003_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.ItemFramework.\lIItemSlotOwner.SetStoredInstance",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$interface_schedule_one_1_1_item_framework_1_1_i_item_slot_owner.html#a1b4666b0503b87c057d8fb097e4cdd26",tooltip=" "];
+  Node1 -> Node6 [id="edge5_Node000001_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="ScheduleOne.ObjectScripts.\lMixingStation.SetMixOperation",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_object_scripts_1_1_mixing_station.html#a65a1b78f5d65c601a740f3e64ec65ce4",tooltip=" "];
+  Node6 -> Node7 [id="edge6_Node000006_Node000007",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="ScheduleOne.ObjectScripts.\lMixingStation.RpcLogic\l___SetMixOperation_1073078804",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_object_scripts_1_1_mixing_station.html#a2412a11b1445c03a03ef78289f5db9ea",tooltip=" "];
+  Node7 -> Node8 [id="edge7_Node000007_Node000008",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="ScheduleOne.ObjectScripts.\lMixingStation.MixingStart",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_object_scripts_1_1_mixing_station.html#ac32c4c71d8f4312f28efe6bd69a3b962",tooltip=" "];
+  Node6 -> Node9 [id="edge8_Node000006_Node000009",color="steelblue1",style="solid",tooltip=" "];
+  Node9 [id="Node000009",label="ScheduleOne.ObjectScripts.\lMixingStation.RpcWriter\l___Observers_SetMixOperation\l_1073078804",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_object_scripts_1_1_mixing_station.html#ad783bc24ba23bbf189ffa5aa4086886c",tooltip=" "];
+  Node6 -> Node10 [id="edge9_Node000006_Node000010",color="steelblue1",style="solid",tooltip=" "];
+  Node10 [id="Node000010",label="ScheduleOne.ObjectScripts.\lMixingStation.RpcWriter\l___Target_SetMixOperation\l_1073078804",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_object_scripts_1_1_mixing_station.html#a6bfaa7a3051f570a5a2d2b8660a59d7e",tooltip=" "];
+}

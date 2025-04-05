@@ -1,0 +1,13 @@
+digraph "ScheduleOne.Law.CurfewManager.Enable"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.Law.CurfewManager.\lEnable",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Law.CurfewManager.\lRpcWriter___Observers_Enable\l_328543758",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_law_1_1_curfew_manager.html#aa0f37d6ee4b54c71d6160e4aeacf80e8",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Law.CurfewManager.\lRpcWriter___Target_Enable\l_328543758",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_law_1_1_curfew_manager.html#ae54bfcf20f9d39682d52d6e4f46cbb99",tooltip=" "];
+}

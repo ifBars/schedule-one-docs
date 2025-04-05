@@ -1,0 +1,9 @@
+<map id="ScheduleOne.Management.AdvancedTransitRoute" name="ScheduleOne.Management.AdvancedTransitRoute">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,643,235,792"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_management_1_1_transit_route.html" title=" " alt="" coords="14,295,226,593"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,608,123,643,118,643,118,608"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_management_1_1_transit_line_visuals.html" title=" " alt="" coords="14,124,226,231"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="123,230,123,278,118,278,118,230"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="70,5,170,75"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="123,90,123,124,118,124,118,90"/>
+</map>

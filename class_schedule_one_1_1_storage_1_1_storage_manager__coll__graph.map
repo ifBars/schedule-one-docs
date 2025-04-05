@@ -1,0 +1,16 @@
+<map id="ScheduleOne.Storage.StorageManager" name="ScheduleOne.Storage.StorageManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="260,1084,522,1692"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_dev_utilities_1_1_network_singleton-1-g.html" title=" " alt="" coords="5,524,316,1020"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="261,1033,280,1083,275,1085,256,1035"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="102,205,220,275"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="164,290,164,524,158,524,158,290"/>
+<area shape="rect" id="Node000004" href="$interface_schedule_one_1_1_persistence_1_1_i_base_saveable.html" title=" " alt="" coords="391,729,557,815"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="469,830,435,1085,430,1084,464,829"/>
+<area shape="rect" id="Node000005" href="$interface_schedule_one_1_1_persistence_1_1_i_saveable.html" title=" " alt="" coords="309,5,477,475"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="383,490,382,524,379,772,382,1020,383,1084,378,1084,377,1020,374,772,377,524,378,490"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="434,489,471,729,465,730,428,490"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_storage_loader.html" title=" " alt="" coords="581,729,746,815"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="651,815,616,910,571,1021,532,1109,527,1107,566,1019,611,908,646,813"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_loader.html" title=" " alt="" coords="581,165,746,315"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="666,329,666,730,661,730,661,329"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ScheduleOne.UI.PickpocketScreen" name="ScheduleOne.UI.PickpocketScreen">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,363,233,1109"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_dev_utilities_1_1_singleton-1-g.html" title=" " alt="" coords="37,123,202,315"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,330,122,363,117,363,117,330"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="69,5,170,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="122,90,122,123,117,123,117,90"/>
+</map>

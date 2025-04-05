@@ -1,0 +1,28 @@
+var class_schedule_one_1_1_product_1_1_product_item_instance =
+[
+    [ "ProductItemInstance", "class_schedule_one_1_1_product_1_1_product_item_instance.html#ad773001d608540869bdc970035c6cc3b", null ],
+    [ "ProductItemInstance", "class_schedule_one_1_1_product_1_1_product_item_instance.html#a0e06db9bc568319338e86eedc5c84114", null ],
+    [ "ApplyEffectsToNPC", "class_schedule_one_1_1_product_1_1_product_item_instance.html#ac192bed930f1f12aa888869d8ba3e4e7", null ],
+    [ "ApplyEffectsToPlayer", "class_schedule_one_1_1_product_1_1_product_item_instance.html#ac021bc6e29948df213cd4df72adfbe4e", null ],
+    [ "CanStackWith", "class_schedule_one_1_1_product_1_1_product_item_instance.html#a47d5e00ded4eb929eac65453e897559a", null ],
+    [ "ClearEffectsFromNPC", "class_schedule_one_1_1_product_1_1_product_item_instance.html#a7329dbb1124af419a59dc6146af409d8", null ],
+    [ "ClearEffectsFromPlayer", "class_schedule_one_1_1_product_1_1_product_item_instance.html#a76431137bae591b12c3c38e3900b6c49", null ],
+    [ "GetAddictiveness", "class_schedule_one_1_1_product_1_1_product_item_instance.html#aa1f801f6c9005b97004a3b6ad66cdeef", null ],
+    [ "GetCopy", "class_schedule_one_1_1_product_1_1_product_item_instance.html#accd110d808bb7321cfe0d8740cbeb98d", null ],
+    [ "GetEquippable", "class_schedule_one_1_1_product_1_1_product_item_instance.html#a020c409f7348b81f4581348d42a3231a", null ],
+    [ "GetIcon", "class_schedule_one_1_1_product_1_1_product_item_instance.html#aa366b2f7905a653c4ccd952732f62607", null ],
+    [ "GetItemData", "class_schedule_one_1_1_product_1_1_product_item_instance.html#a017e9bbadb243706112106191447cda6", null ],
+    [ "GetMonetaryValue", "class_schedule_one_1_1_product_1_1_product_item_instance.html#a930632802db86f3ba1f02c567e2868c1", null ],
+    [ "GetSimilarity", "class_schedule_one_1_1_product_1_1_product_item_instance.html#a0e328506ee5884cd6817cfb744dfe0ca", null ],
+    [ "GetStoredItem", "class_schedule_one_1_1_product_1_1_product_item_instance.html#a9d02c89e272abf4f716f1c3011c594c3", null ],
+    [ "SetPackaging", "class_schedule_one_1_1_product_1_1_product_item_instance.html#a96779f1934cf171c93c9b9115ee80e11", null ],
+    [ "SetupPackagingVisuals", "class_schedule_one_1_1_product_1_1_product_item_instance.html#a098b6896501268e816d3ec171038038a", null ],
+    [ "packaging", "class_schedule_one_1_1_product_1_1_product_item_instance.html#ad9cda396c9384279a433998cff135387", null ],
+    [ "PackagingID", "class_schedule_one_1_1_product_1_1_product_item_instance.html#a1000c26bae275d5c0e6292e9a49d90f0", null ],
+    [ "Amount", "class_schedule_one_1_1_product_1_1_product_item_instance.html#a220237d8d3f104f2e1968301e2f21614", null ],
+    [ "AppliedPackaging", "class_schedule_one_1_1_product_1_1_product_item_instance.html#a0aad02e6aef66ee932630390ffdc405a", null ],
+    [ "Equippable", "class_schedule_one_1_1_product_1_1_product_item_instance.html#a8d5508b7a8f0e694009bcae9a08c8462", null ],
+    [ "Icon", "class_schedule_one_1_1_product_1_1_product_item_instance.html#ac45e013b937b076bf071a323b207b200", null ],
+    [ "Name", "class_schedule_one_1_1_product_1_1_product_item_instance.html#ae29c785554470f8f51ec4e40d9c8a2be", null ],
+    [ "StoredItem", "class_schedule_one_1_1_product_1_1_product_item_instance.html#ac3998868180a1ca380b1bddbe99a9f95", null ]
+];

@@ -1,0 +1,23 @@
+<map id="ScheduleOne.Casino.SlotReel" name="ScheduleOne.Casino.SlotReel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,2204,193,2508"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="262,5,363,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="247,47,202,55,155,69,110,92,90,107,73,126,47,165,33,202,28,237,28,272,40,348,46,393,48,443,48,2099,52,2151,60,2204,55,2205,46,2152,43,2099,43,443,41,393,35,349,23,272,22,237,28,200,43,163,69,122,87,104,107,88,153,64,201,50,247,42"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_interaction_1_1_interactable_object.html" title=" " alt="" coords="311,177,469,711"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="324,89,341,177,336,178,319,90"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_casino_1_1_slot_reel.html" title=" " alt="" coords="364,2204,552,2508"/>
+<area shape="poly" id="edge8_Node000007_Node000002" title=" " alt="" coords="378,47,446,59,519,75,583,96,607,108,624,122,651,162,667,199,672,235,671,271,659,349,652,393,650,443,650,2099,648,2125,641,2152,619,2200,589,2244,553,2283,549,2279,584,2241,615,2198,636,2150,642,2125,645,2099,645,443,647,392,653,348,666,271,667,236,662,201,647,164,620,126,604,113,581,101,518,80,445,64,377,52"/>
+<area shape="rect" id="Node000008" href="$class_schedule_one_1_1_audio_1_1_audio_source_controller.html" title=" " alt="" coords="83,124,286,764"/>
+<area shape="poly" id="edge11_Node000008_Node000002" title=" " alt="" coords="300,90,289,125,284,123,295,88"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_casino_1_1_slot_reel_1_1_symbol_rotation.html" title=" " alt="" coords="285,2055,476,2140"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="308,2142,274,2166,206,2230,203,2226,271,2162,304,2138"/>
+<area shape="poly" id="edge9_Node000007_Node000003" title=" " alt="" coords="388,2139,396,2179,399,2187,393,2189,391,2181,383,2140"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_casino_1_1_slot_machine.html" title=" " alt="" coords="253,892,526,1991"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="385,1990,384,2038,379,2038,379,1990"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="492,409,610,479"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="546,494,481,893,476,892,541,493"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="392,711,392,875,387,875,387,711"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="502,2204,503,2164,487,2008,492,2007,508,2164,508,2204"/>
+<area shape="poly" id="edge13_Node000001_Node000008" title=" " alt="" coords="165,764,131,1346,115,1681,103,2015,101,2187,96,2187,98,2015,110,1681,126,1345,160,764"/>
+<area shape="poly" id="edge12_Node000004_Node000008" title=" " alt="" coords="253,763,276,875,271,876,248,764"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="198,764,244,1991,242,2045,237,2089,237,2130,243,2153,254,2179,273,2210,297,2239,352,2289,349,2293,293,2243,268,2214,249,2181,238,2154,232,2131,231,2088,237,2045,239,1991,193,764"/>
+</map>

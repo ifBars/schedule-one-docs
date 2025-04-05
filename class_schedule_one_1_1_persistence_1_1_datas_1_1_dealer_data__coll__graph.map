@@ -1,0 +1,9 @@
+<map id="ScheduleOne.Persistence.Datas.DealerData" name="ScheduleOne.Persistence.Datas.DealerData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="146,481,312,652"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_persistence_1_1_datas_1_1_n_p_c_data.html" title=" " alt="" coords="5,279,171,364"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,376,183,480,178,483,117,378"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_persistence_1_1_datas_1_1_save_data.html" title=" " alt="" coords="5,5,171,176"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="91,191,91,279,86,279,86,191"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_persistence_1_1_datas_1_1_item_set.html" title=" " alt="" coords="195,225,360,417"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="261,418,252,465,247,464,256,417"/>
+</map>

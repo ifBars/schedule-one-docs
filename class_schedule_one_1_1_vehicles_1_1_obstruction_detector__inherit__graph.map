@@ -1,0 +1,5 @@
+<map id="ScheduleOne.Vehicles.ObstructionDetector" name="ScheduleOne.Vehicles.ObstructionDetector">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,123,218,379"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="61,5,162,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,90,114,123,109,123,109,90"/>
+</map>

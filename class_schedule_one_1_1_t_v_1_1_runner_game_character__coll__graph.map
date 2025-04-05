@@ -1,0 +1,24 @@
+<map id="ScheduleOne.TV.RunnerGameCharacter" name="ScheduleOne.TV.RunnerGameCharacter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="47,1431,236,1516"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="319,5,420,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="305,50,265,58,225,73,187,95,158,126,110,210,73,299,45,392,25,487,14,585,9,683,10,780,15,875,38,1055,70,1214,103,1342,130,1430,125,1432,98,1343,65,1215,33,1056,10,875,4,780,3,682,8,584,20,487,40,390,68,297,106,207,154,122,184,90,222,68,264,53,304,44"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_t_v_1_1_t_v_app.html" title=" " alt="" coords="208,124,360,599"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="359,89,350,125,345,123,354,88"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_u_i_1_1_t_v_pause_screen.html" title=" " alt="" coords="157,945,363,1100"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="306,57,276,67,246,81,219,101,198,125,185,154,175,191,164,283,166,393,175,514,191,637,210,755,246,945,241,946,204,756,186,638,170,514,160,393,159,283,169,190,180,153,194,123,216,97,244,77,274,62,304,52"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_u_i_1_1_flipboard.html" title=" " alt="" coords="512,263,675,460"/>
+<area shape="poly" id="edge10_Node000006_Node000002" title=" " alt="" coords="434,68,470,92,502,122,525,155,545,190,573,262,568,264,540,193,521,158,498,126,467,96,431,73"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_u_i_1_1_sliding_rect.html" title=" " alt="" coords="699,273,877,449"/>
+<area shape="poly" id="edge12_Node000007_Node000002" title=" " alt="" coords="435,39,494,45,561,59,628,84,660,101,689,122,719,155,742,193,760,233,773,273,768,274,755,235,738,195,714,158,685,126,657,105,626,88,560,64,493,51,434,45"/>
+<area shape="rect" id="Node000008" href="$class_schedule_one_1_1_u_i_1_1_u_i_spawner.html" title=" " alt="" coords="902,220,1077,503"/>
+<area shape="poly" id="edge14_Node000008_Node000002" title=" " alt="" coords="435,41,548,49,682,63,807,87,856,103,891,122,913,142,931,166,959,219,954,222,927,169,909,146,888,126,854,108,806,92,682,68,547,54,434,47"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_t_v_1_1_runner_game.html" title=" " alt="" coords="499,679,688,1367"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="501,1216,445,1297,412,1335,376,1369,317,1410,253,1440,251,1435,314,1405,373,1365,408,1331,440,1294,497,1213"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="369,536,501,819,496,821,364,539"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="361,312,371,319,379,329,385,344,387,361,384,383,376,399,371,397,378,382,381,361,380,345,375,332,368,323,358,317"/>
+<area shape="poly" id="edge8_Node000005_Node000004" title=" " alt="" coords="240,599,237,623,233,703,235,784,248,928,243,929,230,785,228,703,232,622,234,598"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="261,945,272,655,273,616,279,616,277,655,266,946"/>
+<area shape="poly" id="edge9_Node000003_Node000006" title=" " alt="" coords="596,460,596,662,591,662,591,460"/>
+<area shape="poly" id="edge11_Node000003_Node000007" title=" " alt="" coords="774,449,752,549,724,655,696,746,691,744,719,654,746,547,768,448"/>
+<area shape="poly" id="edge13_Node000003_Node000008" title=" " alt="" coords="938,503,892,600,847,676,798,752,700,889,696,886,793,749,842,674,887,597,934,501"/>
+</map>

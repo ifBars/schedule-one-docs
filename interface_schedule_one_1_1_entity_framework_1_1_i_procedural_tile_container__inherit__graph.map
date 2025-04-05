@@ -1,0 +1,5 @@
+<map id="ScheduleOne.EntityFramework.IProceduralTileContainer" name="ScheduleOne.EntityFramework.IProceduralTileContainer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="18,5,214,91"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_object_scripts_1_1_floor_rack.html" title=" " alt="" coords="5,139,226,800"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,106,118,139,113,139,113,106"/>
+</map>

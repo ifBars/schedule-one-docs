@@ -1,0 +1,17 @@
+<map id="ScheduleOne.UI.Phone.ContactsApp.ContactsApp" name="ScheduleOne.UI.Phone.ContactsApp.ContactsApp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="216,1287,421,1884"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_u_i_1_1_app-1-g.html" title=" " alt="" coords="5,705,191,1223"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,1236,219,1295,213,1297,192,1238"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_dev_utilities_1_1_player_singleton-1-g.html" title=" " alt="" coords="16,287,181,479"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="101,494,101,705,96,705,96,494"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="168,5,269,75"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="204,90,134,288,129,286,199,88"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_u_i_1_1_phone_1_1_contacts_app_1_1_contacts_detail_panel.html" title=" " alt="" coords="216,793,421,1135"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="220,89,222,327,230,483,246,641,259,717,275,793,270,794,254,718,241,642,225,484,217,327,215,89"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_map_1_1_p_o_i.html" title=" " alt="" coords="255,124,400,641"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="236,88,240,98,258,155,253,156,234,99,231,89"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="321,1134,321,1270,316,1270,316,1134"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="326,641,324,777,319,776,321,641"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_u_i_1_1_phone_1_1_contacts_app_1_1_contacts_app_1_1_region_u_i.html" title=" " alt="" coords="445,879,650,1049"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="519,1050,429,1293,424,1291,514,1048"/>
+</map>

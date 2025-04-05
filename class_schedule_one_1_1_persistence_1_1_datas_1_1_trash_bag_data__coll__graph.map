@@ -1,0 +1,9 @@
+<map id="ScheduleOne.Persistence.Datas.TrashBagData" name="ScheduleOne.Persistence.Datas.TrashBagData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="100,439,266,524"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_persistence_1_1_datas_1_1_trash_item_data.html" title=" " alt="" coords="100,240,266,389"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,404,186,439,180,439,180,404"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_persistence_1_1_datas_1_1_save_data.html" title=" " alt="" coords="5,5,171,176"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="132,189,154,239,149,241,128,191"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_persistence_1_1_trash_content_data.html" title=" " alt="" coords="195,16,360,165"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="249,166,223,226,218,224,244,164"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ScheduleOne.Audio.AudioSourceController.SetVolume" name="ScheduleOne.Audio.AudioSourceController.SetVolume">
+<area shape="rect" id="Node000001" title=" " alt="" coords="268,39,482,81"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_audio_1_1_audio_source_controller.html#a0c11934281e3e2a838f3e3ba76396dbf" title=" " alt="" coords="5,5,220,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,47,220,43,220,38,252,42"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_audio_1_1_footstep_sounds.html#ae2c516b6479ab45e53a1c346cc62e4f3" title=" " alt="" coords="17,72,208,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="252,78,209,84,208,78,252,73"/>
+</map>

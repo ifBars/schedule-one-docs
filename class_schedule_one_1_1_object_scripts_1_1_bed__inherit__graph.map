@@ -1,0 +1,5 @@
+<map id="ScheduleOne.ObjectScripts.Bed" name="ScheduleOne.ObjectScripts.Bed">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,123,270,880"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="79,5,197,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,89,140,123,135,123,135,89"/>
+</map>

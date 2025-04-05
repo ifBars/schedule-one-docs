@@ -1,0 +1,9 @@
+<map id="ScheduleOne.Persistence.Loaders.ToggleableItemLoader" name="ScheduleOne.Persistence.Loaders.ToggleableItemLoader">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,555,193,640"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_grid_item_loader.html" title=" " alt="" coords="16,400,182,507"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,522,102,555,96,555,96,522"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_buildable_item_loader.html" title=" " alt="" coords="10,203,188,352"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="102,367,102,400,96,400,96,367"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_loader.html" title=" " alt="" coords="16,5,182,155"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="102,170,102,203,96,203,96,170"/>
+</map>

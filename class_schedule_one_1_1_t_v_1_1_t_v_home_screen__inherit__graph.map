@@ -1,0 +1,7 @@
+<map id="ScheduleOne.TV.TVHomeScreen" name="ScheduleOne.TV.TVHomeScreen">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,688,211,1013"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_t_v_1_1_t_v_app.html" title=" " alt="" coords="32,123,184,640"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,655,111,689,106,689,106,655"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="58,5,158,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,90,111,123,106,123,106,90"/>
+</map>

@@ -1,0 +1,23 @@
+digraph "ScheduleOne.Storage.IStorageEntity.HowManyCanFit"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.Storage.IStorage\lEntity.HowManyCanFit",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Tiles.Coordinate.\lBuildCoordinateMatches",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_tiles_1_1_coordinate.html#a0a0e3b5088f1a64a0f9790c724768593",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Tiles.Coordinate.\lCoordinate",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_tiles_1_1_coordinate.html#a86cc657becc93003dfdba2432cf94b51",tooltip=" "];
+  Node2 -> Node4 [id="edge3_Node000002_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.Console.LogWarning",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_console.html#a4af4a471d16b1029b44a8121bf41d45c",tooltip=" "];
+  Node2 -> Node5 [id="edge4_Node000002_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.Tiles.Coordinate.\lMathMod",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_tiles_1_1_coordinate.html#ad800228b322c33a4ee956fac483f0ee8",tooltip=" "];
+  Node1 -> Node6 [id="edge5_Node000001_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="ScheduleOne.Storage.IStorage\lEntity.GetStorageGrids",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$interface_schedule_one_1_1_storage_1_1_i_storage_entity.html#aa9ca3b23239ee222ee4d698bbe2d431a",tooltip=" "];
+  Node1 -> Node7 [id="edge6_Node000001_Node000007",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="ScheduleOne.Storage.IStorage\lEntity.TryFitItem",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$interface_schedule_one_1_1_storage_1_1_i_storage_entity.html#a8aa0c42acbbd0fb1231fb20359734df7",tooltip=" "];
+  Node7 -> Node6 [id="edge7_Node000007_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node7 -> Node7 [id="edge8_Node000007_Node000007",color="steelblue1",style="solid",tooltip=" "];
+}

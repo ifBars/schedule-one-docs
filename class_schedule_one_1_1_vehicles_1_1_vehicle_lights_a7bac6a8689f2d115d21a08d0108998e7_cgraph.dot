@@ -1,0 +1,21 @@
+digraph "ScheduleOne.Vehicles.VehicleLights.Awake"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.Vehicles.Vehicle\lLights.Awake",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Vehicles.Vehicle\lLights.Awake_UserLogic_Schedule\lOne_002EVehicles_002EVehicleLights\l_Assembly_002DCSharp_002Edll",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_vehicles_1_1_vehicle_lights.html#a9b5735143e45236bd5023fbaa091ce49",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Vehicles.Vehicle\lLights.NetworkInitialize\l___Early",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_vehicles_1_1_vehicle_lights.html#a4bffdb5d7b5b31c07a0283a437fd36ef",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.Vehicles.Vehicle\lLights.ReadSyncVar___ScheduleOne\l_002EVehicles_002EVehicleLights",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_vehicles_1_1_vehicle_lights.html#acce74248480e9cec1c105afed05ec682",tooltip=" "];
+  Node3 -> Node5 [id="edge4_Node000003_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.Vehicles.Vehicle\lLights.RpcReader___Server\l_set_headLightsOn_1140765316",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_vehicles_1_1_vehicle_lights.html#aa6a996263cab22e164bcdc7994c7ece8",tooltip=" "];
+  Node5 -> Node6 [id="edge5_Node000005_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="ScheduleOne.Vehicles.Vehicle\lLights.RpcLogic___set_headLights\lOn_1140765316",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_vehicles_1_1_vehicle_lights.html#a4eac9abb07b2d6af92f67dcd09b4b2fc",tooltip=" "];
+  Node1 -> Node7 [id="edge6_Node000001_Node000007",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="ScheduleOne.Vehicles.Vehicle\lLights.NetworkInitialize__Late",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_vehicles_1_1_vehicle_lights.html#a43d1e366caade028ba343e854ce6dbff",tooltip=" "];
+}

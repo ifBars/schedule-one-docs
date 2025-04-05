@@ -1,0 +1,9 @@
+<map id="ScheduleOne.NPCs.Behaviour.DisposeTrashBagBehaviour" name="ScheduleOne.NPCs.Behaviour.DisposeTrashBagBehaviour">
+<area shape="rect" id="Node000001" title=" " alt="" coords="175,1559,502,2524"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_n_p_cs_1_1_behaviour_1_1_behaviour.html" title=" " alt="" coords="5,124,277,1495"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,1509,264,1559,259,1559,251,1510"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="82,5,200,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="144,89,144,124,139,124,139,89"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_trash_1_1_trash_content.html" title=" " alt="" coords="301,711,510,908"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="403,908,368,1542,363,1541,397,907"/>
+</map>

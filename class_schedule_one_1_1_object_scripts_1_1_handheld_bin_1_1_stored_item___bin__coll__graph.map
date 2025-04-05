@@ -1,0 +1,13 @@
+<map id="ScheduleOne.ObjectScripts.HandheldBin.StoredItem_Bin" name="ScheduleOne.ObjectScripts.HandheldBin.StoredItem_Bin">
+<area shape="rect" id="Node000001" title=" " alt="" coords="126,1779,305,1864"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_storage_1_1_stored_item.html" title=" " alt="" coords="16,913,250,1729"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,1743,211,1779,206,1780,200,1744"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="132,5,232,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="123,86,106,104,94,125,59,220,34,318,18,419,10,521,9,623,13,724,23,821,36,913,30,914,17,821,8,724,3,623,4,521,12,419,28,317,54,218,89,123,102,101,119,82"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_interaction_1_1_interactable_object.html" title=" " alt="" coords="103,124,261,657"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="185,89,185,124,179,124,179,89"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_object_scripts_1_1_handheld_bin_1_1_handheld_bin___functional.html" title=" " alt="" coords="210,681,386,889"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="245,83,262,101,275,123,302,194,321,268,332,344,337,420,337,494,334,563,320,682,315,681,329,563,332,494,332,421,327,345,316,269,297,195,270,125,258,105,241,86"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="158,657,156,681,145,896,140,896,150,681,152,657"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="311,889,321,1053,323,1264,318,1379,307,1498,290,1616,265,1730,252,1765,247,1763,260,1729,285,1615,302,1497,312,1379,317,1264,316,1053,306,889"/>
+</map>

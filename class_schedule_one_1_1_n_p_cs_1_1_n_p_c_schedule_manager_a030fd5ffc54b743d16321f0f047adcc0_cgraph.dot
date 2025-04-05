@@ -1,0 +1,48 @@
+digraph "ScheduleOne.NPCs.NPCScheduleManager.MinPass"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.NPCs.NPCSchedule\lManager.MinPass",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.NPCs.NPCSchedule\lManager.GetActionsOccurringAt",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_n_p_c_schedule_manager.html#a4d94b00fce7d3b19aa060ed701dbfda3",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.GameTime.Time\lManager.AddMinutesTo24HourTime",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_game_time_1_1_time_manager.html#adde91e40d9db73f6d0f28273bbdc8da3",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.GameTime.Time\lManager.Get24HourTimeFromMinSum",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_game_time_1_1_time_manager.html#a9ee5cbd3ac8e4876d62fea5403aac2db",tooltip=" "];
+  Node3 -> Node5 [id="edge4_Node000003_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.GameTime.Time\lManager.GetMinSumFrom24HourTime",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_game_time_1_1_time_manager.html#a49fb641341146bbc007d356add9645b5",tooltip=" "];
+  Node2 -> Node6 [id="edge5_Node000002_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="ScheduleOne.NPCs.Schedules.\lNPCAction.GetEndTime",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_schedules_1_1_n_p_c_action.html#a5ad944ad6f7bd257d74106ce575a561d",tooltip=" "];
+  Node2 -> Node7 [id="edge6_Node000002_Node000007",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="ScheduleOne.GameTime.Time\lManager.IsGivenTimeWithinRange",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_game_time_1_1_time_manager.html#a4d347f40286954d54e7f27872275fce2",tooltip=" "];
+  Node2 -> Node8 [id="edge7_Node000002_Node000008",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="ScheduleOne.NPCs.Schedules.\lNPCAction.ShouldStart",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_schedules_1_1_n_p_c_action.html#a257d0d4442763bb445146aa8adecf132",tooltip=" "];
+  Node1 -> Node6 [id="edge8_Node000001_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node1 -> Node9 [id="edge9_Node000001_Node000009",color="steelblue1",style="solid",tooltip=" "];
+  Node9 [id="Node000009",label="ScheduleOne.NPCs.Schedules.\lNPCAction.GetName",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_schedules_1_1_n_p_c_action.html#aa09ebae934628b99d88497404bf91d20",tooltip=" "];
+  Node1 -> Node10 [id="edge10_Node000001_Node000010",color="steelblue1",style="solid",tooltip=" "];
+  Node10 [id="Node000010",label="ScheduleOne.Console.Log",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_console.html#afb218907244d12f7d08b1c1831fa1f8c",tooltip=" "];
+  Node1 -> Node11 [id="edge11_Node000001_Node000011",color="steelblue1",style="solid",tooltip=" "];
+  Node11 [id="Node000011",label="ScheduleOne.NPCs.Schedules.\lNPCAction.Skipped",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_schedules_1_1_n_p_c_action.html#a57ab3da94db7391e01151a106ef09ee9",tooltip=" "];
+  Node11 -> Node12 [id="edge12_Node000011_Node000012",color="steelblue1",style="solid",tooltip=" "];
+  Node12 [id="Node000012",label="ScheduleOne.NPCs.Schedules.\lNPCAction.GetReferences",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_schedules_1_1_n_p_c_action.html#a7f7140d8bb9f455802a920d84f994b93",tooltip=" "];
+  Node1 -> Node13 [id="edge13_Node000001_Node000013",color="steelblue1",style="solid",tooltip=" "];
+  Node13 [id="Node000013",label="ScheduleOne.NPCs.NPCSchedule\lManager.StartAction",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_n_p_c_schedule_manager.html#a32146d761cd2bd0980c7b4bcf19aaa1a",tooltip=" "];
+  Node13 -> Node14 [id="edge14_Node000013_Node000014",color="steelblue1",style="solid",tooltip=" "];
+  Node14 [id="Node000014",label="ScheduleOne.NPCs.Schedules.\lNPCAction.LateStarted",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_schedules_1_1_n_p_c_action.html#a4fa7dcf78d3d4e226cd0116cd6a6a3d6",tooltip=" "];
+  Node14 -> Node9 [id="edge15_Node000014_Node000009",color="steelblue1",style="solid",tooltip=" "];
+  Node14 -> Node12 [id="edge16_Node000014_Node000012",color="steelblue1",style="solid",tooltip=" "];
+  Node13 -> Node15 [id="edge17_Node000013_Node000015",color="steelblue1",style="solid",tooltip=" "];
+  Node15 [id="Node000015",label="ScheduleOne.Console.LogWarning",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_console.html#a4af4a471d16b1029b44a8121bf41d45c",tooltip=" "];
+  Node13 -> Node16 [id="edge18_Node000013_Node000016",color="steelblue1",style="solid",tooltip=" "];
+  Node16 [id="Node000016",label="ScheduleOne.NPCs.Schedules.\lNPCAction.Resume",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_schedules_1_1_n_p_c_action.html#a41e50194414ac4da754d919f5b538e44",tooltip=" "];
+  Node16 -> Node9 [id="edge19_Node000016_Node000009",color="steelblue1",style="solid",tooltip=" "];
+  Node16 -> Node12 [id="edge20_Node000016_Node000012",color="steelblue1",style="solid",tooltip=" "];
+  Node13 -> Node17 [id="edge21_Node000013_Node000017",color="steelblue1",style="solid",tooltip=" "];
+  Node17 [id="Node000017",label="ScheduleOne.NPCs.Schedules.\lNPCAction.Started",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_schedules_1_1_n_p_c_action.html#af67491c90f7251efd646adb4a5c21f41",tooltip=" "];
+  Node17 -> Node9 [id="edge22_Node000017_Node000009",color="steelblue1",style="solid",tooltip=" "];
+  Node17 -> Node12 [id="edge23_Node000017_Node000012",color="steelblue1",style="solid",tooltip=" "];
+}

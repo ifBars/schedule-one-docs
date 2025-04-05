@@ -1,0 +1,13 @@
+<map id="ScheduleOne.ObjectScripts.SoilPourer" name="ScheduleOne.ObjectScripts.SoilPourer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="139,3531,360,4907"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_entity_framework_1_1_grid_item.html" title=" " alt="" coords="120,2384,378,3483"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,3498,252,3531,247,3531,247,3498"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_entity_framework_1_1_buildable_item.html" title=" " alt="" coords="118,523,381,2336"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="252,2351,252,2384,247,2384,247,2351"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,205,123,275"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="74,289,121,586,115,586,69,290"/>
+<area shape="rect" id="Node000005" href="$interface_schedule_one_1_1_i_g_u_i_d_registerable.html" title=" " alt="" coords="148,195,351,285"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="252,301,252,523,247,523,247,301"/>
+<area shape="rect" id="Node000006" href="$interface_schedule_one_1_1_persistence_1_1_i_saveable.html" title=" " alt="" coords="375,5,543,475"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="418,490,384,683,378,682,412,489"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="ScheduleOne.UI.Multiplayer.LobbyInterface" name="ScheduleOne.UI.Multiplayer.LobbyInterface">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1380,183,1785"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_dev_utilities_1_1_persistent_singleton-1-g.html" title=" " alt="" coords="6,365,171,451"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,466,96,1380,91,1380,86,466"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_networking_1_1_lobby.html" title=" " alt="" coords="110,500,342,1316"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="107,464,117,500,111,501,102,466"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_dev_utilities_1_1_singleton-1-g.html" title=" " alt="" coords="6,124,171,316"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="92,331,92,365,86,365,86,331"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="38,5,139,75"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="92,89,92,124,86,124,86,89"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="149,1316,140,1364,134,1363,144,1315"/>
+</map>

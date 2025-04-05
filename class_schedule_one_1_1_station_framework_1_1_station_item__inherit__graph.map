@@ -1,0 +1,15 @@
+<map id="ScheduleOne.StationFramework.StationItem" name="ScheduleOne.StationFramework.StationItem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="432,123,634,357"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_object_scripts_1_1_beaker.html" title=" " alt="" coords="5,405,181,832"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="419,277,362,300,303,329,246,364,195,407,183,421,179,417,191,403,243,360,300,324,360,295,417,272"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_station_framework_1_1_cocaine_station_item.html" title=" " alt="" coords="205,576,408,661"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="445,371,422,407,370,498,329,578,324,575,366,495,418,404,440,368"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_station_framework_1_1_liquid_meth___station_item.html" title=" " alt="" coords="432,576,634,661"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="536,372,536,576,530,576,530,372"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_station_framework_1_1_meth_station_item.html" title=" " alt="" coords="658,576,861,661"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="626,368,649,404,701,495,742,575,737,578,696,498,644,407,622,371"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_station_framework_1_1_weed_station_item.html" title=" " alt="" coords="885,576,1088,661"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="649,274,706,297,765,326,823,361,875,403,910,444,938,490,960,536,976,575,971,577,955,538,934,493,906,447,871,407,820,365,763,330,704,301,647,279"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="483,5,584,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="536,90,536,123,530,123,530,90"/>
+</map>

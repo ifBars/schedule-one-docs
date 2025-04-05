@@ -1,0 +1,11 @@
+digraph "ScheduleOne.Economy.Customer.RpcReader___Observers_ReceiveContractRejected_2166136261"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.Economy.Customer.\lRpcReader___Observers_ReceiveContract\lRejected_2166136261",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Economy.Customer.\lRpcLogic___ReceiveContractRejected\l_2166136261",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_economy_1_1_customer.html#a7202f159d16948505780a0a3ba7e07f3",tooltip=" "];
+}

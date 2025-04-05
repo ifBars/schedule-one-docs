@@ -1,0 +1,24 @@
+<map id="ScheduleOne.StationFramework.BoilingFlask" name="ScheduleOne.StationFramework.BoilingFlask">
+<area shape="rect" id="Node000001" title=" " alt="" coords="471,1425,707,2001"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_station_framework_1_1_fillable.html" title=" " alt="" coords="5,977,208,1212"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,1224,217,1293,262,1360,313,1424,367,1486,474,1598,470,1602,363,1490,308,1427,258,1363,212,1295,171,1226"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="424,5,525,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="410,52,341,64,268,80,204,101,180,113,165,126,130,173,101,224,78,278,60,334,46,391,36,450,27,568,30,684,42,794,58,893,77,977,72,978,53,894,37,795,25,685,22,568,31,449,40,390,54,332,73,276,97,222,126,170,161,122,177,108,202,96,266,74,340,58,409,47"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_station_framework_1_1_liquid_container.html" title=" " alt="" coords="175,252,377,636"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="441,88,433,100,392,175,355,253,350,251,387,173,428,97,436,85"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_station_framework_1_1_liquid_volume_collider.html" title=" " alt="" coords="272,1052,475,1137"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="473,90,448,391,409,804,381,1052,376,1052,404,804,443,390,468,89"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_object_scripts_1_1_bunsen_burner.html" title=" " alt="" coords="502,828,677,1361"/>
+<area shape="poly" id="edge9_Node000006_Node000003" title=" " alt="" coords="483,89,484,98,497,286,502,432,509,577,528,764,537,828,532,829,523,764,504,578,496,432,492,286,479,99,478,90"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_player_tasks_1_1_clickable.html" title=" " alt="" coords="537,295,706,593"/>
+<area shape="poly" id="edge11_Node000007_Node000003" title=" " alt="" coords="514,86,521,97,562,195,592,294,587,296,557,197,516,100,510,88"/>
+<area shape="rect" id="Node000008" href="$class_schedule_one_1_1_audio_1_1_audio_source_controller.html" title=" " alt="" coords="730,124,934,764"/>
+<area shape="poly" id="edge13_Node000008_Node000003" title=" " alt="" coords="540,45,584,54,632,69,678,91,719,122,732,136,728,140,716,126,676,96,630,74,583,59,539,50"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="182,637,153,712,130,789,115,875,109,960,103,960,110,874,125,787,148,710,177,635"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="235,636,230,720,233,762,239,803,258,868,284,931,340,1036,336,1039,280,933,253,870,234,805,227,763,225,720,229,635"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="368,1052,358,934,341,788,318,653,323,652,347,788,364,933,373,1052"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="592,1361,592,1409,587,1409,587,1361"/>
+<area shape="poly" id="edge10_Node000006_Node000007" title=" " alt="" coords="608,593,593,788,592,811,587,811,588,788,602,593"/>
+<area shape="poly" id="edge14_Node000001_Node000008" title=" " alt="" coords="805,764,800,804,754,1085,692,1362,680,1409,675,1408,687,1361,749,1084,795,804,800,763"/>
+<area shape="poly" id="edge12_Node000006_Node000008" title=" " alt="" coords="733,730,720,765,686,855,681,853,715,763,728,728"/>
+</map>

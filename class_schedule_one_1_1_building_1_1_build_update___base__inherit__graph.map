@@ -1,0 +1,13 @@
+<map id="ScheduleOne.Building.BuildUpdate_Base" name="ScheduleOne.Building.BuildUpdate_Base">
+<area shape="rect" id="Node000001" title=" " alt="" coords="239,123,410,208"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_building_1_1_build_update___grid.html" title=" " alt="" coords="5,256,214,811"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="263,220,229,258,216,277,212,274,225,254,259,216"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_building_1_1_build_update___procedural_grid.html" title=" " alt="" coords="239,309,410,757"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="327,223,327,310,322,310,322,223"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_building_1_1_build_update___stored_item.html" title=" " alt="" coords="434,277,641,789"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="391,216,424,254,438,276,434,279,420,258,387,220"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="274,5,375,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="327,89,327,123,322,123,322,89"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_building_1_1_build_update___cash.html" title=" " alt="" coords="429,859,646,1179"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="540,804,540,859,535,859,535,804"/>
+</map>

@@ -1,0 +1,36 @@
+digraph "ScheduleOne.Skating.Skateboard.Awake"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.Skating.Skateboard.\lAwake",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Skating.Skateboard.\lAwake_UserLogic_ScheduleOne\l_002ESkating_002ESkateboard\l_Assembly_002DCSharp_002Edll",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_skating_1_1_skateboard.html#a5326d79af75471833a922353d3cf2558",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Skating.Skateboard.\lApplyPlayerScale",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_skating_1_1_skateboard.html#a19d34d9f27c108dbf8f5100050e7ee5e",tooltip=" "];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.Skating.Skateboard.\lNetworkInitialize___Early",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_skating_1_1_skateboard.html#aa2d4ed9a86cdb859f564cd04be357935",tooltip=" "];
+  Node4 -> Node5 [id="edge4_Node000004_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.Skating.Skateboard.\lReadSyncVar___ScheduleOne\l_002ESkating_002ESkateboard",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_skating_1_1_skateboard.html#a6475b6b568cdb7bb10688cd1733215d0",tooltip=" "];
+  Node4 -> Node6 [id="edge5_Node000004_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="ScheduleOne.Skating.Skateboard.\lRpcReader___Observers_ReceiveJump\l_431000436",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_skating_1_1_skateboard.html#ae24e6bcb7e7ad11d8538018469000bf5",tooltip=" "];
+  Node6 -> Node7 [id="edge6_Node000006_Node000007",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="ScheduleOne.Skating.Skateboard.\lRpcLogic___ReceiveJump_431000436",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_skating_1_1_skateboard.html#ae4f91edddb830d44559525d95112e413",tooltip=" "];
+  Node4 -> Node8 [id="edge7_Node000004_Node000008",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="ScheduleOne.Skating.Skateboard.\lRpcReader___Server_SendJump\l_431000436",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_skating_1_1_skateboard.html#a7b8b38b1f7fa0e8652c988ff705c74d6",tooltip=" "];
+  Node8 -> Node9 [id="edge8_Node000008_Node000009",color="steelblue1",style="solid",tooltip=" "];
+  Node9 [id="Node000009",label="ScheduleOne.Skating.Skateboard.\lRpcLogic___SendJump_431000436",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_skating_1_1_skateboard.html#a3e6ad506796dcc7b0bb229a33494d6b4",tooltip=" "];
+  Node9 -> Node10 [id="edge9_Node000009_Node000010",color="steelblue1",style="solid",tooltip=" "];
+  Node10 [id="Node000010",label="ScheduleOne.Skating.Skateboard.\lReceiveJump",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_skating_1_1_skateboard.html#a0687081e3cdccbed1e83c36274fe1fec",tooltip=" "];
+  Node10 -> Node7 [id="edge10_Node000010_Node000007",color="steelblue1",style="solid",tooltip=" "];
+  Node10 -> Node11 [id="edge11_Node000010_Node000011",color="steelblue1",style="solid",tooltip=" "];
+  Node11 [id="Node000011",label="ScheduleOne.Skating.Skateboard.\lRpcWriter___Observers_ReceiveJump\l_431000436",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_skating_1_1_skateboard.html#a7659bf7d810728d4020199978678f7b3",tooltip=" "];
+  Node4 -> Node12 [id="edge12_Node000004_Node000012",color="steelblue1",style="solid",tooltip=" "];
+  Node12 [id="Node000012",label="ScheduleOne.Skating.Skateboard.\lRpcReader___Server_set_JumpBuildAmount\l_431000436",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_skating_1_1_skateboard.html#ae34035058610c242ea47d5a0a768d22e",tooltip=" "];
+  Node12 -> Node13 [id="edge13_Node000012_Node000013",color="steelblue1",style="solid",tooltip=" "];
+  Node13 [id="Node000013",label="ScheduleOne.Skating.Skateboard.\lRpcLogic___set_JumpBuildAmount\l_431000436",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_skating_1_1_skateboard.html#a1a17935160940f439fd9263d09314073",tooltip=" "];
+  Node1 -> Node14 [id="edge14_Node000001_Node000014",color="steelblue1",style="solid",tooltip=" "];
+  Node14 [id="Node000014",label="ScheduleOne.Skating.Skateboard.\lNetworkInitialize__Late",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_skating_1_1_skateboard.html#af7a0a79809d537a40facad8e57148850",tooltip=" "];
+}

@@ -1,0 +1,24 @@
+<map id="ScheduleOne.AvatarFramework.Animation.AvatarAnimation.Start" name="ScheduleOne.AvatarFramework.Animation.AvatarAnimation.Start">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,121,217,164"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_avatar_framework_1_1_animation_1_1_avatar_animation.html#aceb6a157c3e45be4ef27c1b8ef06a5b1" title=" " alt="" coords="272,5,506,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,119,200,88,264,58,283,51,284,56,266,62,203,92,148,123"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_avatar_framework_1_1_animation_1_1_avatar_animation.html#aef6b40e130ea5944184ad1f67195fe15" title=" " alt="" coords="272,72,506,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="217,124,256,118,257,124,217,130"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_avatar_framework_1_1_animation_1_1_avatar_animation.html#a65b0294a2d5efb1e4e7292146a97569c" title=" " alt="" coords="265,155,514,213"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="217,156,249,161,248,166,217,161"/>
+<area shape="rect" id="Node000010" href="$class_schedule_one_1_1_avatar_framework_1_1_animation_1_1_avatar_animation.html#a60e0c546340e742208a52a0936ba9abd" title=" " alt="" coords="265,237,514,296"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="150,162,204,193,266,223,280,229,278,234,264,228,201,197,147,167"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_avatar_framework_1_1_animation_1_1_avatar_animation.html#ade013cc588dbb3980363f11592889fc2" title=" " alt="" coords="584,72,819,131"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="507,99,569,99,569,104,507,104"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_avatar_framework_1_1_animation_1_1_avatar_animation.html#ac7f09c33d82632eac53a45c7d7f61a4f" title=" " alt="" coords="587,237,816,280"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="515,211,563,223,595,231,594,236,561,228,514,217"/>
+<area shape="rect" id="Node000008" href="$class_schedule_one_1_1_avatar_framework_1_1_animation_1_1_avatar_animation.html#a733f8b5374c77e66013a12810db309e3" title=" " alt="" coords="562,171,841,213"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="514,185,546,185,546,191,514,190"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_avatar_framework_1_1_animation_1_1_avatar_animation.html#a3a96be7d774333d07915d0dbb7a21bce" title=" " alt="" coords="1181,196,1406,255"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="817,250,1165,230,1166,235,817,255"/>
+<area shape="rect" id="Node000009" href="$class_schedule_one_1_1_avatar_framework_1_1_animation_1_1_avatar_animation.html#a7bb46cc2741e6d78783a8d3b6ddd71df" title=" " alt="" coords="889,173,1133,216"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="842,191,874,191,874,196,842,196"/>
+<area shape="poly" id="edge9_Node000009_Node000007" title=" " alt="" coords="1133,205,1165,209,1165,214,1133,211"/>
+<area shape="poly" id="edge11_Node000010_Node000006" title=" " alt="" coords="514,261,571,259,571,265,514,266"/>
+<area shape="poly" id="edge12_Node000010_Node000008" title=" " alt="" coords="514,234,561,223,594,215,595,220,563,228,515,239"/>
+</map>

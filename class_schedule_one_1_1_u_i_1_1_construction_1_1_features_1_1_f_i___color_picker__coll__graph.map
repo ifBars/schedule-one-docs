@@ -1,0 +1,14 @@
+<map id="ScheduleOne.UI.Construction.Features.FI_ColorPicker" name="ScheduleOne.UI.Construction.Features.FI_ColorPicker">
+<area shape="rect" id="Node000001" title=" " alt="" coords="135,1553,323,1895"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_u_i_1_1_construction_1_1_features_1_1_f_i___base.html" title=" " alt="" coords="5,1055,194,1161"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,1175,196,1553,191,1554,111,1176"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="49,359,150,428"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="102,443,102,1055,97,1055,97,443"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_construction_1_1_features_1_1_feature.html" title=" " alt="" coords="202,124,459,663"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="231,663,209,727,158,895,119,1040,114,1038,153,894,204,726,226,662"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_construction_1_1_features_1_1_color_feature.html" title=" " alt="" coords="219,727,501,1489"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="345,677,347,727,341,727,339,677"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="272,5,389,75"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="333,90,333,124,328,124,328,90"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="281,1490,271,1537,266,1536,276,1488"/>
+</map>

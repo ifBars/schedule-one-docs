@@ -1,0 +1,5 @@
+<map id="ScheduleOne.Management.QualityField" name="ScheduleOne.Management.QualityField">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,160,218,352"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_management_1_1_config_field.html" title=" " alt="" coords="7,5,216,112"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,127,114,160,109,160,109,127"/>
+</map>

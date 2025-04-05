@@ -1,0 +1,10 @@
+<map id="ScheduleOne.AvatarFramework.AvatarEffects.SetZombified" name="ScheduleOne.AvatarFramework.AvatarEffects.SetZombified">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,75,216,117"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="62,75,60,65,68,56,85,50,111,48,138,50,154,57,153,62,137,56,110,53,86,55,71,60,65,66,67,73"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_avatar_framework_1_1_avatar_effects.html#a742a8341f0e7c9b30edd7066c6df7511" title=" " alt="" coords="264,29,474,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,75,248,69,249,74,217,80"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_avatar_framework_1_1_avatar_effects.html#a374cf2105bf8b519f59570518f2b2809" title=" " alt="" coords="264,120,474,163"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="217,112,249,118,248,123,216,117"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="320,29,318,19,326,10,343,5,369,3,396,5,413,11,411,16,395,10,369,8,344,10,329,15,323,21,325,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="320,120,318,110,326,101,343,95,369,93,396,96,413,102,411,107,395,101,369,99,344,101,329,105,323,111,325,119"/>
+</map>

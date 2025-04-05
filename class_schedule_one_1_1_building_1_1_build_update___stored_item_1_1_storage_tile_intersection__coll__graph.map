@@ -1,0 +1,19 @@
+<map id="ScheduleOne.Building.BuildUpdate_StoredItem.StorageTileIntersection" name="ScheduleOne.Building.BuildUpdate_StoredItem.StorageTileIntersection">
+<area shape="rect" id="Node000001" title=" " alt="" coords="275,860,537,945"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_tiles_1_1_footprint_tile.html" title=" " alt="" coords="196,599,393,796"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="350,795,378,844,373,847,345,797"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="378,5,479,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="364,50,286,60,201,75,127,97,99,111,81,126,46,177,23,226,11,274,9,322,16,370,32,421,82,533,104,568,132,598,164,624,197,647,194,651,161,629,128,602,100,571,77,536,27,423,11,371,4,322,5,273,18,225,41,175,77,122,96,106,125,92,200,70,285,55,363,45"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_tiles_1_1_tile_appearance.html" title=" " alt="" coords="92,241,307,417"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="368,84,321,126,278,183,243,243,238,240,274,180,317,122,364,80"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_tiles_1_1_tile_detector.html" title=" " alt="" coords="331,199,527,460"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="431,89,431,199,426,199,426,89"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_storage_1_1_storage_tile.html" title=" " alt="" coords="460,609,667,785"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="493,72,520,95,540,123,555,162,564,215,574,345,575,487,571,610,566,609,570,487,569,345,559,215,549,163,536,125,516,98,490,77"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_storage_1_1_storage_grid.html" title=" " alt="" coords="601,124,811,535"/>
+<area shape="poly" id="edge10_Node000007_Node000003" title=" " alt="" coords="494,52,541,69,584,97,609,123,606,126,580,101,538,74,493,57"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="224,417,267,582,262,583,219,418"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="404,460,388,518,367,576,363,584,359,582,362,574,383,517,399,459"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="498,787,450,849,446,845,494,784"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="629,535,606,595,601,593,624,533"/>
+</map>

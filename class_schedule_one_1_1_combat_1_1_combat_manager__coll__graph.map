@@ -1,0 +1,14 @@
+<map id="ScheduleOne.Combat.CombatManager" name="ScheduleOne.Combat.CombatManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="185,1388,414,2081"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_dev_utilities_1_1_network_singleton-1-g.html" title=" " alt="" coords="5,828,316,1324"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,1338,229,1388,224,1389,214,1339"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="102,409,220,479"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="164,493,164,828,158,828,158,493"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_combat_1_1_explosion.html" title=" " alt="" coords="341,1041,541,1111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="436,1111,380,1372,375,1371,431,1110"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="361,5,462,75"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="414,90,415,375,423,764,441,1041,435,1042,418,764,410,375,409,90"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_audio_1_1_audio_source_controller.html" title=" " alt="" coords="432,124,636,764"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="429,88,439,123,434,125,423,90"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="490,764,451,1025,446,1024,484,763"/>
+</map>

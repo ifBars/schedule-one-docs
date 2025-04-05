@@ -1,0 +1,7 @@
+<map id="ScheduleOne.Persistence.Datas.ProceduralGridItemData" name="ScheduleOne.Persistence.Datas.ProceduralGridItemData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,400,195,507"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_persistence_1_1_datas_1_1_buildable_item_data.html" title=" " alt="" coords="17,224,183,352"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,367,103,400,98,400,98,367"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_persistence_1_1_datas_1_1_save_data.html" title=" " alt="" coords="17,5,183,176"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,191,103,224,98,224,98,191"/>
+</map>

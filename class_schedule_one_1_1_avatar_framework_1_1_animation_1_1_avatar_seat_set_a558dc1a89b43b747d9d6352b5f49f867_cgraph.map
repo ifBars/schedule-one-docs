@@ -1,0 +1,5 @@
+<map id="ScheduleOne.AvatarFramework.Animation.AvatarSeatSet.GetFirstFreeSeat" name="ScheduleOne.AvatarFramework.Animation.AvatarSeatSet.GetFirstFreeSeat">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,225,64"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_console.html#a4af4a471d16b1029b44a8121bf41d45c" title=" " alt="" coords="273,21,496,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,32,257,32,257,37,225,37"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="ScheduleOne.Audio.MusicPlayer" name="ScheduleOne.Audio.MusicPlayer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="88,1260,290,1585"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_dev_utilities_1_1_persistent_singleton-1-g.html" title=" " alt="" coords="5,969,170,1055"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,1068,152,1260,146,1261,99,1069"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_dev_utilities_1_1_singleton-1-g.html" title=" " alt="" coords="5,348,170,540"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="90,555,90,970,85,970,85,555"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="157,5,258,75"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="195,90,192,99,117,349,112,348,186,98,190,88"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_audio_1_1_music_track.html" title=" " alt="" coords="194,828,392,1196"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="209,90,207,209,208,376,216,568,236,764,247,828,242,829,230,764,211,569,203,376,201,209,203,89"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_audio_1_1_audio_source_controller.html" title=" " alt="" coords="244,124,448,764"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="227,88,247,147,242,149,222,90"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="249,1197,237,1244,232,1243,244,1195"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="319,764,314,811,309,811,314,764"/>
+</map>

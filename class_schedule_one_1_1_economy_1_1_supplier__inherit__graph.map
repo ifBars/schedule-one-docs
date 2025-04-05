@@ -1,0 +1,19 @@
+<map id="ScheduleOne.Economy.Supplier" name="ScheduleOne.Economy.Supplier">
+<area shape="rect" id="Node000001" title=" " alt="" coords="309,2203,557,4069"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_n_p_cs_1_1_character_classes_1_1_albert.html" title=" " alt="" coords="5,4128,274,4427"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="308,3634,181,4129,175,4127,303,3632"/>
+<area shape="rect" id="Node000008" href="$class_schedule_one_1_1_n_p_cs_1_1_character_classes_1_1_salvador.html" title=" " alt="" coords="299,4128,568,4427"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="436,4084,436,4128,430,4128,430,4084"/>
+<area shape="rect" id="Node000009" href="$class_schedule_one_1_1_n_p_cs_1_1_character_classes_1_1_shirley.html" title=" " alt="" coords="592,4117,861,4437"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="564,3633,688,4117,683,4118,558,3634"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_n_p_cs_1_1_n_p_c.html" title=" " alt="" coords="318,523,548,2155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="436,2170,436,2203,430,2203,430,2170"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="85,205,203,275"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="159,288,321,901,316,902,154,289"/>
+<area shape="rect" id="Node000004" href="$interface_schedule_one_1_1_i_g_u_i_d_registerable.html" title=" " alt="" coords="227,195,431,285"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="337,300,359,522,353,523,332,300"/>
+<area shape="rect" id="Node000005" href="$interface_schedule_one_1_1_persistence_1_1_i_saveable.html" title=" " alt="" coords="454,5,622,475"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="517,490,514,523,509,523,512,489"/>
+<area shape="rect" id="Node000006" href="$interface_schedule_one_1_1_combat_1_1_i_damageable.html" title=" " alt="" coords="646,195,866,285"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="741,301,551,948,546,946,736,299"/>
+</map>

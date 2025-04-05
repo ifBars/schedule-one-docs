@@ -1,0 +1,17 @@
+<map id="ScheduleOne.AvatarFramework.Avatar.ApplyHairColorSettings" name="ScheduleOne.AvatarFramework.Avatar.ApplyHairColorSettings">
+<area shape="rect" id="Node000001" title=" " alt="" coords="780,117,991,160"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_avatar_framework_1_1_avatar.html#a03e2529863cd91e8344db5fe7d18c37f" title=" " alt="" coords="522,117,732,160"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="764,141,733,141,733,136,764,136"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_avatar_framework_1_1_avatar.html#a64a7d9eb405206deb4edbb26090cd6e3" title=" " alt="" coords="264,65,474,108"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="781,116,732,108,598,95,474,90,475,85,598,90,733,103,782,111"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_avatar_framework_1_1_avatar.html#ada9535edc5b65bc921237f46a2cc877d" title=" " alt="" coords="264,151,474,193"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="785,166,733,175,598,182,474,181,474,175,598,177,732,169,784,161"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="506,117,474,111,475,105,507,112"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="507,157,475,161,474,156,506,152"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_avatar_framework_1_1_avatar.html#ac92c3ae353708467c9a66aef55fe72c4" title=" " alt="" coords="5,5,216,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="259,64,205,51,206,46,260,59"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_avatar_framework_1_1_avatar.html#ad58748c242c4ff626b1fe93819c3bf63" title=" " alt="" coords="5,72,216,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="248,92,216,93,216,88,248,87"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_avatar_framework_1_1_avatar.html#a0b512701abd09ff0a6e179191a5359fd" title=" " alt="" coords="5,151,216,193"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="248,175,216,175,216,169,248,169"/>
+</map>

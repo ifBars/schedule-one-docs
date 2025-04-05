@@ -1,0 +1,14 @@
+<map id="ScheduleOne.UI.SpottedTremolo" name="ScheduleOne.UI.SpottedTremolo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="68,923,270,1120"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="49,45,150,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,129,69,173,58,219,28,400,16,473,10,542,9,611,16,683,32,764,58,858,71,890,89,921,84,924,67,893,53,860,27,765,11,684,4,611,4,542,11,473,22,399,53,218,64,171,78,128"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_audio_1_1_audio_source_controller.html" title=" " alt="" coords="67,219,271,859"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="110,129,123,219,118,220,104,130"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="172,858,172,906,166,906,166,858"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_stealth_1_1_player_visibility.html" title=" " alt="" coords="294,232,518,845"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="297,836,285,860,254,910,250,907,280,857,292,834"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="209,45,326,115"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="285,128,316,231,311,233,279,130"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_vision_1_1_visibility_attribute.html" title=" " alt="" coords="350,5,532,155"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="438,155,433,215,428,215,433,154"/>
+</map>

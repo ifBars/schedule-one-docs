@@ -1,0 +1,8 @@
+<map id="ScheduleOne.Audio.AmbientLoopJukebox" name="ScheduleOne.Audio.AmbientLoopJukebox">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,828,183,1020"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="38,5,139,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,89,96,828,91,828,86,89"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_audio_1_1_audio_source_controller.html" title=" " alt="" coords="110,124,313,764"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="106,88,117,123,112,125,101,90"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="136,764,124,812,119,811,131,763"/>
+</map>

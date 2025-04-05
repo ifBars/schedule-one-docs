@@ -1,0 +1,20 @@
+<map id="ScheduleOne.Economy.SupplierLocation" name="ScheduleOne.Economy.SupplierLocation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="98,2307,296,2563"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="11,828,111,897"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="56,912,30,1125,18,1279,10,1456,10,1648,21,1847,31,1948,46,2048,65,2146,89,2242,114,2306,109,2308,84,2243,60,2147,41,2049,26,1949,15,1848,4,1648,4,1456,12,1279,25,1124,51,912"/>
+<area shape="rect" id="Node000009" href="$class_schedule_one_1_1_economy_1_1_supplier_location_configuration.html" title=" " alt="" coords="98,1832,296,1939"/>
+<area shape="poly" id="edge9_Node000009_Node000002" title=" " alt="" coords="67,911,89,1155,126,1478,158,1674,189,1832,184,1833,153,1675,121,1479,83,1155,62,912"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_storage_1_1_world_storage_entity.html" title=" " alt="" coords="348,1528,611,2243"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="351,2165,310,2244,283,2293,278,2291,305,2241,346,2162"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_storage_1_1_storage_entity.html" title=" " alt="" coords="135,247,381,1479"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="387,1445,405,1528,400,1529,382,1446"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="110,67,228,136"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="177,150,189,247,183,247,172,151"/>
+<area shape="rect" id="Node000006" href="$interface_schedule_one_1_1_item_framework_1_1_i_item_slot_owner.html" title=" " alt="" coords="252,5,440,197"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="336,213,332,247,327,247,331,212"/>
+<area shape="rect" id="Node000007" href="$interface_schedule_one_1_1_i_g_u_i_d_registerable.html" title=" " alt="" coords="406,817,609,908"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="509,923,492,1528,487,1528,503,923"/>
+<area shape="rect" id="Node000008" href="$interface_schedule_one_1_1_persistence_1_1_i_saveable.html" title=" " alt="" coords="633,628,801,1097"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="691,1113,663,1294,623,1479,610,1529,605,1527,618,1478,657,1293,686,1112"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="200,1939,200,2290,194,2290,194,1939"/>
+</map>

@@ -1,0 +1,34 @@
+digraph "ScheduleOne.UI.BodySearchScreen.Start"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.UI.BodySearch\lScreen.Start",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.UI.BodySearch\lScreen.SetupSlots",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_body_search_screen.html#ae0606cb86953f3f7f710a9ae33ea6c9a",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.UI.ItemSlotUI.\lAssignSlot",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_item_slot_u_i.html#a855f6da0004895ea782c27df7630dc5a",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.PlayerScripts.\lHotbarSlot.EquipEvent",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_player_scripts_1_1_hotbar_slot.html#a4a9880eb80f5e1c0f5b219f3dc5b156a",tooltip=" "];
+  Node3 -> Node5 [id="edge4_Node000003_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.UI.ItemSlotUI.Lock",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_item_slot_u_i.html#a30c2d4700ca34c6a338f8454a84bad06",tooltip=" "];
+  Node5 -> Node6 [id="edge5_Node000005_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="ScheduleOne.UI.ItemSlotUI.\lSetLockVisible",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_item_slot_u_i.html#ab7c94573b3b00b8cd1a069304dff6959",tooltip=" "];
+  Node3 -> Node7 [id="edge6_Node000003_Node000007",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="ScheduleOne.Console.LogWarning",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_console.html#a4af4a471d16b1029b44a8121bf41d45c",tooltip=" "];
+  Node3 -> Node8 [id="edge7_Node000003_Node000008",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="ScheduleOne.UI.ItemSlotUI.\lSetHighlighted",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_item_slot_u_i.html#a4b4ceac0da99810ec92bd5976a8cc7e5",tooltip=" "];
+  Node3 -> Node6 [id="edge8_Node000003_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node3 -> Node9 [id="edge9_Node000003_Node000009",color="steelblue1",style="solid",tooltip=" "];
+  Node9 [id="Node000009",label="ScheduleOne.UI.ItemSlotUI.\lUnlock",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_item_slot_u_i.html#a5672f6b98382cd3f3f8ef1f1b32e7f8a",tooltip=" "];
+  Node9 -> Node6 [id="edge10_Node000009_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node3 -> Node10 [id="edge11_Node000003_Node000010",color="steelblue1",style="solid",tooltip=" "];
+  Node10 [id="Node000010",label="ScheduleOne.UI.ItemSlotUI.\lUpdateUI",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_item_slot_u_i.html#a00d3dad4bd9e91fce6278f183bf67f2e",tooltip=" "];
+  Node2 -> Node2 [id="edge12_Node000002_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 -> Node11 [id="edge13_Node000002_Node000011",color="steelblue1",style="solid",tooltip=" "];
+  Node11 [id="Node000011",label="ScheduleOne.UI.BodySearch\lScreen.SlotHeld",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_body_search_screen.html#a0365d42e068a6878259fa671ce5e9413",tooltip=" "];
+  Node2 -> Node12 [id="edge14_Node000002_Node000012",color="steelblue1",style="solid",tooltip=" "];
+  Node12 [id="Node000012",label="ScheduleOne.UI.BodySearch\lScreen.SlotReleased",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_body_search_screen.html#a445a76d3dfee759d2d18e81a9eec4f97",tooltip=" "];
+}

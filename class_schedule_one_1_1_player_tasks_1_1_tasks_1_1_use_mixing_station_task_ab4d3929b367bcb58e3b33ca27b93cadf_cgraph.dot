@@ -1,0 +1,17 @@
+digraph "ScheduleOne.PlayerTasks.Tasks.UseMixingStationTask.StopTask"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.PlayerTasks.\lTasks.UseMixingStationTask.StopTask",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.StationFramework.\lStationItem.Destroy",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_station_framework_1_1_station_item.html#aad27bd447176c299065254e1ba8a0e1b",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.PlayerTasks.\lTasks.UseMixingStationTask.Start\lButtonPressed",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_player_tasks_1_1_tasks_1_1_use_mixing_station_task.html#ae1bafec6c8e8244c7e73e7c8bdfe0747",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.PlayerTasks.\lTasks.UseMixingStationTask.Success",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_player_tasks_1_1_tasks_1_1_use_mixing_station_task.html#a45c837ce266983510db4ccd45456b085",tooltip=" "];
+  Node4 -> Node5 [id="edge4_Node000004_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.PlayerTasks.\lTasks.UseMixingStationTask.CreateTrash",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_player_tasks_1_1_tasks_1_1_use_mixing_station_task.html#a659cd2341d1997cae91e3238e1527aa9",tooltip=" "];
+}

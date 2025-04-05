@@ -1,0 +1,19 @@
+<map id="ScheduleOne.Audio.AudioZone.Start" name="ScheduleOne.Audio.AudioZone.Start">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,101,212,144"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_audio_1_1_audio_zone_1_1_track.html#a30c9f6df496ad170ac1cfe041b154f12" title=" " alt="" coords="260,68,466,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,106,244,102,245,108,213,112"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_audio_1_1_audio_zone.html#ade893c917883e7de09431a4c2fbbc162" title=" " alt="" coords="260,135,466,177"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="213,134,245,138,244,143,212,139"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_game_time_1_1_time_manager.html#adde91e40d9db73f6d0f28273bbdc8da3" title=" " alt="" coords="514,13,743,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="466,66,507,57,508,62,467,71"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_game_time_1_1_time_manager.html#a49fb641341146bbc007d356add9645b5" title=" " alt="" coords="791,72,1037,115"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="466,87,776,90,776,95,466,93"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_game_time_1_1_time_manager.html#a9ee5cbd3ac8e4876d62fea5403aac2db" title=" " alt="" coords="791,5,1037,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="744,29,776,28,776,33,744,34"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="736,54,792,66,791,71,735,59"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_audio_1_1_audio_zone_1_1_track.html#adaa62bbfbfc6acce4ff4647bf1a94269" title=" " alt="" coords="526,135,732,177"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="466,153,510,153,510,159,466,159"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="728,131,799,116,800,121,729,137"/>
+<area shape="rect" id="Node000008" href="$class_schedule_one_1_1_game_time_1_1_time_manager.html#a4d347f40286954d54e7f27872275fce2" title=" " alt="" coords="802,139,1026,181"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="732,155,786,156,786,161,732,160"/>
+</map>

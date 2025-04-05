@@ -1,0 +1,9 @@
+<map id="ScheduleOne.Trash.TrashContainerCollider" name="ScheduleOne.Trash.TrashContainerCollider">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1041,224,1127"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="43,516,144,585"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,600,116,1042,110,1042,93,600"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_trash_1_1_trash_container.html" title=" " alt="" coords="168,124,387,977"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,942,159,978,141,1026,136,1024,153,976,166,940"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="218,5,336,75"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="280,90,280,124,275,124,275,90"/>
+</map>

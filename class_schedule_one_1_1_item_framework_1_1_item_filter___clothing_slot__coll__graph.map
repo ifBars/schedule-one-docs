@@ -1,0 +1,5 @@
+<map id="ScheduleOne.ItemFramework.ItemFilter_ClothingSlot" name="ScheduleOne.ItemFramework.ItemFilter_ClothingSlot">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,139,193,245"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_item_framework_1_1_item_filter.html" title=" " alt="" coords="5,5,193,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,106,102,139,96,139,96,106"/>
+</map>

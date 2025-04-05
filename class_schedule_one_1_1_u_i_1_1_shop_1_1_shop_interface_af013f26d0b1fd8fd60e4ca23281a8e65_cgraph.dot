@@ -1,0 +1,17 @@
+digraph "ScheduleOne.UI.Shop.ShopInterface.CategorySelected"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.UI.Shop.Shop\lInterface.CategorySelected",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.UI.Shop.Shop\lInterface.DeselectCurrentCategory",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_shop_1_1_shop_interface.html#a441725888f0bee458ffa23bb650d3a17",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.UI.Shop.Shop\lInterface.RefreshShownItems",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_shop_1_1_shop_interface.html#a3d142fd7c03f4d538ffae447b765551e",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.Levelling.Full\lRank.CompareTo",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$struct_schedule_one_1_1_levelling_1_1_full_rank.html#a197cbea8a640cf95cda3e5f3c1b76afa",tooltip=" "];
+  Node4 -> Node5 [id="edge4_Node000004_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.Levelling.Full\lRank.FullRank",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$struct_schedule_one_1_1_levelling_1_1_full_rank.html#acaab41185ae67d1a37648ca9ac50cde1",tooltip=" "];
+}

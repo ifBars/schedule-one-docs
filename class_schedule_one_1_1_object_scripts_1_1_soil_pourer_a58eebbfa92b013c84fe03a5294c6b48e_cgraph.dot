@@ -1,0 +1,21 @@
+digraph "ScheduleOne.ObjectScripts.SoilPourer.RpcLogic___SendSoil_3615296227"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.ObjectScripts.\lSoilPourer.RpcLogic___SendSoil\l_3615296227",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.ObjectScripts.\lSoilPourer.SetSoil",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_object_scripts_1_1_soil_pourer.html#a40f774cb24ef3d3f639f07a45f1df448",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.ObjectScripts.\lSoilPourer.RpcLogic___SetSoil\l_2971853958",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_object_scripts_1_1_soil_pourer.html#a475bb7b75c2257cb4067333a3fcfe1fc",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.Registry.GetItem",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_registry.html#ad08d598935d9438bdd2e1884e18de07c",tooltip=" "];
+  Node3 -> Node5 [id="edge4_Node000003_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.ObjectScripts.\lSoilPourer.SetSoilLevel",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_object_scripts_1_1_soil_pourer.html#a00ae84779619b7746a84dc5e1bd24730",tooltip=" "];
+  Node2 -> Node6 [id="edge5_Node000002_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="ScheduleOne.ObjectScripts.\lSoilPourer.RpcWriter__\l_Observers_SetSoil_2971853958",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_object_scripts_1_1_soil_pourer.html#a1a3fb2d0964515a66cedccf7a17bbfcf",tooltip=" "];
+  Node2 -> Node7 [id="edge6_Node000002_Node000007",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="ScheduleOne.ObjectScripts.\lSoilPourer.RpcWriter__\l_Target_SetSoil_2971853958",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_object_scripts_1_1_soil_pourer.html#a2b376e8df65140d57f2d771d4cb6a4fb",tooltip=" "];
+}

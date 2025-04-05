@@ -1,0 +1,9 @@
+<map id="ScheduleOne.UI.ItemSlotUI" name="ScheduleOne.UI.ItemSlotUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="106,123,294,619"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_u_i_1_1_cash_slot_u_i.html" title=" " alt="" coords="5,677,184,747"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="121,634,107,679,102,677,116,632"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_u_i_1_1_clothing_slot_u_i.html" title=" " alt="" coords="208,667,403,757"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="284,632,294,666,289,668,279,634"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="150,5,250,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,90,203,123,197,123,197,90"/>
+</map>

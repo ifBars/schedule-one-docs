@@ -1,0 +1,12 @@
+<map id="ScheduleOne.UI.WorldspacePopup.WorldspacePopup" name="ScheduleOne.UI.WorldspacePopup.WorldspacePopup">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,369,184,753"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="187,5,288,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,82,156,102,138,125,112,183,95,245,85,308,81,370,76,370,80,307,90,244,107,181,134,123,152,99,173,78"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_u_i_1_1_worldspace_popup_1_1_worldspace_popup_u_i.html" title=" " alt="" coords="148,124,327,273"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="240,90,240,125,235,125,235,90"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_u_i_1_1_worldspace_popup_1_1_worldspace_popup.html" title=" " alt="" coords="269,369,448,753"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="301,81,322,100,341,122,369,167,384,205,394,245,403,297,406,333,406,369,401,369,401,333,397,298,389,246,379,206,364,169,337,126,318,104,297,84"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="151,274,135,299,113,354,108,352,130,296,147,271"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="230,273,231,309,237,345,249,380,264,415,259,418,244,382,231,346,225,310,225,273"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="350,370,340,333,327,298,322,289,327,286,332,296,345,332,355,369"/>
+</map>

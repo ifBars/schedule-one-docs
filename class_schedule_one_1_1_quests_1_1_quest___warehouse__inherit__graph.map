@@ -1,0 +1,11 @@
+<map id="ScheduleOne.Quests.Quest_Warehouse" name="ScheduleOne.Quests.Quest_Warehouse">
+<area shape="rect" id="Node000001" title=" " alt="" coords="145,1936,318,2021"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_quests_1_1_quest.html" title=" " alt="" coords="132,523,331,1888"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,1903,234,1936,229,1936,229,1903"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,205,106,275"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="67,289,135,660,130,661,62,290"/>
+<area shape="rect" id="Node000004" href="$interface_schedule_one_1_1_i_g_u_i_d_registerable.html" title=" " alt="" coords="130,195,334,285"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="234,300,234,523,229,523,229,300"/>
+<area shape="rect" id="Node000005" href="$interface_schedule_one_1_1_persistence_1_1_i_saveable.html" title=" " alt="" coords="357,5,525,475"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="390,490,334,747,328,746,385,488"/>
+</map>

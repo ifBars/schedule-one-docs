@@ -1,0 +1,21 @@
+digraph "ScheduleOne.ObjectScripts.Cauldron.SetStoredInstance"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.ObjectScripts.\lCauldron.SetStoredInstance",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.ObjectScripts.\lCauldron.RpcLogic___SetStoredInstance\l_2652194801",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_object_scripts_1_1_cauldron.html#a4f5a6a227251cc95edaf631032cb510a",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.ObjectScripts.\lCauldron.SetStoredInstance\l_Internal",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_object_scripts_1_1_cauldron.html#a84af08e097b024b55acb3cd26d4ab82f",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.ObjectScripts.\lCauldron.RpcLogic___SetStoredInstance\l_Internal_2652194801",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_object_scripts_1_1_cauldron.html#a5c76c762f6d617506caa63e39ab05e22",tooltip=" "];
+  Node3 -> Node5 [id="edge4_Node000003_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.ObjectScripts.\lCauldron.RpcWriter___Observers\l_SetStoredInstance_Internal\l_2652194801",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_object_scripts_1_1_cauldron.html#a0e07e2a61c7dec20872e3418d2f467c8",tooltip=" "];
+  Node3 -> Node6 [id="edge5_Node000003_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="ScheduleOne.ObjectScripts.\lCauldron.RpcWriter___Target\l_SetStoredInstance_Internal\l_2652194801",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_object_scripts_1_1_cauldron.html#ab10bcadbad68175ae9cda98bc2362197",tooltip=" "];
+  Node1 -> Node7 [id="edge6_Node000001_Node000007",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="ScheduleOne.ObjectScripts.\lCauldron.RpcWriter___Server\l_SetStoredInstance_2652194801",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_object_scripts_1_1_cauldron.html#afb80b79a3bea96b015e2d479a5dedab3",tooltip=" "];
+}

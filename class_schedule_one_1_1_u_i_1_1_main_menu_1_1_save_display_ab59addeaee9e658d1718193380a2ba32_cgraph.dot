@@ -1,0 +1,17 @@
+digraph "ScheduleOne.UI.MainMenu.SaveDisplay.SetDisplayedSave"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.UI.MainMenu.\lSaveDisplay.SetDisplayedSave",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Money.MoneyManager.\lFormatAmount",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_money_1_1_money_manager.html#a78b4073a7950bbf638996b8e16ac18e5",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.UI.MainMenu.\lSaveDisplay.GetTimeLabel",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_main_menu_1_1_save_display.html#ab62c7888925a756ddeb7e2ea8d019d4a",tooltip=" "];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.UI.MainMenu.\lSaveDisplay.RoundToDecimalPlaces",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_main_menu_1_1_save_display.html#acdcc1e7dc85710fcea1912ede3a47052",tooltip=" "];
+  Node4 -> Node5 [id="edge4_Node000004_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.UI.MainMenu.\lSaveDisplay.ToSingle",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_main_menu_1_1_save_display.html#aa8fde7c4b3a1aeb81cab318075033c4d",tooltip=" "];
+}

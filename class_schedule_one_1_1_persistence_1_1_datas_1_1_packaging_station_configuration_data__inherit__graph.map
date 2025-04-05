@@ -1,0 +1,5 @@
+<map id="ScheduleOne.Persistence.Datas.PackagingStationConfigurationData" name="ScheduleOne.Persistence.Datas.PackagingStationConfigurationData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,224,262,325"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_persistence_1_1_datas_1_1_save_data.html" title=" " alt="" coords="51,5,216,176"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,191,136,224,131,224,131,191"/>
+</map>

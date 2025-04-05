@@ -1,0 +1,24 @@
+<map id="ScheduleOne.Casino.SlotMachine" name="ScheduleOne.Casino.SlotMachine">
+<area shape="rect" id="Node000001" title=" " alt="" coords="29,2572,302,3671"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="93,409,211,479"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,494,107,651,62,883,41,1017,24,1157,12,1300,8,1440,8,2357,14,2485,31,2614,26,2614,9,2485,3,2357,3,1440,7,1299,19,1157,36,1016,57,882,101,649,137,493"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_casino_1_1_slot_machine.html" title=" " alt="" coords="177,892,450,1991"/>
+<area shape="poly" id="edge8_Node000007_Node000002" title=" " alt="" coords="162,493,227,892,222,893,157,494"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_interaction_1_1_interactable_object.html" title=" " alt="" coords="234,177,392,711"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="244,711,225,765,209,801,193,828,179,856,168,893,147,1028,132,1203,124,1406,121,1630,126,2104,140,2555,135,2555,121,2104,115,1630,119,1406,127,1202,141,1028,163,891,174,854,189,826,204,799,220,763,239,710"/>
+<area shape="poly" id="edge9_Node000007_Node000003" title=" " alt="" coords="316,711,316,875,311,875,311,711"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="263,5,364,75"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="316,90,316,178,311,178,311,90"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_casino_1_1_slot_reel.html" title=" " alt="" coords="160,2204,347,2508"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="249,48,206,56,161,71,118,93,83,126,58,165,43,202,38,237,39,272,50,348,56,393,59,443,59,2099,61,2126,68,2152,91,2201,124,2245,162,2283,158,2287,120,2249,87,2204,63,2154,56,2127,53,2099,53,443,51,393,45,349,34,273,33,237,38,201,53,163,79,122,115,89,158,66,205,51,248,43"/>
+<area shape="rect" id="Node000008" href="$class_schedule_one_1_1_audio_1_1_audio_source_controller.html" title=" " alt="" coords="434,124,638,764"/>
+<area shape="poly" id="edge12_Node000008_Node000004" title=" " alt="" coords="370,83,406,122,437,171,432,174,402,126,367,86"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="239,2508,233,2556,228,2555,233,2507"/>
+<area shape="poly" id="edge10_Node000007_Node000005" title=" " alt="" coords="255,2204,262,2055,265,2008,270,2008,267,2055,260,2204"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_casino_1_1_slot_reel_1_1_symbol_rotation.html" title=" " alt="" coords="323,2055,514,2140"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="394,2141,359,2197,354,2194,390,2138"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="404,1990,412,2038,407,2038,399,1991"/>
+<area shape="poly" id="edge14_Node000001_Node000008" title=" " alt="" coords="593,763,614,919,632,1089,646,1266,651,1440,651,2357,648,2405,642,2452,618,2544,582,2632,536,2716,484,2795,428,2868,371,2933,316,2990,312,2987,367,2930,424,2864,480,2792,532,2714,577,2630,613,2542,637,2451,643,2404,645,2357,645,1440,640,1266,627,1090,609,920,588,764"/>
+<area shape="poly" id="edge13_Node000005_Node000008" title=" " alt="" coords="549,764,558,1153,561,1576,559,1770,554,1937,544,2064,537,2110,529,2141,516,2169,500,2194,459,2240,412,2278,363,2308,361,2304,409,2273,456,2236,496,2191,512,2166,524,2139,532,2108,539,2063,549,1936,554,1770,556,1576,552,1154,543,764"/>
+<area shape="poly" id="edge11_Node000007_Node000008" title=" " alt="" coords="441,764,435,789,415,876,410,875,430,787,436,763"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="ScheduleOne.Audio.ButtonSound.Awake" name="ScheduleOne.Audio.ButtonSound.Awake">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,184,115"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_audio_1_1_button_sound.html#ad75e2c7510a207a7d300c340fcdb4fb8" title=" " alt="" coords="232,5,410,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,69,230,50,232,56,170,74"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_audio_1_1_button_sound.html#a8473418621431b71f834ef418ea6ea35" title=" " alt="" coords="232,72,410,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,91,216,91,216,96,184,96"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_audio_1_1_button_sound.html#ad7d2999129588b71461cb09adc204c68" title=" " alt="" coords="232,139,410,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="170,113,232,131,230,136,168,118"/>
+</map>

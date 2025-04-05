@@ -1,0 +1,13 @@
+<map id="ScheduleOne.Audio.Zone.GetPoints" name="ScheduleOne.Audio.Zone.GetPoints">
+<area shape="rect" id="Node000001" title=" " alt="" coords="795,56,990,99"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_audio_1_1_zone.html#a18182a0c2ac95c25f0bb9073c4e3f094" title=" " alt="" coords="534,5,747,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="783,55,701,35,702,30,784,49"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_audio_1_1_zone.html#ac9ccb336604796d4c65e87ce3e87972c" title=" " alt="" coords="544,56,738,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="780,80,738,80,738,75,780,75"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_audio_1_1_zone.html#a15276227f5e8a5188300385415624953" title=" " alt="" coords="546,123,736,165"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="796,106,725,125,723,119,794,101"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_audio_1_1_zone.html#a12b6a61b3a60d6feb70f475e2d795beb" title=" " alt="" coords="296,56,486,99"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="528,80,487,80,487,75,528,75"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_audio_1_1_zone.html#a3a9d77e25b20e8fe9e9cb5409fa59c29" title=" " alt="" coords="5,64,248,91"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="280,80,248,80,248,75,280,75"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="ScheduleOne.UI.Settings.SettingsSlider" name="ScheduleOne.UI.Settings.SettingsSlider">
+<area shape="rect" id="Node000001" title=" " alt="" coords="469,123,638,357"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_u_i_1_1_settings_1_1_audio_slider.html" title=" " alt="" coords="5,416,168,565"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="456,277,322,332,250,368,181,408,166,418,163,414,179,403,248,363,320,327,454,272"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_u_i_1_1_settings_1_1_camera_bob_slider.html" title=" " alt="" coords="192,437,355,544"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="459,327,368,407,332,440,329,436,365,403,456,323"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_u_i_1_1_settings_1_1_f_o_v_s_lider.html" title=" " alt="" coords="379,437,541,544"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="507,372,482,439,477,437,502,370"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_u_i_1_1_settings_1_1_inteface_scale_slider.html" title=" " alt="" coords="565,405,728,576"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="605,370,618,405,613,407,600,372"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_u_i_1_1_settings_1_1_sensitivity_slider.html" title=" " alt="" coords="752,437,915,544"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="651,323,742,403,778,436,774,440,738,407,647,327"/>
+<area shape="rect" id="Node000008" href="$class_schedule_one_1_1_u_i_1_1_settings_1_1_target_f_p_s_slider.html" title=" " alt="" coords="939,437,1101,544"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="653,272,787,327,859,363,928,403,970,435,966,439,925,408,857,368,785,332,651,277"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="503,5,604,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="556,90,556,123,551,123,551,90"/>
+</map>

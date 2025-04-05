@@ -1,0 +1,46 @@
+digraph "ScheduleOne.NPCs.Behaviour.MoveItemBehaviour.IsTransitRouteValid"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.NPCs.Behaviour.\lMoveItemBehaviour.IsTransitRouteValid",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Management.Transit\lRoute.AreEntitiesNonNull",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_management_1_1_transit_route.html#a9370226fcf806ed9a9eb3c3de0c64c33",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Management.Transit\lRoute.ValidateEntities",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_management_1_1_transit_route.html#a268d57d636ea9e2e9afb174195149fa6",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.Management.Transit\lRoute.SetDestination",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_management_1_1_transit_route.html#a515f6fe1f214bdfe1640101fed2947f4",tooltip=" "];
+  Node3 -> Node5 [id="edge4_Node000003_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.Management.Transit\lRoute.SetSource",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_management_1_1_transit_route.html#a6e2542a5d5ffae68eb717c595659ef8c",tooltip=" "];
+  Node1 -> Node6 [id="edge5_Node000001_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="ScheduleOne.Management.ITransit\lEntity.GetFirstSlotContainingTemplateItem",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$interface_schedule_one_1_1_management_1_1_i_transit_entity.html#a10555971038068f81a29e4f2d1a8f78b",tooltip=" "];
+  Node6 -> Node7 [id="edge6_Node000006_Node000007",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="ScheduleOne.ItemFramework.\lItemInstance.CanStackWith",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_item_framework_1_1_item_instance.html#af77aee25c34dc627afe476a8f43e95ad",tooltip=" "];
+  Node7 -> Node8 [id="edge7_Node000007_Node000008",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="ScheduleOne.ItemFramework.\lItemInstance.ItemInstance",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_item_framework_1_1_item_instance.html#aab94e02e85d077954c70fafa7fb48789",tooltip=" "];
+  Node1 -> Node9 [id="edge8_Node000001_Node000009",color="steelblue1",style="solid",tooltip=" "];
+  Node9 [id="Node000009",label="ScheduleOne.NPCs.Behaviour.\lMoveItemBehaviour.IsDestinationValid",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_behaviour_1_1_move_item_behaviour.html#ab31cd8a33336038094eaecc360edb43e",tooltip=" "];
+  Node9 -> Node10 [id="edge9_Node000009_Node000010",color="steelblue1",style="solid",tooltip=" "];
+  Node10 [id="Node000010",label="ScheduleOne.NPCs.Behaviour.\lMoveItemBehaviour.CanGetToDestination",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_behaviour_1_1_move_item_behaviour.html#a8afca9f22ca058dedec2864112b2541e",tooltip=" "];
+  Node10 -> Node11 [id="edge10_Node000010_Node000011",color="steelblue1",style="solid",tooltip=" "];
+  Node11 [id="Node000011",label="ScheduleOne.NPCs.Behaviour.\lMoveItemBehaviour.GetDestination\lAccessPoint",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_behaviour_1_1_move_item_behaviour.html#aa1385271b519dffd8dec1b4047fa5739",tooltip=" "];
+  Node11 -> Node12 [id="edge11_Node000011_Node000012",color="steelblue1",style="solid",tooltip=" "];
+  Node12 [id="Node000012",label="ScheduleOne.DevUtilities.\lNavMeshUtility.GetAccessPoint",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_dev_utilities_1_1_nav_mesh_utility.html#aa79e73447cb875c02e3705abe04186e6",tooltip=" "];
+  Node12 -> Node13 [id="edge12_Node000012_Node000013",color="steelblue1",style="solid",tooltip=" "];
+  Node13 [id="Node000013",label="ScheduleOne.NPCs.NPCMovement.\lCanGetTo",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_n_p_c_movement.html#acb5126a5187be79c5175ea73bd685dda",tooltip=" "];
+  Node13 -> Node13 [id="edge13_Node000013_Node000013",color="steelblue1",style="solid",tooltip=" "];
+  Node12 -> Node14 [id="edge14_Node000012_Node000014",color="steelblue1",style="solid",tooltip=" "];
+  Node14 [id="Node000014",label="ScheduleOne.DevUtilities.\lNavMeshUtility.GetPathLength",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_dev_utilities_1_1_nav_mesh_utility.html#aaa86e9f4daac41145336916132f7e184",tooltip=" "];
+  Node11 -> Node15 [id="edge15_Node000011_Node000015",color="steelblue1",style="solid",tooltip=" "];
+  Node15 [id="Node000015",label="ScheduleOne.Console.LogWarning",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_console.html#a4af4a471d16b1029b44a8121bf41d45c",tooltip=" "];
+  Node9 -> Node16 [id="edge16_Node000009_Node000016",color="steelblue1",style="solid",tooltip=" "];
+  Node16 [id="Node000016",label="ScheduleOne.NPCs.Behaviour.\lMoveItemBehaviour.CanGetToSource",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_behaviour_1_1_move_item_behaviour.html#a6f8ccfea733e1d3b035b44213ed70e1e",tooltip=" "];
+  Node16 -> Node17 [id="edge17_Node000016_Node000017",color="steelblue1",style="solid",tooltip=" "];
+  Node17 [id="Node000017",label="ScheduleOne.NPCs.Behaviour.\lMoveItemBehaviour.GetSourceAccessPoint",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_behaviour_1_1_move_item_behaviour.html#a9c089e7ad9943e11bf113f4cc7b61a59",tooltip=" "];
+  Node17 -> Node12 [id="edge18_Node000017_Node000012",color="steelblue1",style="solid",tooltip=" "];
+  Node9 -> Node18 [id="edge19_Node000009_Node000018",color="steelblue1",style="solid",tooltip=" "];
+  Node18 [id="Node000018",label="ScheduleOne.Management.ITransit\lEntity.GetInputCapacityForItem",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$interface_schedule_one_1_1_management_1_1_i_transit_entity.html#aa56b352be3bf215e064c188e41de2406",tooltip=" "];
+  Node9 -> Node15 [id="edge20_Node000009_Node000015",color="steelblue1",style="solid",tooltip=" "];
+}

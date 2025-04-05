@@ -1,0 +1,5 @@
+<map id="ScheduleOne.UI.WorldspaceDialogueRenderer" name="ScheduleOne.UI.WorldspaceDialogueRenderer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,123,184,635"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="44,5,145,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,89,97,123,92,123,92,89"/>
+</map>

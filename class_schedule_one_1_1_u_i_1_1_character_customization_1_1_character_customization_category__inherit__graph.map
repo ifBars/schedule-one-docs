@@ -1,0 +1,5 @@
+<map id="ScheduleOne.UI.CharacterCustomization.CharacterCustomizationCategory" name="ScheduleOne.UI.CharacterCustomization.CharacterCustomizationCategory">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,123,245,480"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="75,5,176,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,90,128,123,122,123,122,90"/>
+</map>

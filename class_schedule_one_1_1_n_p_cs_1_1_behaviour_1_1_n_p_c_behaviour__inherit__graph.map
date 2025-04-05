@@ -1,0 +1,5 @@
+<map id="ScheduleOne.NPCs.Behaviour.NPCBehaviour" name="ScheduleOne.NPCs.Behaviour.NPCBehaviour">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,123,306,1381"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="97,5,215,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,90,158,123,153,123,153,90"/>
+</map>

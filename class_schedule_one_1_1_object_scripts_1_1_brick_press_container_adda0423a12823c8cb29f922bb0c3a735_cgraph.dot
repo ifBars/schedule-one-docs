@@ -1,0 +1,13 @@
+digraph "ScheduleOne.ObjectScripts.BrickPressContainer.SetContents"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.ObjectScripts.\lBrickPressContainer.SetContents",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Product.Product\lItemInstance.SetupPackagingVisuals",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_product_1_1_product_item_instance.html#a098b6896501268e816d3ec171038038a",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Packaging.Filled\lPackagingVisuals.ResetVisuals",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_packaging_1_1_filled_packaging_visuals.html#a2250c052d5de232bc3b1b5fa8b94e7f0",tooltip=" "];
+}

@@ -1,0 +1,5 @@
+<map id="ScheduleOne.UI.Shop.ShopListing" name="ScheduleOne.UI.Shop.ShopListing">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,212,421"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_u_i_1_1_shop_1_1_clothing_shop_listing.html" title=" " alt="" coords="12,469,205,555"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,436,112,470,106,470,106,436"/>
+</map>

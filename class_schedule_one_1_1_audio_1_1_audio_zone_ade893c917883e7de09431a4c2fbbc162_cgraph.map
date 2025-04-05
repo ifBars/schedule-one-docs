@@ -1,0 +1,9 @@
+<map id="ScheduleOne.Audio.AudioZone.MinPass" name="ScheduleOne.Audio.AudioZone.MinPass">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,212,81"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_audio_1_1_audio_zone_1_1_track.html#adaa62bbfbfc6acce4ff4647bf1a94269" title=" " alt="" coords="260,39,466,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,57,244,57,244,63,212,63"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_game_time_1_1_time_manager.html#a49fb641341146bbc007d356add9645b5" title=" " alt="" coords="514,5,759,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="466,45,498,41,499,46,467,50"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_game_time_1_1_time_manager.html#a4d347f40286954d54e7f27872275fce2" title=" " alt="" coords="524,72,749,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="467,70,510,75,509,80,466,75"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="ScheduleOne.UI.Management.ClipboardScreen" name="ScheduleOne.UI.Management.ClipboardScreen">
+<area shape="rect" id="Node000001" title=" " alt="" coords="112,123,302,421"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_u_i_1_1_management_1_1_item_selector.html" title=" " alt="" coords="5,469,195,896"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="167,436,158,470,153,469,162,435"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_u_i_1_1_management_1_1_recipe_selector.html" title=" " alt="" coords="219,501,408,864"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="252,435,269,501,264,502,247,437"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="156,5,257,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,89,210,123,204,123,204,89"/>
+</map>

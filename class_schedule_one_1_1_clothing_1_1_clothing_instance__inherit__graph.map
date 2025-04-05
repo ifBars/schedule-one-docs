@@ -1,0 +1,7 @@
+<map id="ScheduleOne.Clothing.ClothingInstance" name="ScheduleOne.Clothing.ClothingInstance">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,805,198,976"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_storage_1_1_storable_item_instance.html" title=" " alt="" coords="7,608,196,757"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,772,104,805,99,805,99,772"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_item_framework_1_1_item_instance.html" title=" " alt="" coords="8,5,196,560"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="104,575,104,608,99,608,99,575"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ScheduleOne.ObjectScripts.WateringCan.TrashGrabberInstance" name="ScheduleOne.ObjectScripts.WateringCan.TrashGrabberInstance">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,805,224,1147"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_storage_1_1_storable_item_instance.html" title=" " alt="" coords="20,608,210,757"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,772,117,806,112,806,112,772"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_item_framework_1_1_item_instance.html" title=" " alt="" coords="21,5,208,560"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="117,575,117,608,112,608,112,575"/>
+</map>

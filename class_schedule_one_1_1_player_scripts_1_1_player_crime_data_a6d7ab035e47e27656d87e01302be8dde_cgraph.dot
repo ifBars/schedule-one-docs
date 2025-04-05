@@ -1,0 +1,11 @@
+digraph "ScheduleOne.PlayerScripts.PlayerCrimeData.RpcReader___Server_set_CurrentPursuitLevel_2979171596"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.PlayerScripts.\lPlayerCrimeData.RpcReader\l___Server_set_CurrentPursuitLevel\l_2979171596",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.PlayerScripts.\lPlayerCrimeData.RpcLogic\l___set_CurrentPursuitLevel\l_2979171596",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_player_scripts_1_1_player_crime_data.html#a45b071ee6ca6575dea5fd1c48e4eae62",tooltip=" "];
+}

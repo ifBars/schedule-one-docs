@@ -1,0 +1,15 @@
+digraph "ScheduleOne.Storage.Pallet.RpcReader___Target_CreateStoredItem_913707843"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.Storage.Pallet.\lRpcReader___Target_CreateStored\lItem_913707843",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Storage.Pallet.\lRpcLogic___CreateStoredItem\l_913707843",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_storage_1_1_pallet.html#ae653876dbe80899c9b23153faad9778c",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Storage.Pallet.\lCreateStoredItem_Server",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_storage_1_1_pallet.html#acf2d069fc5af4d8411b5e74f872ac343",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.Storage.Pallet.\lRpcWriter___Server_CreateStored\lItem_Server_1890711751",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_storage_1_1_pallet.html#a6a0e8e93efe63909b3ec69d9e70d8225",tooltip=" "];
+}

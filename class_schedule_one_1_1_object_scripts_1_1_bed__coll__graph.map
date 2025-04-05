@@ -1,0 +1,9 @@
+<map id="ScheduleOne.ObjectScripts.Bed" name="ScheduleOne.ObjectScripts.Bed">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,721,270,1457"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="28,356,146,425"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,440,114,721,109,722,88,440"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_interaction_1_1_interactable_object.html" title=" " alt="" coords="170,124,328,657"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,658,201,705,196,704,204,657"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="198,5,299,75"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="251,89,251,124,246,124,246,89"/>
+</map>

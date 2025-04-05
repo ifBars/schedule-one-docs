@@ -1,0 +1,15 @@
+<map id="ScheduleOne.VoiceOver.PoliceChatterVO" name="ScheduleOne.VoiceOver.PoliceChatterVO">
+<area shape="rect" id="Node000001" title=" " alt="" coords="20,1091,213,1197"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_voice_over_1_1_v_o_emitter.html" title=" " alt="" coords="166,844,384,1041"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,1054,160,1093,156,1090,186,1051"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="200,5,300,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="254,90,275,844,270,844,249,90"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_audio_1_1_audio_source_controller.html" title=" " alt="" coords="5,124,209,764"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="236,90,211,157,206,156,231,88"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_voice_over_1_1_v_o_database.html" title=" " alt="" coords="303,388,535,500"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="406,501,311,829,305,827,401,499"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="366,5,472,75"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="422,89,422,388,416,388,416,89"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="52,764,48,833,49,903,55,973,67,1041,79,1074,74,1076,62,1042,50,974,44,903,43,833,46,764"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="87,763,110,819,118,828,127,832,150,842,154,844,151,849,147,846,125,837,115,832,106,821,82,765"/>
+</map>

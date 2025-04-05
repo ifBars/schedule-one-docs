@@ -1,0 +1,20 @@
+<map id="ScheduleOne.Storage.LiquidMeth_Stored" name="ScheduleOne.Storage.LiquidMeth_Stored">
+<area shape="rect" id="Node000001" title=" " alt="" coords="148,1601,324,1687"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_storage_1_1_stored_item.html" title=" " alt="" coords="5,721,239,1537"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,1552,229,1601,224,1602,213,1553"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="279,5,379,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="264,51,227,60,188,75,153,96,124,126,86,192,57,263,36,338,22,414,15,492,14,570,18,647,25,722,20,722,12,647,9,570,10,492,17,414,30,337,52,262,81,190,120,122,149,92,186,70,225,55,263,46"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_interaction_1_1_interactable_object.html" title=" " alt="" coords="134,124,292,657"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="316,89,294,153,289,152,311,87"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_product_1_1_liquid_meth_visuals.html" title=" " alt="" coords="264,1076,440,1183"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="333,89,353,1076,348,1076,327,89"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_station_framework_1_1_liquid_container.html" title=" " alt="" coords="386,199,589,583"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="353,87,403,198,398,200,348,89"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_station_framework_1_1_liquid_volume_collider.html" title=" " alt="" coords="538,1087,741,1172"/>
+<area shape="poly" id="edge10_Node000007_Node000003" title=" " alt="" coords="394,39,446,46,503,60,557,84,582,101,603,122,645,179,678,241,704,307,722,375,735,445,741,516,743,588,740,658,726,793,703,914,678,1015,656,1088,651,1086,673,1014,698,913,721,792,735,658,738,588,736,517,729,446,717,376,699,308,673,244,640,182,599,126,578,105,555,89,501,65,445,51,394,45"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="183,658,177,704,172,704,178,657"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="343,1183,251,1585,246,1584,337,1182"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="406,583,378,682,361,784,353,886,350,981,351,1059,346,1059,345,981,348,886,356,783,372,681,401,582"/>
+<area shape="poly" id="edge11_Node000007_Node000006" title=" " alt="" coords="492,582,506,697,529,802,560,904,619,1070,614,1072,554,906,524,803,500,698,487,583"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="639,1087,640,1010,637,909,628,795,608,682,582,599,587,598,613,681,633,795,643,909,645,1010,644,1087"/>
+</map>

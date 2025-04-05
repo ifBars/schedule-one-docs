@@ -1,0 +1,17 @@
+<map id="ScheduleOne.ObjectScripts.Dumpster" name="ScheduleOne.ObjectScripts.Dumpster">
+<area shape="rect" id="Node000001" title=" " alt="" coords="254,3565,475,4248"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_entity_framework_1_1_grid_item.html" title=" " alt="" coords="120,2387,378,3485"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="319,3500,327,3565,321,3566,314,3501"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_entity_framework_1_1_buildable_item.html" title=" " alt="" coords="118,524,381,2337"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="252,2352,252,2387,247,2387,247,2352"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,205,123,275"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="74,289,121,586,115,587,69,290"/>
+<area shape="rect" id="Node000005" href="$interface_schedule_one_1_1_i_g_u_i_d_registerable.html" title=" " alt="" coords="148,195,351,285"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="252,300,252,524,247,524,247,300"/>
+<area shape="rect" id="Node000006" href="$interface_schedule_one_1_1_persistence_1_1_i_saveable.html" title=" " alt="" coords="375,5,543,475"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="418,490,384,684,378,683,412,489"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_interaction_1_1_interactable_object.html" title=" " alt="" coords="402,2669,560,3203"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="452,3203,410,3549,405,3548,447,3202"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="431,1396,532,1465"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="484,1480,484,2670,479,2670,479,1480"/>
+</map>

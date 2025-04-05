@@ -1,0 +1,11 @@
+<map id="ScheduleOne.AvatarFramework.Avatar.SetFeetShrunk" name="ScheduleOne.AvatarFramework.Avatar.SetFeetShrunk">
+<area shape="rect" id="Node000001" title=" " alt="" coords="780,39,991,81"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_avatar_framework_1_1_avatar.html#a66ceb05dce5aa53d19b8a64ed8fb6c03" title=" " alt="" coords="522,39,732,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="764,63,733,63,733,57,764,57"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_avatar_framework_1_1_avatar.html#a64a7d9eb405206deb4edbb26090cd6e3" title=" " alt="" coords="264,39,474,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="506,63,475,63,475,57,506,57"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_avatar_framework_1_1_avatar.html#ac92c3ae353708467c9a66aef55fe72c4" title=" " alt="" coords="5,5,216,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="248,47,216,43,217,38,249,42"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_avatar_framework_1_1_avatar.html#ad58748c242c4ff626b1fe93819c3bf63" title=" " alt="" coords="5,72,216,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="249,78,217,82,216,77,248,73"/>
+</map>

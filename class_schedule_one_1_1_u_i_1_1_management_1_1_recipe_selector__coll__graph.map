@@ -1,0 +1,29 @@
+<map id="ScheduleOne.UI.Management.RecipeSelector" name="ScheduleOne.UI.Management.RecipeSelector">
+<area shape="rect" id="Node000001" title=" " alt="" coords="27,2028,216,2369"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_u_i_1_1_management_1_1_clipboard_screen.html" title=" " alt="" coords="5,297,195,596"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,610,103,949,103,1773,106,1903,112,2028,106,2028,100,1903,98,1773,98,949,98,610"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="552,5,653,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="538,50,451,60,354,76,267,98,233,111,210,126,177,163,152,205,133,251,120,298,115,297,128,250,147,203,173,159,206,122,231,106,265,93,353,71,451,55,537,45"/>
+<area shape="rect" id="Node000008" href="$class_schedule_one_1_1_equipping_1_1_equippable.html" title=" " alt="" coords="577,143,794,255"/>
+<area shape="poly" id="edge9_Node000008_Node000003" title=" " alt="" coords="630,86,659,142,654,144,625,89"/>
+<area shape="rect" id="Node000010" href="$class_schedule_one_1_1_u_i_1_1_items_1_1_item_u_i.html" title=" " alt="" coords="625,1641,813,1903"/>
+<area shape="poly" id="edge13_Node000010_Node000003" title=" " alt="" coords="668,51,728,68,787,97,813,116,834,139,847,166,852,197,852,1251,853,1338,851,1407,840,1474,813,1557,779,1642,774,1640,808,1555,835,1473,846,1406,848,1338,847,1251,847,198,842,168,829,142,809,120,784,102,726,73,667,56"/>
+<area shape="rect" id="Node000011" href="$class_schedule_one_1_1_u_i_1_1_items_1_1_item_info_content.html" title=" " alt="" coords="379,124,552,273"/>
+<area shape="poly" id="edge16_Node000011_Node000003" title=" " alt="" coords="566,87,532,126,528,123,562,84"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_station_framework_1_1_station_recipe.html" title=" " alt="" coords="138,1580,340,1964"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="189,1964,175,2013,170,2011,184,1963"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="220,164,327,233"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="273,249,258,557,243,983,239,1298,240,1580,234,1580,234,1298,238,983,253,557,268,248"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_item_framework_1_1_item_definition.html" title=" " alt="" coords="390,620,578,919"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="293,246,432,619,427,621,288,248"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_station_framework_1_1_station_recipe_1_1_item_quantity.html" title=" " alt="" coords="252,1207,455,1292"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="347,1292,287,1564,282,1563,342,1291"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="446,919,372,1191,367,1190,441,918"/>
+<area shape="rect" id="Node000009" href="$class_schedule_one_1_1_item_framework_1_1_item_instance.html" title=" " alt="" coords="625,983,813,1516"/>
+<area shape="poly" id="edge11_Node000009_Node000007" title=" " alt="" coords="575,917,609,981,620,1004,615,1006,604,984,570,919"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="648,256,627,298,615,342,610,380,612,447,613,514,608,553,596,597,588,618,583,616,591,595,603,552,608,514,606,447,605,379,610,341,622,296,643,253"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="720,983,716,655,709,475,698,298,695,272,700,271,703,297,715,475,722,655,725,983"/>
+<area shape="poly" id="edge14_Node000010_Node000009" title=" " alt="" coords="722,1516,722,1625,716,1625,716,1516"/>
+<area shape="poly" id="edge12_Node000007_Node000010" title=" " alt="" coords="623,1684,561,1607,534,1563,513,1517,500,1470,491,1409,479,1258,475,1091,477,936,482,936,481,1091,484,1257,496,1408,505,1469,518,1515,539,1561,566,1604,627,1681"/>
+<area shape="poly" id="edge15_Node000007_Node000011" title=" " alt="" coords="467,273,466,422,470,596,471,603,465,603,465,596,460,422,461,273"/>
+</map>

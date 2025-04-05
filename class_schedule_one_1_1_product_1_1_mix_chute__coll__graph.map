@@ -1,0 +1,8 @@
+<map id="ScheduleOne.Product.MixChute" name="ScheduleOne.Product.MixChute">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,721,203,897"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="48,5,149,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,89,106,722,101,722,97,89"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_interaction_1_1_interactable_object.html" title=" " alt="" coords="120,124,278,657"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="115,88,125,123,120,125,110,89"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="141,658,130,706,125,704,136,657"/>
+</map>

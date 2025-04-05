@@ -1,0 +1,9 @@
+<map id="ScheduleOne.Persistence.Datas.MSGConversationData" name="ScheduleOne.Persistence.Datas.MSGConversationData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="185,240,370,389"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_persistence_1_1_datas_1_1_save_data.html" title=" " alt="" coords="5,5,171,176"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,185,217,238,213,242,168,189"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_persistence_1_1_datas_1_1_text_message_data.html" title=" " alt="" coords="195,5,360,176"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="280,176,280,223,275,223,275,176"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_persistence_1_1_datas_1_1_text_response_data.html" title=" " alt="" coords="384,27,550,155"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="435,156,392,218,381,230,377,226,387,214,431,153"/>
+</map>

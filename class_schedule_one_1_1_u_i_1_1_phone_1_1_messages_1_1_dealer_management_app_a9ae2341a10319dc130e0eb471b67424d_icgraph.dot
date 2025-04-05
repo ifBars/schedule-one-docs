@@ -1,0 +1,25 @@
+digraph "ScheduleOne.UI.Phone.Messages.DealerManagementApp.RemoveCustomer"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="ScheduleOne.UI.Phone.Messages.\lDealerManagementApp.RemoveCustomer",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.UI.Phone.Messages.\lDealerManagementApp.SetDisplayed\lDealer",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_phone_1_1_messages_1_1_dealer_management_app.html#a638ff40a8b273b5bae4ef08f926b2d5c",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.UI.Phone.Messages.\lDealerManagementApp.AddCustomer",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_phone_1_1_messages_1_1_dealer_management_app.html#ace48ba1499e246e435a7b4893ca350bd",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.UI.Phone.Messages.\lDealerManagementApp.Start",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_phone_1_1_messages_1_1_dealer_management_app.html#a0ac1ba6cde22e2c778962d955f3886ce",tooltip=" "];
+  Node2 -> Node5 [id="edge4_Node000002_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.UI.Phone.Messages.\lDealerManagementApp.BackPressed",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_phone_1_1_messages_1_1_dealer_management_app.html#a23bfb70fa54ea90c3ac310b5550831ea",tooltip=" "];
+  Node5 -> Node6 [id="edge5_Node000005_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="ScheduleOne.UI.Phone.Messages.\lDealerManagementApp.Awake",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_phone_1_1_messages_1_1_dealer_management_app.html#ad9e008922ceee8f31cb68f78053cbe4d",tooltip=" "];
+  Node2 -> Node7 [id="edge6_Node000002_Node000007",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="ScheduleOne.UI.Phone.Messages.\lDealerManagementApp.NextPressed",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_phone_1_1_messages_1_1_dealer_management_app.html#afda0c875dd5cf174aa364713caa81538",tooltip=" "];
+  Node7 -> Node6 [id="edge7_Node000007_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 -> Node1 [id="edge8_Node000002_Node000001",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 -> Node8 [id="edge9_Node000002_Node000008",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="ScheduleOne.UI.Phone.Messages.\lDealerManagementApp.SetOpen",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_u_i_1_1_phone_1_1_messages_1_1_dealer_management_app.html#a1fd928b42869c222792176aa0712bf17",tooltip=" "];
+}

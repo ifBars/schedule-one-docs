@@ -1,0 +1,9 @@
+<map id="ScheduleOne.Building.BuildUpdate_StoredItem" name="ScheduleOne.Building.BuildUpdate_StoredItem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="10,256,217,768"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_building_1_1_build_update___cash.html" title=" " alt="" coords="5,816,222,1136"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="116,783,116,817,111,817,111,783"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_building_1_1_build_update___base.html" title=" " alt="" coords="28,123,200,208"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,223,116,256,111,256,111,223"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="64,5,164,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="116,89,116,123,111,123,111,89"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="ScheduleOne.Persistence.Datas.ProductManagerData" name="ScheduleOne.Persistence.Datas.ProductManagerData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="320,240,493,389"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_persistence_1_1_datas_1_1_save_data.html" title=" " alt="" coords="5,5,171,176"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,174,184,174,253,221,322,263,319,267,251,226,181,178,181,178"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_product_1_1_new_mix_operation.html" title=" " alt="" coords="195,27,384,155"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="325,153,362,224,358,226,320,155"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_product_1_1_mix_recipe_data.html" title=" " alt="" coords="408,35,640,147"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="515,147,504,182,489,217,483,227,479,225,484,215,499,181,510,146"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_dev_utilities_1_1_string_int_pair.html" title=" " alt="" coords="664,27,829,155"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="682,157,654,178,582,225,509,265,507,261,579,220,651,174,678,152"/>
+</map>

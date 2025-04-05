@@ -1,0 +1,9 @@
+<map id="ScheduleOne.Map.PoliceStation" name="ScheduleOne.Map.PoliceStation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="40,549,248,1003"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_map_1_1_n_p_c_enterable_building.html" title=" " alt="" coords="41,144,246,501"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,516,146,550,141,550,141,516"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,16,106,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="74,98,88,144,83,145,69,100"/>
+<area shape="rect" id="Node000004" href="$interface_schedule_one_1_1_i_g_u_i_d_registerable.html" title=" " alt="" coords="130,5,334,96"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="215,111,204,145,199,144,210,109"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_schedule_one_1_1_management_1_1_entity_configuration.html" title=" " alt="" coords="5,372,222,415"/>
+<area shape="rect" id="Node000001" href="$class_schedule_one_1_1_management_1_1_botanist_configuration.html" title=" " alt="" coords="276,5,506,48"/>
+<area shape="poly" id="edge93_Node000000_Node000001" title=" " alt="" coords="119,356,135,292,163,211,183,169,207,129,235,91,268,58,285,46,288,51,271,62,239,94,211,132,188,172,168,213,140,293,124,357"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_management_1_1_brick_press_configuration.html" title=" " alt="" coords="285,72,498,115"/>
+<area shape="poly" id="edge94_Node000000_Node000002" title=" " alt="" coords="123,356,143,304,173,242,215,179,240,150,268,125,287,113,289,117,271,129,244,153,219,182,178,244,148,306,128,358"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_management_1_1_cauldron_configuration.html" title=" " alt="" coords="274,139,508,181"/>
+<area shape="poly" id="edge95_Node000000_Node000003" title=" " alt="" coords="130,357,153,318,185,273,223,229,268,191,289,180,292,184,271,196,227,233,189,276,158,321,135,359"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_management_1_1_chemist_configuration.html" title=" " alt="" coords="276,205,507,248"/>
+<area shape="poly" id="edge96_Node000000_Node000004" title=" " alt="" coords="143,359,198,307,232,280,268,258,294,246,296,251,271,262,235,285,201,311,146,363"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_management_1_1_chemistry_station_configuration.html" title=" " alt="" coords="270,272,512,315"/>
+<area shape="poly" id="edge97_Node000000_Node000005" title=" " alt="" coords="174,363,269,324,305,313,306,318,271,329,176,368"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_management_1_1_cleaner_configuration.html" title=" " alt="" coords="278,339,505,381"/>
+<area shape="poly" id="edge98_Node000000_Node000006" title=" " alt="" coords="237,376,277,371,278,376,237,381"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_management_1_1_drying_rack_configuration.html" title=" " alt="" coords="281,405,502,448"/>
+<area shape="poly" id="edge99_Node000000_Node000007" title=" " alt="" coords="237,405,281,411,281,416,237,411"/>
+<area shape="rect" id="Node000008" href="$class_schedule_one_1_1_management_1_1_lab_oven_configuration.html" title=" " alt="" coords="290,472,493,515"/>
+<area shape="poly" id="edge100_Node000000_Node000008" title=" " alt="" coords="176,419,271,457,306,469,305,474,269,463,174,424"/>
+<area shape="rect" id="Node000009" href="$class_schedule_one_1_1_management_1_1_mixing_station_configuration.html" title=" " alt="" coords="281,539,502,581"/>
+<area shape="poly" id="edge101_Node000000_Node000009" title=" " alt="" coords="146,424,201,476,235,502,271,524,296,536,294,540,268,529,232,506,198,480,143,428"/>
+<area shape="rect" id="Node000010" href="$class_schedule_one_1_1_management_1_1_packager_configuration.html" title=" " alt="" coords="273,605,510,648"/>
+<area shape="poly" id="edge102_Node000000_Node000010" title=" " alt="" coords="135,427,158,466,189,510,227,554,271,591,292,602,289,607,268,596,223,558,185,513,153,469,130,430"/>
+<area shape="rect" id="Node000011" href="$class_schedule_one_1_1_management_1_1_packaging_station_configuration.html" title=" " alt="" coords="270,672,513,715"/>
+<area shape="poly" id="edge103_Node000000_Node000011" title=" " alt="" coords="128,429,148,480,178,542,219,605,244,633,271,658,289,669,287,674,268,662,240,637,215,608,173,545,143,482,123,430"/>
+<area shape="rect" id="Node000012" href="$class_schedule_one_1_1_management_1_1_pot_configuration.html" title=" " alt="" coords="290,739,492,781"/>
+<area shape="poly" id="edge104_Node000000_Node000012" title=" " alt="" coords="124,429,140,493,168,573,188,615,211,655,239,692,271,725,291,738,288,742,268,729,235,696,207,658,183,617,163,575,135,495,119,431"/>
+</map>

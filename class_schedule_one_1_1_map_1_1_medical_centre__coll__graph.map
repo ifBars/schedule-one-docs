@@ -1,0 +1,19 @@
+<map id="ScheduleOne.Map.MedicalCentre" name="ScheduleOne.Map.MedicalCentre">
+<area shape="rect" id="Node000001" title=" " alt="" coords="546,988,752,1057"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_map_1_1_n_p_c_enterable_building.html" title=" " alt="" coords="525,297,730,633"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="637,648,650,988,645,989,632,648"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_doors_1_1_static_door.html" title=" " alt="" coords="279,849,472,1196"/>
+<area shape="poly" id="edge10_Node000005_Node000002" title=" " alt="" coords="583,634,553,712,514,787,503,799,492,811,474,837,470,834,488,808,499,796,509,784,548,710,578,632"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="203,16,303,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="318,57,366,68,418,84,469,109,513,143,542,177,565,215,584,256,599,297,594,298,579,258,561,218,538,180,510,147,466,114,416,89,364,73,317,62"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="190,77,142,105,121,124,105,147,60,235,30,315,13,389,9,461,16,534,35,610,65,693,105,784,138,840,182,889,231,931,280,966,277,970,228,935,179,893,134,843,100,787,60,695,30,612,11,535,3,462,8,388,25,313,55,232,100,144,117,120,139,101,188,72"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_interaction_1_1_interactable_object.html" title=" " alt="" coords="114,199,272,732"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="249,101,234,199,229,198,243,100"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_audio_1_1_audio_source_controller.html" title=" " alt="" coords="296,145,500,785"/>
+<area shape="poly" id="edge9_Node000007_Node000003" title=" " alt="" coords="272,98,299,175,294,177,267,100"/>
+<area shape="rect" id="Node000004" href="$interface_schedule_one_1_1_i_g_u_i_d_registerable.html" title=" " alt="" coords="526,5,729,96"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="630,111,630,298,625,298,625,111"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="470,915,551,824,569,782,584,739,606,649,611,651,589,740,574,784,555,827,474,919"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="270,731,287,784,304,833,299,835,282,786,265,733"/>
+<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="381,785,380,809,380,832,374,832,375,809,376,785"/>
+</map>

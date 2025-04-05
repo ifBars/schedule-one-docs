@@ -1,0 +1,17 @@
+<map id="ScheduleOne.AvatarFramework.Customization.ACReplicator" name="ScheduleOne.AvatarFramework.Customization.ACReplicator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="573,123,772,229"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_avatar_framework_1_1_customization_1_1_a_c_asset_path_replicator-1-g.html" title=" " alt="" coords="257,277,526,384"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="565,239,489,280,486,275,562,234"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_avatar_framework_1_1_customization_1_1_a_c_color_picker_replicator.html" title=" " alt="" coords="550,288,795,373"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="675,244,675,288,670,288,670,244"/>
+<area shape="rect" id="Node000008" href="$class_schedule_one_1_1_avatar_framework_1_1_customization_1_1_a_c_slider_replicator.html" title=" " alt="" coords="818,288,1028,373"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="772,235,857,286,854,291,770,239"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="622,5,723,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="675,90,675,123,670,123,670,90"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_avatar_framework_1_1_customization_1_1_a_c_accessory_replicator.html" title=" " alt="" coords="5,432,244,517"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="281,393,204,434,201,430,279,389"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_avatar_framework_1_1_customization_1_1_a_c_avatar_layer_replicator.html" title=" " alt="" coords="268,432,515,517"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="394,399,394,432,389,432,389,399"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_avatar_framework_1_1_customization_1_1_a_c_face_layer_replicator.html" title=" " alt="" coords="539,432,777,517"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="504,389,582,430,579,434,501,393"/>
+</map>

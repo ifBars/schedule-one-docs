@@ -1,0 +1,5 @@
+<map id="ScheduleOne.Management.MixingStationConfiguration" name="ScheduleOne.Management.MixingStationConfiguration">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,395,215,715"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_management_1_1_entity_configuration.html" title=" " alt="" coords="7,5,213,347"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,362,113,395,108,395,108,362"/>
+</map>

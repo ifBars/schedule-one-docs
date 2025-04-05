@@ -1,0 +1,8 @@
+<map id="ScheduleOne.Storage.StoredItem" name="ScheduleOne.Storage.StoredItem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,721,239,1537"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="67,5,167,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,89,123,722,118,722,115,89"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_interaction_1_1_interactable_object.html" title=" " alt="" coords="138,124,296,657"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="133,88,143,123,138,125,128,89"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="186,658,179,704,174,704,180,657"/>
+</map>

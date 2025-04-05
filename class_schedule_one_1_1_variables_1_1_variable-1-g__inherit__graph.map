@@ -1,0 +1,9 @@
+<map id="ScheduleOne.Variables.Variable&lt; T &gt;" name="ScheduleOne.Variables.Variable&lt; T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="84,309,310,485"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_variables_1_1_bool_variable.html" title=" " alt="" coords="5,533,181,661"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="147,500,128,535,124,533,142,497"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_variables_1_1_number_variable.html" title=" " alt="" coords="205,533,400,661"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="253,497,272,533,267,535,248,500"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_variables_1_1_base_variable.html" title=" " alt="" coords="107,5,287,261"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,276,200,310,194,310,194,276"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ScheduleOne.Combat.ExplosionData" name="ScheduleOne.Combat.ExplosionData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,203,233,336"/>
+<area shape="rect" id="Node000002" href="$struct_schedule_one_1_1_combat_1_1_explosion_data.html" title=" " alt="" coords="5,5,233,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,138,122,186,116,186,116,138"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="234,53,252,60,260,72,251,84,247,81,254,72,249,64,232,58"/>
+</map>

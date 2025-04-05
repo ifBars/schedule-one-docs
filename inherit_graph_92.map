@@ -1,0 +1,37 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_schedule_one_1_1_law_1_1_crime.html" title=" " alt="" coords="5,483,171,509"/>
+<area shape="rect" id="Node000001" href="$class_schedule_one_1_1_law_1_1_assault.html" title=" " alt="" coords="241,5,415,32"/>
+<area shape="poly" id="edge68_Node000000_Node000001" title=" " alt="" coords="86,467,88,383,94,328,104,269,121,207,144,147,176,91,217,42,239,28,242,32,220,46,180,94,149,149,126,209,110,270,99,329,94,384,91,467"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_law_1_1_attempting_to_sell.html" title=" " alt="" coords="231,56,424,99"/>
+<area shape="poly" id="edge69_Node000000_Node000002" title=" " alt="" coords="88,467,95,395,115,299,132,248,153,197,182,150,217,109,232,97,235,101,221,113,186,153,158,200,137,250,120,300,100,396,93,467"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_law_1_1_brandishing_weapon.html" title=" " alt="" coords="229,123,427,165"/>
+<area shape="poly" id="edge70_Node000000_Node000003" title=" " alt="" coords="90,466,101,406,124,328,140,287,161,246,186,209,217,175,233,164,236,168,220,179,191,212,166,249,145,289,129,330,107,407,95,467"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_law_1_1_deadly_assault.html" title=" " alt="" coords="220,189,436,216"/>
+<area shape="poly" id="edge71_Node000000_Node000004" title=" " alt="" coords="92,467,106,415,129,349,166,283,189,252,217,226,236,214,239,219,220,230,193,256,170,286,134,352,111,416,97,468"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_law_1_1_discharge_firearm.html" title=" " alt="" coords="233,240,422,283"/>
+<area shape="poly" id="edge72_Node000000_Node000005" title=" " alt="" coords="97,467,115,428,141,381,175,334,217,293,236,281,239,285,220,297,179,337,145,384,120,431,102,470"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_law_1_1_drug_trafficking.html" title=" " alt="" coords="219,307,437,333"/>
+<area shape="poly" id="edge73_Node000000_Node000006" title=" " alt="" coords="103,468,148,404,180,371,217,343,242,331,244,336,220,348,184,375,153,408,107,471"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_law_1_1_evading.html" title=" " alt="" coords="239,357,416,384"/>
+<area shape="poly" id="edge74_Node000000_Node000007" title=" " alt="" coords="112,469,159,430,217,394,248,382,250,387,220,398,162,435,116,474"/>
+<area shape="rect" id="Node000008" href="$class_schedule_one_1_1_law_1_1_failure_to_comply.html" title=" " alt="" coords="236,408,420,451"/>
+<area shape="poly" id="edge75_Node000000_Node000008" title=" " alt="" coords="153,475,248,449,249,454,154,480"/>
+<area shape="rect" id="Node000009" href="$class_schedule_one_1_1_law_1_1_possessing_controlled_substances.html" title=" " alt="" coords="229,475,427,517"/>
+<area shape="poly" id="edge76_Node000000_Node000009" title=" " alt="" coords="186,493,228,493,228,499,186,499"/>
+<area shape="rect" id="Node000010" href="$class_schedule_one_1_1_law_1_1_possessing_high_severity_drug.html" title=" " alt="" coords="229,541,427,584"/>
+<area shape="poly" id="edge77_Node000000_Node000010" title=" " alt="" coords="154,512,249,538,248,543,153,517"/>
+<area shape="rect" id="Node000011" href="$class_schedule_one_1_1_law_1_1_possessing_low_severity_drug.html" title=" " alt="" coords="229,608,427,651"/>
+<area shape="poly" id="edge78_Node000000_Node000011" title=" " alt="" coords="117,518,163,557,220,594,246,605,244,610,217,598,160,561,113,522"/>
+<area shape="rect" id="Node000012" href="$class_schedule_one_1_1_law_1_1_possessing_moderate_severity_drug.html" title=" " alt="" coords="229,675,427,717"/>
+<area shape="poly" id="edge79_Node000000_Node000012" title=" " alt="" coords="106,522,151,591,183,629,220,660,240,672,238,676,217,665,179,632,146,594,101,524"/>
+<area shape="rect" id="Node000013" href="$class_schedule_one_1_1_law_1_1_theft.html" title=" " alt="" coords="248,741,408,768"/>
+<area shape="poly" id="edge80_Node000000_Node000013" title=" " alt="" coords="99,523,115,569,139,624,174,680,196,705,220,727,248,742,246,747,217,732,192,709,170,683,135,627,110,571,94,525"/>
+<area shape="rect" id="Node000014" href="$class_schedule_one_1_1_law_1_1_transporting_illicit_items.html" title=" " alt="" coords="227,792,429,835"/>
+<area shape="poly" id="edge81_Node000000_Node000014" title=" " alt="" coords="97,524,110,578,133,646,170,717,193,750,220,778,237,789,234,794,217,782,189,753,165,720,129,649,105,579,92,525"/>
+<area shape="rect" id="Node000015" href="$class_schedule_one_1_1_law_1_1_vandalism.html" title=" " alt="" coords="233,859,423,885"/>
+<area shape="poly" id="edge82_Node000000_Node000015" title=" " alt="" coords="94,525,102,591,123,678,139,724,161,768,187,809,220,845,237,856,234,860,217,849,183,812,156,771,134,726,118,679,97,592,88,526"/>
+<area shape="rect" id="Node000016" href="$class_schedule_one_1_1_law_1_1_vehicular_assault.html" title=" " alt="" coords="236,909,420,952"/>
+<area shape="poly" id="edge83_Node000000_Node000016" title=" " alt="" coords="93,525,99,599,118,698,134,751,156,804,185,852,221,895,237,908,234,912,217,899,180,856,152,806,129,753,113,700,94,599,87,525"/>
+<area shape="rect" id="Node000017" href="$class_schedule_one_1_1_law_1_1_violating_curfew.html" title=" " alt="" coords="238,976,418,1019"/>
+<area shape="poly" id="edge84_Node000000_Node000017" title=" " alt="" coords="91,525,94,609,99,665,110,727,126,790,149,852,180,911,221,962,239,976,236,980,217,966,176,914,144,854,121,791,105,728,94,666,88,610,86,525"/>
+</map>

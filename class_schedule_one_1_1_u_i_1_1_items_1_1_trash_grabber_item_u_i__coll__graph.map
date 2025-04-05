@@ -1,0 +1,28 @@
+<map id="ScheduleOne.UI.Items.TrashGrabberItemUI" name="ScheduleOne.UI.Items.TrashGrabberItemUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,2055,186,2161"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_u_i_1_1_items_1_1_item_u_i.html" title=" " alt="" coords="114,124,302,385"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,400,108,446,92,496,81,546,77,597,77,1832,82,1952,92,2055,87,2055,77,1952,72,1832,72,597,76,546,87,494,103,444,122,398"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_item_framework_1_1_item_definition.html" title=" " alt="" coords="318,449,506,748"/>
+<area shape="poly" id="edge9_Node000005_Node000002" title=" " alt="" coords="271,384,293,424,311,452,306,455,289,427,266,386"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="492,5,593,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="479,57,397,83,354,102,315,126,303,135,300,131,311,122,352,98,395,78,477,52"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_equipping_1_1_equippable.html" title=" " alt="" coords="558,1452,775,1564"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="606,80,626,100,643,123,660,156,667,185,669,253,669,1080,669,1452,664,1452,664,1080,664,253,662,186,655,158,639,125,622,103,602,84"/>
+<area shape="rect" id="Node000008" href="$class_schedule_one_1_1_u_i_1_1_items_1_1_item_info_content.html" title=" " alt="" coords="456,180,629,329"/>
+<area shape="poly" id="edge11_Node000008_Node000003" title=" " alt="" coords="545,90,545,180,540,180,540,90"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_item_framework_1_1_item_instance.html" title=" " alt="" coords="238,812,426,1345"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="235,826,218,748,206,660,199,569,197,402,203,402,204,569,211,659,223,748,240,824"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="350,1344,380,1383,399,1398,417,1405,436,1406,455,1403,497,1398,521,1399,546,1407,574,1422,600,1439,596,1444,571,1426,544,1412,520,1405,497,1403,456,1409,436,1411,416,1410,396,1403,376,1387,346,1347"/>
+<area shape="rect" id="Node000010" href="$class_schedule_one_1_1_storage_1_1_storable_item_instance.html" title=" " alt="" coords="112,1433,301,1583"/>
+<area shape="poly" id="edge14_Node000010_Node000004" title=" " alt="" coords="252,1360,230,1434,225,1433,247,1359"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="390,748,382,796,376,795,384,747"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="325,220,432,289"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="386,304,400,449,395,450,380,304"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="626,1454,596,1403,569,1346,539,1262,518,1190,493,1064,475,935,446,773,445,765,450,764,452,771,481,934,498,1063,523,1188,544,1261,574,1344,601,1400,631,1451"/>
+<area shape="poly" id="edge10_Node000005_Node000008" title=" " alt="" coords="517,330,477,434,472,432,512,328"/>
+<area shape="rect" id="Node000009" href="$class_schedule_one_1_1_object_scripts_1_1_watering_can_1_1_trash_grabber_instance.html" title=" " alt="" coords="112,1671,330,1991"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="151,1992,129,2041,124,2038,146,1989"/>
+<area shape="poly" id="edge13_Node000009_Node000010" title=" " alt="" coords="213,1597,216,1671,211,1671,208,1597"/>
+<area shape="rect" id="Node000011" href="$class_schedule_one_1_1_trash_1_1_trash_content.html" title=" " alt="" coords="325,1409,533,1607"/>
+<area shape="poly" id="edge15_Node000009_Node000011" title=" " alt="" coords="368,1608,335,1658,331,1655,364,1605"/>
+</map>

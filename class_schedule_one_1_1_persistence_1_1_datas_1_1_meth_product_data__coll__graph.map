@@ -1,0 +1,9 @@
+<map id="ScheduleOne.Persistence.Datas.MethProductData" name="ScheduleOne.Persistence.Datas.MethProductData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="103,439,268,524"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_persistence_1_1_datas_1_1_product_data.html" title=" " alt="" coords="5,225,171,375"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,386,165,438,161,440,133,389"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_persistence_1_1_datas_1_1_save_data.html" title=" " alt="" coords="5,5,171,176"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="91,191,91,226,86,226,86,191"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_product_1_1_meth_appearance_settings.html" title=" " alt="" coords="195,225,373,375"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="246,376,219,425,214,423,241,373"/>
+</map>

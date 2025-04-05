@@ -1,0 +1,13 @@
+digraph "ScheduleOne.Casino.UI.BlackjackInterface.OnLocalPlayerRoundCompleted"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="ScheduleOne.Casino.UI.Blackjack\lInterface.OnLocalPlayerRoundCompleted",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Casino.UI.Blackjack\lInterface.Close",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_casino_1_1_u_i_1_1_blackjack_interface.html#a424d8640bdfbd2c0c19b5cc6ec83eed0",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Casino.UI.Blackjack\lInterface.Open",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_casino_1_1_u_i_1_1_blackjack_interface.html#a77931e72460c9cb9e78e0463970c8ab8",tooltip=" "];
+}

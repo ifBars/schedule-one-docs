@@ -1,0 +1,10 @@
+<map id="ScheduleOne.Property.Business" name="ScheduleOne.Property.Business">
+<area shape="rect" id="Node000001" title=" " alt="" coords="84,2528,339,3792"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_property_1_1_property.html" title=" " alt="" coords="5,523,255,2480"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,2495,183,2528,178,2528,176,2495"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="68,205,185,275"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="129,289,130,523,125,523,124,289"/>
+<area shape="rect" id="Node000004" href="$interface_schedule_one_1_1_persistence_1_1_i_saveable.html" title=" " alt="" coords="209,5,377,475"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="299,489,300,873,299,1369,290,1922,270,2480,268,2529,263,2528,265,2480,284,1922,293,1369,295,873,293,489"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="264,490,258,533,253,533,258,489"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ScheduleOne.Management.PresetEditScreen" name="ScheduleOne.Management.PresetEditScreen">
+<area shape="rect" id="Node000001" title=" " alt="" coords="43,411,252,859"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,141,106,211"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="68,225,105,410,100,412,63,226"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_management_1_1_presets_1_1_preset.html" title=" " alt="" coords="131,5,351,347"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,347,199,395,194,394,204,346"/>
+</map>

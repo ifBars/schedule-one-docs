@@ -1,0 +1,7 @@
+<map id="ScheduleOne.UI.Handover.HandoverScreen" name="ScheduleOne.UI.Handover.HandoverScreen">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,363,214,1280"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_dev_utilities_1_1_singleton-1-g.html" title=" " alt="" coords="28,123,192,315"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,330,112,363,107,363,107,330"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="60,5,160,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="112,90,112,123,107,123,107,90"/>
+</map>

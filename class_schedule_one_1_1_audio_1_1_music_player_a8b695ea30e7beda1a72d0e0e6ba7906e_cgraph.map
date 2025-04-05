@@ -1,0 +1,7 @@
+<map id="ScheduleOne.Audio.MusicPlayer.StopTrack" name="ScheduleOne.Audio.MusicPlayer.StopTrack">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,222,65"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_console.html#a4af4a471d16b1029b44a8121bf41d45c" title=" " alt="" coords="278,5,501,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,31,262,28,262,33,222,37"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_audio_1_1_music_track.html#a0105233ac4458b494d3b65a3cb5028ce" title=" " alt="" coords="270,56,509,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="222,51,254,54,254,60,222,57"/>
+</map>

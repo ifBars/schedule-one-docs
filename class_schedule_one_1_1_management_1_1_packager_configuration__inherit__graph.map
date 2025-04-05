@@ -1,0 +1,5 @@
+<map id="ScheduleOne.Management.PackagerConfiguration" name="ScheduleOne.Management.PackagerConfiguration">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,395,232,757"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_management_1_1_entity_configuration.html" title=" " alt="" coords="16,5,222,347"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,362,121,395,116,395,116,362"/>
+</map>

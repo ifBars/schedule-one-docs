@@ -1,0 +1,16 @@
+digraph "ScheduleOne.Skating.Skateboard.SendJump"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="ScheduleOne.Skating.Skateboard.\lSendJump",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Skating.Skateboard.Jump",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_skating_1_1_skateboard.html#a37a01fd8bb362e8dd7883565ac65706b",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Skating.Skateboard.\lCheckJump",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_skating_1_1_skateboard.html#a12f49ac7c313af98c0e9969c3e834c59",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.Skating.Skateboard.\lFixedUpdate",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_skating_1_1_skateboard.html#a61642aafd7b48ecaea91e7f4285cfd23",tooltip=" "];
+  Node2 -> Node2 [id="edge4_Node000002_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+}

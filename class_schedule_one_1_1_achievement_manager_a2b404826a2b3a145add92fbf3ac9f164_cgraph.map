@@ -1,0 +1,7 @@
+<map id="ScheduleOne.AchievementManager.Start" name="ScheduleOne.AchievementManager.Start">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,239,48"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_achievement_manager.html#af27e3c82b70b5b375219886b21b9cf8f" title=" " alt="" coords="287,5,520,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,24,271,24,271,29,239,29"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_console.html#a4af4a471d16b1029b44a8121bf41d45c" title=" " alt="" coords="568,13,791,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="520,24,552,24,552,29,520,29"/>
+</map>

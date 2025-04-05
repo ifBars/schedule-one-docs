@@ -1,0 +1,23 @@
+digraph "ScheduleOne.Property.Utilities.Water.Tap.RpcReader___Server_SendWateringCanModel_3615296227"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.Property.Utilities.\lWater.Tap.RpcReader___Server\l_SendWateringCanModel_3615296227",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Property.Utilities.\lWater.Tap.RpcLogic___SendWateringCan\lModel_3615296227",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_property_1_1_utilities_1_1_water_1_1_tap.html#a24a3053ef68957b85f8960753cda59a1",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Property.Utilities.\lWater.Tap.CreateWateringCanModel",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_property_1_1_utilities_1_1_water_1_1_tap.html#ae4fb37aedcfad0d17d0fd7ce3f972c76",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.Property.Utilities.\lWater.Tap.RpcLogic___CreateWatering\lCanModel_3615296227",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_property_1_1_utilities_1_1_water_1_1_tap.html#a3c91a448b3784a693a0eaa348ecda9d7",tooltip=" "];
+  Node4 -> Node5 [id="edge4_Node000004_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.Property.Utilities.\lWater.Tap.CreateWateringCanModel_Local",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_property_1_1_utilities_1_1_water_1_1_tap.html#a58375607b9694f50b21595fb9cad6523",tooltip=" "];
+  Node5 -> Node6 [id="edge5_Node000005_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="ScheduleOne.Registry.GetItem",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_registry.html#ad08d598935d9438bdd2e1884e18de07c",tooltip=" "];
+  Node5 -> Node7 [id="edge6_Node000005_Node000007",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="ScheduleOne.Console.LogWarning",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_console.html#a4af4a471d16b1029b44a8121bf41d45c",tooltip=" "];
+  Node3 -> Node8 [id="edge7_Node000003_Node000008",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="ScheduleOne.Property.Utilities.\lWater.Tap.RpcWriter___Observers\l_CreateWateringCanModel_3615296227",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_property_1_1_utilities_1_1_water_1_1_tap.html#a6370765426aa110445d4b559b261e6e4",tooltip=" "];
+}

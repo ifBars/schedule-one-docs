@@ -1,0 +1,10 @@
+<map id="ScheduleOne.UI.Stations.BrickPressCanvas" name="ScheduleOne.UI.Stations.BrickPressCanvas">
+<area shape="rect" id="Node000001" title=" " alt="" coords="105,700,268,977"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_dev_utilities_1_1_singleton-1-g.html" title=" " alt="" coords="5,276,170,468"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,482,160,700,155,701,108,483"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="136,5,237,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="175,89,119,277,113,275,170,88"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_u_i_1_1_item_slot_u_i.html" title=" " alt="" coords="194,124,382,620"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="203,88,214,123,209,125,198,89"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="236,621,223,684,217,683,231,619"/>
+</map>

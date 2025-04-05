@@ -1,0 +1,19 @@
+<map id="ScheduleOne.Quests.Quest_Employees" name="ScheduleOne.Quests.Quest_Employees">
+<area shape="rect" id="Node000001" title=" " alt="" coords="276,1936,500,2128"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_quests_1_1_quest___botanists.html" title=" " alt="" coords="5,2176,179,2325"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="266,2125,192,2178,180,2187,177,2183,189,2174,263,2120"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_quests_1_1_quest___chemists.html" title=" " alt="" coords="203,2197,376,2304"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="341,2142,316,2199,311,2197,337,2140"/>
+<area shape="rect" id="Node000008" href="$class_schedule_one_1_1_quests_1_1_quest___cleaners.html" title=" " alt="" coords="400,2197,574,2304"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="440,2140,466,2197,461,2199,435,2142"/>
+<area shape="rect" id="Node000009" href="$class_schedule_one_1_1_quests_1_1_quest___packagers.html" title=" " alt="" coords="597,2197,771,2304"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="513,2120,587,2174,616,2195,613,2200,584,2178,510,2125"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_quests_1_1_quest.html" title=" " alt="" coords="289,523,488,1888"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="391,1903,391,1936,386,1936,386,1903"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="162,205,262,275"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="224,289,291,660,286,661,218,290"/>
+<area shape="rect" id="Node000004" href="$interface_schedule_one_1_1_i_g_u_i_d_registerable.html" title=" " alt="" coords="286,195,490,285"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="391,300,391,523,386,523,386,300"/>
+<area shape="rect" id="Node000005" href="$interface_schedule_one_1_1_persistence_1_1_i_saveable.html" title=" " alt="" coords="514,5,682,475"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="546,490,490,747,485,746,541,488"/>
+</map>

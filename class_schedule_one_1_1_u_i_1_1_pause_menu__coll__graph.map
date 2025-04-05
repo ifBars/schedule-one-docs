@@ -1,0 +1,15 @@
+<map id="ScheduleOne.UI.PauseMenu" name="ScheduleOne.UI.PauseMenu">
+<area shape="rect" id="Node000001" title=" " alt="" coords="191,636,371,1089"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_dev_utilities_1_1_singleton-1-g.html" title=" " alt="" coords="5,260,170,452"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,464,197,635,192,637,127,466"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="135,13,235,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="172,98,120,261,115,260,167,96"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_u_i_1_1_main_menu_1_1_main_menu_screen.html" title=" " alt="" coords="194,185,368,527"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="203,96,230,185,225,186,198,98"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="284,527,284,619,278,619,278,527"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="370,312,388,328,395,356,392,375,384,389,380,386,387,373,390,356,383,331,367,316"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_u_i_1_1_feedback_form.html" title=" " alt="" coords="521,140,718,572"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="523,552,510,573,448,662,384,745,379,742,444,659,505,571,519,549"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="552,5,688,91"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="622,106,622,140,617,140,617,106"/>
+</map>

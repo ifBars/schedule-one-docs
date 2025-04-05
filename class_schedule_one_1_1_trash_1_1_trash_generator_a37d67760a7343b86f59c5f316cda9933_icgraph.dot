@@ -1,0 +1,20 @@
+digraph "ScheduleOne.Trash.TrashGenerator.RemoveGeneratedTrash"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="ScheduleOne.Trash.TrashGenerator.\lRemoveGeneratedTrash",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Trash.TrashGenerator.\lAddGeneratedTrash",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_trash_1_1_trash_generator.html#ab9247ecf7511e62aeff22623bce8f28d",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Trash.TrashGenerator.\lGenerateTrash",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_trash_1_1_trash_generator.html#aad0955a4e5b614ce7cd6ce8be1031b86",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.Trash.TrashGenerator.\lGenerateMaxTrash",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_trash_1_1_trash_generator.html#a4f678909f1da62aef951dfa209bc55bc",tooltip=" "];
+  Node3 -> Node5 [id="edge4_Node000003_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.Trash.TrashGenerator.\lSleepStart",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_trash_1_1_trash_generator.html#a4c7635c2688bff25309c143d2cfac05e",tooltip=" "];
+  Node5 -> Node6 [id="edge5_Node000005_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="ScheduleOne.Trash.TrashGenerator.\lStart",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_trash_1_1_trash_generator.html#a69b2bf4dcc1ad4509738c18f3b590dd8",tooltip=" "];
+  Node1 -> Node1 [id="edge6_Node000001_Node000001",dir="back",color="steelblue1",style="solid",tooltip=" "];
+}

@@ -1,0 +1,5 @@
+<map id="ScheduleOne.Vehicles.Wheel" name="ScheduleOne.Vehicles.Wheel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,123,233,1035"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="69,5,170,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,90,122,123,117,123,117,90"/>
+</map>

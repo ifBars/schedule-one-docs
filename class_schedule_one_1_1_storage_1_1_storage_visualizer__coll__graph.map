@@ -1,0 +1,8 @@
+<map id="ScheduleOne.Storage.StorageVisualizer" name="ScheduleOne.Storage.StorageVisualizer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,599,203,983"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="49,5,149,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,89,106,599,100,599,97,89"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_storage_1_1_storage_grid.html" title=" " alt="" coords="120,124,331,535"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="122,87,138,123,133,125,117,89"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,535,162,583,157,582,169,534"/>
+</map>

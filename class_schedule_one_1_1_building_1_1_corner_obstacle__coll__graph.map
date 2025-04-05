@@ -1,0 +1,14 @@
+<map id="ScheduleOne.Building.CornerObstacle" name="ScheduleOne.Building.CornerObstacle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,711,187,839"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="91,5,192,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,90,127,124,111,290,102,454,98,711,93,711,97,454,106,289,122,124,127,89"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_tiles_1_1_footprint_tile.html" title=" " alt="" coords="142,449,339,647"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="138,90,134,150,133,224,138,305,153,385,179,449,174,451,148,386,133,306,128,224,129,150,133,89"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_tiles_1_1_tile_appearance.html" title=" " alt="" coords="164,167,378,343"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="172,86,220,166,216,168,167,89"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_tiles_1_1_tile_detector.html" title=" " alt="" coords="402,124,598,385"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="207,50,298,76,347,96,392,122,404,130,401,135,389,126,345,101,297,81,206,55"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,648,148,698,143,695,176,645"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="264,343,255,433,250,432,259,342"/>
+<area shape="poly" id="edge6_Node000003_Node000005" title=" " alt="" coords="405,376,359,427,349,439,345,435,356,424,401,372"/>
+</map>

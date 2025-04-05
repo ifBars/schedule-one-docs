@@ -1,0 +1,9 @@
+<map id="ScheduleOne.Audio.AudioZone.Update" name="ScheduleOne.Audio.AudioZone.Update">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,212,115"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_audio_1_1_audio_zone.html#a301487959748e69b93b2706e1763cd66" title=" " alt="" coords="260,5,466,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,69,264,50,265,55,193,74"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_audio_1_1_audio_zone.html#a7e921841fcbc754baf5535c1ee5c45da" title=" " alt="" coords="260,72,466,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="212,91,244,91,244,96,212,96"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_audio_1_1_audio_zone_1_1_track.html#aeeb844955bd007fcf8cc9ef2c449a547" title=" " alt="" coords="260,139,466,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="193,113,265,132,264,137,192,118"/>
+</map>

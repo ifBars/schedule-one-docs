@@ -1,0 +1,13 @@
+<map id="ScheduleOne.AvatarFramework.Animation.AvatarLookController.UpdateShit" name="ScheduleOne.AvatarFramework.Animation.AvatarLookController.UpdateShit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,105,216,164"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_avatar_framework_1_1_animation_1_1_avatar_look_controller.html#a96d5c1cb29301d7086c58b07ea807849" title=" " alt="" coords="264,5,474,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,102,276,68,278,73,189,107"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_console.html#afb218907244d12f7d08b1c1831fa1f8c" title=" " alt="" coords="522,155,698,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,120,340,115,408,117,474,124,519,134,560,146,559,152,518,139,474,129,407,122,340,120,216,126"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_avatar_framework_1_1_animation_1_1_avatar_look_controller.html#a3c2583bfaf8110e370a4ae79b2b7ecfb" title=" " alt="" coords="264,139,474,197"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="217,146,248,150,248,155,216,151"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_avatar_framework_1_1_animation_1_1_avatar_look_controller.html#abca9bbb64429654c1a1372362a6dd741" title=" " alt="" coords="264,221,474,280"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="171,162,265,207,278,213,276,217,263,212,169,167"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="475,165,506,165,506,171,475,171"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="456,218,554,184,555,189,458,223"/>
+</map>

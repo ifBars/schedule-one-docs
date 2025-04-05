@@ -1,0 +1,7 @@
+<map id="ScheduleOne.UI.Settings.FOVSLider" name="ScheduleOne.UI.Settings.FOVSLider">
+<area shape="rect" id="Node000001" title=" " alt="" coords="8,405,171,512"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_u_i_1_1_settings_1_1_settings_slider.html" title=" " alt="" coords="5,123,174,357"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,372,92,406,87,406,87,372"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="40,5,140,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="92,90,92,123,87,123,87,90"/>
+</map>

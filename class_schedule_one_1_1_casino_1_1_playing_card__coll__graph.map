@@ -1,0 +1,10 @@
+<map id="ScheduleOne.Casino.PlayingCard" name="ScheduleOne.Casino.PlayingCard">
+<area shape="rect" id="Node000001" title=" " alt="" coords="74,844,283,1276"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,106,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="53,90,44,210,38,377,44,570,53,668,68,763,89,844,83,845,62,765,47,668,38,570,33,377,39,209,48,90"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_audio_1_1_audio_source_controller.html" title=" " alt="" coords="76,124,280,764"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="73,88,84,123,78,125,68,90"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_casino_1_1_playing_card_1_1_card_sprite.html" title=" " alt="" coords="304,380,485,508"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="378,509,294,765,271,829,266,828,289,763,373,507"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="181,764,181,827,176,827,176,764"/>
+</map>

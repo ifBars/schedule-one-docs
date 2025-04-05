@@ -1,0 +1,5 @@
+<map id="ScheduleOne.Persistence.ItemLoaders.WateringCanLoader" name="ScheduleOne.Persistence.ItemLoaders.WateringCanLoader">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,181,206,267"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_persistence_1_1_item_loaders_1_1_item_loader.html" title=" " alt="" coords="23,5,188,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,148,108,182,103,182,103,148"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="ScheduleOne.ObjectScripts.LabOvenWireTray" name="ScheduleOne.ObjectScripts.LabOvenWireTray">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1415,181,1927"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="88,5,189,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,90,126,124,112,297,101,474,89,824,86,1148,89,1415,83,1415,81,1148,84,824,96,474,107,297,121,124,126,89"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_object_scripts_1_1_lab_oven_door.html" title=" " alt="" coords="132,860,310,1351"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="138,90,134,209,132,376,136,568,150,764,165,860,160,861,145,764,130,569,126,376,129,209,133,90"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_player_tasks_1_1_clickable.html" title=" " alt="" coords="160,295,328,593"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="154,89,208,294,203,296,148,90"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_audio_1_1_audio_source_controller.html" title=" " alt="" coords="353,124,556,764"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="204,51,238,61,275,76,311,96,342,122,355,137,351,140,338,126,308,101,273,81,237,66,202,56"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="168,1351,157,1399,152,1398,163,1350"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="241,593,233,844,227,843,236,593"/>
+<area shape="poly" id="edge6_Node000003_Node000005" title=" " alt="" coords="371,765,346,837,319,905,314,903,341,835,366,763"/>
+</map>

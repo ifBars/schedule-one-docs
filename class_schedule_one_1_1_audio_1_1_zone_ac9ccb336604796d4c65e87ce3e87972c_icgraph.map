@@ -1,0 +1,7 @@
+<map id="ScheduleOne.Audio.Zone.GetBoundingPoints" name="ScheduleOne.Audio.Zone.GetBoundingPoints">
+<area shape="rect" id="Node000001" title=" " alt="" coords="534,5,728,48"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_audio_1_1_zone.html#a12b6a61b3a60d6feb70f475e2d795beb" title=" " alt="" coords="296,5,486,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="518,29,486,29,486,24,518,24"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_audio_1_1_zone.html#a3a9d77e25b20e8fe9e9cb5409fa59c29" title=" " alt="" coords="5,13,248,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="280,29,248,29,248,24,280,24"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ScheduleOne.Management.ChemistryStationConfiguration" name="ScheduleOne.Management.ChemistryStationConfiguration">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,395,237,715"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_management_1_1_entity_configuration.html" title=" " alt="" coords="18,5,224,347"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,362,124,395,118,395,118,362"/>
+</map>

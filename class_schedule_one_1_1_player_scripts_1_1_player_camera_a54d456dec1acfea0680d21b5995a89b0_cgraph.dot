@@ -1,0 +1,15 @@
+digraph "ScheduleOne.PlayerScripts.PlayerCamera.OverrideTransform"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.PlayerScripts.\lPlayerCamera.OverrideTransform",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.PlayerScripts.\lPlayerCamera.ILerpCamera",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_player_scripts_1_1_player_camera.html#a93d05059d070bb9e5099c66660b6323c",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.PlayerScripts.\lPlayerCamera.GetTargetLocalY",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_player_scripts_1_1_player_camera.html#a537a4505a47c9916ebd4e5ef72d07b8e",tooltip=" "];
+  Node2 -> Node4 [id="edge3_Node000002_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.PlayerScripts.\lPlayerCamera.SetCanLook",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_player_scripts_1_1_player_camera.html#a51577178cb0ad8e982dd2116d6ba7d5f",tooltip=" "];
+}

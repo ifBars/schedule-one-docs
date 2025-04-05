@@ -1,0 +1,25 @@
+digraph "ScheduleOne.Messaging.MSGConversation.RepositionEntry"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="ScheduleOne.Messaging.MSGConversation.\lRepositionEntry",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Messaging.MSGConversation.\lCreateUI",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_messaging_1_1_m_s_g_conversation.html#a964b26258566aa73b02e9939ab561beb",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Messaging.MSGConversation.\lEnsureUIExists",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_messaging_1_1_m_s_g_conversation.html#a3d249c0fbe201caa92f7266ebd2191d7",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.Messaging.MSGConversation.\lCreateResponseUI",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_messaging_1_1_m_s_g_conversation.html#a0d95e014407302553c2cb2183f42bb5b",tooltip=" "];
+  Node4 -> Node5 [id="edge4_Node000004_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.Messaging.MSGConversation.\lShowResponses",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_messaging_1_1_m_s_g_conversation.html#a09e9c55050e608e499258d97fb6c3d06",tooltip=" "];
+  Node5 -> Node6 [id="edge5_Node000005_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="ScheduleOne.Messaging.MSGConversation.Load",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_messaging_1_1_m_s_g_conversation.html#ab0040127589ec386054842f3c2837547",tooltip=" "];
+  Node3 -> Node6 [id="edge6_Node000003_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 -> Node7 [id="edge7_Node000003_Node000007",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="ScheduleOne.Messaging.MSGConversation.\lSendMessage",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_messaging_1_1_m_s_g_conversation.html#a8595cbe2ce4cd3461738d6b73af62de1",tooltip=" "];
+  Node3 -> Node8 [id="edge8_Node000003_Node000008",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="ScheduleOne.Messaging.MSGConversation.\lSendMessageChain",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_messaging_1_1_m_s_g_conversation.html#a7ea6351b9da24a701434707e1bb4275f",tooltip=" "];
+  Node3 -> Node5 [id="edge9_Node000003_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+}

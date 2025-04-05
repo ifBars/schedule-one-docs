@@ -1,0 +1,13 @@
+<map id="ScheduleOne.Equipping.Equippable_WateringCan" name="ScheduleOne.Equipping.Equippable_WateringCan">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1045,223,1259"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_equipping_1_1_equippable___pourable.html" title=" " alt="" coords="5,827,223,997"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,1012,117,1046,112,1046,112,1012"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_equipping_1_1_equippable___viewmodel.html" title=" " alt="" coords="5,565,223,779"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="117,794,117,827,112,827,112,794"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_equipping_1_1_equippable___storable_item.html" title=" " alt="" coords="5,304,223,517"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="117,532,117,566,112,566,112,532"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_equipping_1_1_equippable.html" title=" " alt="" coords="5,123,223,256"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="117,271,117,304,112,304,112,271"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="64,5,164,75"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="117,90,117,123,112,123,112,90"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="ScheduleOne.Management.Presets.PotPreset" name="ScheduleOne.Management.Presets.PotPreset">
+<area shape="rect" id="Node000001" title=" " alt="" coords="27,604,247,775"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_management_1_1_presets_1_1_preset.html" title=" " alt="" coords="5,183,226,524"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,539,134,604,129,604,125,539"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_management_1_1_presets_1_1_options_1_1_item_list.html" title=" " alt="" coords="251,236,471,471"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="285,472,205,591,201,589,281,469"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_management_1_1_presets_1_1_options_1_1_option.html" title=" " alt="" coords="251,5,471,133"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="364,148,364,237,358,237,358,148"/>
+</map>

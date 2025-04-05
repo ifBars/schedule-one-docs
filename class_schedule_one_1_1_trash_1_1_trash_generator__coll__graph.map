@@ -1,0 +1,9 @@
+<map id="ScheduleOne.Trash.TrashGenerator" name="ScheduleOne.Trash.TrashGenerator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="111,523,352,1232"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,205,106,275"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,288,121,474,134,522,129,524,116,475,66,290"/>
+<area shape="rect" id="Node000003" href="$interface_schedule_one_1_1_i_g_u_i_d_registerable.html" title=" " alt="" coords="130,195,334,285"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="234,300,234,523,229,523,229,300"/>
+<area shape="rect" id="Node000004" href="$interface_schedule_one_1_1_persistence_1_1_i_saveable.html" title=" " alt="" coords="357,5,525,475"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="362,490,351,524,346,522,357,488"/>
+</map>

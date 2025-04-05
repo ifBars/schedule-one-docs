@@ -1,0 +1,5 @@
+<map id="ScheduleOne.Persistence.ItemLoaders.WeedLoader" name="ScheduleOne.Persistence.ItemLoaders.WeedLoader">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,181,171,267"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_persistence_1_1_item_loaders_1_1_item_loader.html" title=" " alt="" coords="5,5,171,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,148,91,182,86,182,86,148"/>
+</map>

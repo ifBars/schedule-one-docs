@@ -1,0 +1,5 @@
+<map id="ScheduleOne.PlayerTasks.FinalizeLabOven" name="ScheduleOne.PlayerTasks.FinalizeLabOven">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,848,240,1205"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_player_tasks_1_1_task.html" title=" " alt="" coords="24,5,221,800"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,815,126,848,120,848,120,815"/>
+</map>

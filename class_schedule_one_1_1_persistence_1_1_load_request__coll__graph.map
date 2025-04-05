@@ -1,0 +1,5 @@
+<map id="ScheduleOne.Persistence.LoadRequest" name="ScheduleOne.Persistence.LoadRequest">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,219,171,347"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_loader.html" title=" " alt="" coords="5,5,171,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,154,91,202,86,202,86,154"/>
+</map>

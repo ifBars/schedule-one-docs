@@ -1,0 +1,5 @@
+<map id="ScheduleOne.PlayerTasks.Tasks.UseMixingStationTask" name="ScheduleOne.PlayerTasks.Tasks.UseMixingStationTask">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,848,225,1317"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_player_tasks_1_1_task.html" title=" " alt="" coords="17,5,214,800"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,815,118,848,113,848,113,815"/>
+</map>

@@ -1,0 +1,11 @@
+digraph "ScheduleOne.Building.Doors.PropertyDoorController.CanPlayerAccess"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.Building.Doors.\lPropertyDoorController.CanPlayer\lAccess",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Building.Doors.\lPropertyDoorController.GetNearest\lWantedPlayer",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_building_1_1_doors_1_1_property_door_controller.html#a72db7ed5d6bed3bf0c13261fcfb8e2db",tooltip=" "];
+}

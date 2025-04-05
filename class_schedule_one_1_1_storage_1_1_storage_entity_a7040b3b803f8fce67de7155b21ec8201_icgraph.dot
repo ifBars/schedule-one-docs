@@ -1,0 +1,34 @@
+digraph "ScheduleOne.Storage.StorageEntity.OnOpened"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="ScheduleOne.Storage.Storage\lEntity.OnOpened",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Storage.Storage\lEntity.RpcLogic___SetAccessor\l_3323014238",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_storage_1_1_storage_entity.html#ae0ec925e7e0cfde5b0d19d68d7161268",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Storage.Storage\lEntity.RpcReader___Observers\l_SetAccessor_3323014238",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_storage_1_1_storage_entity.html#a84de43321642901aae241b38d2a1a855",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.Storage.Storage\lEntity.NetworkInitialize\l___Early",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_storage_1_1_storage_entity.html#a3ba31b0c0cd5745e42e69dd963e8069d",tooltip=" "];
+  Node4 -> Node5 [id="edge4_Node000004_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.Storage.Storage\lEntity.Awake",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_storage_1_1_storage_entity.html#ac7d7a3cbf8fe01e4d8d55b06665f02d6",tooltip=" "];
+  Node4 -> Node6 [id="edge5_Node000004_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="ScheduleOne.Storage.Storage\lEntity.NetworkInitializeIfDisabled",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_storage_1_1_storage_entity.html#a392a01c61be2967008a3bd007bb0b109",tooltip=" "];
+  Node2 -> Node7 [id="edge6_Node000002_Node000007",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="ScheduleOne.Storage.Storage\lEntity.SetAccessor",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_storage_1_1_storage_entity.html#a6c5406f593d6b5c02a69019456d85aa3",tooltip=" "];
+  Node7 -> Node8 [id="edge7_Node000007_Node000008",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="ScheduleOne.Storage.Storage\lEntity.RpcLogic___SendAccessor\l_3323014238",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_storage_1_1_storage_entity.html#a10e7edadf2aadbee2fccfb1d7178890f",tooltip=" "];
+  Node8 -> Node9 [id="edge8_Node000008_Node000009",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node9 [id="Node000009",label="ScheduleOne.Storage.Storage\lEntity.RpcReader___Server\l_SendAccessor_3323014238",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_storage_1_1_storage_entity.html#a7874036764098279302ff3ef30a58195",tooltip=" "];
+  Node9 -> Node4 [id="edge9_Node000009_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node8 -> Node10 [id="edge10_Node000008_Node000010",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node10 [id="Node000010",label="ScheduleOne.Storage.Storage\lEntity.SendAccessor",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_storage_1_1_storage_entity.html#a3e5492412f60616a9f09177357870114",tooltip=" "];
+  Node10 -> Node11 [id="edge11_Node000010_Node000011",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node11 [id="Node000011",label="ScheduleOne.Storage.Storage\lEntity.Close",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_storage_1_1_storage_entity.html#a88409d7ca8789221eeaf4d757f4b659e",tooltip=" "];
+  Node11 -> Node12 [id="edge12_Node000011_Node000012",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node12 [id="Node000012",label="ScheduleOne.Storage.Storage\lEntity.FixedUpdate",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_storage_1_1_storage_entity.html#ac40eb1ded4de558a8664fa750f0848ca",tooltip=" "];
+  Node10 -> Node13 [id="edge13_Node000010_Node000013",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node13 [id="Node000013",label="ScheduleOne.Storage.Storage\lEntity.Open",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_storage_1_1_storage_entity.html#a4d10182abf858d26b330a84e089c038c",tooltip=" "];
+}

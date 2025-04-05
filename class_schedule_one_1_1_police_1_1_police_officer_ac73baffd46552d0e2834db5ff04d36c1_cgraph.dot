@@ -1,0 +1,13 @@
+digraph "ScheduleOne.Police.PoliceOfficer.BeginVehiclePursuit"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.Police.Police\lOfficer.BeginVehiclePursuit",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Begins the vehicle pursuit."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Police.Police\lOfficer.RpcLogic___BeginVehicle\lPursuit_2261819652",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_police_1_1_police_officer.html#ac665a36fddfd890f82442e79f7937726",tooltip="RPCs the logic begin vehicle pursuit 2261819652."];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Police.Police\lOfficer.RpcWriter___Observers\l_BeginVehiclePursuit_2261819652",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_police_1_1_police_officer.html#a0ac74ab0beae8c503c138459aa050150",tooltip="RPCs the writer observers begin vehicle pursuit 2261819652."];
+}

@@ -1,0 +1,19 @@
+<map id="ScheduleOne.Dragging.DragManager" name="ScheduleOne.Dragging.DragManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="225,2151,504,3148"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_dev_utilities_1_1_network_singleton-1-g.html" title=" " alt="" coords="5,1460,316,1956"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,1970,259,2150,254,2151,215,1972"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="102,356,220,425"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="164,440,164,1460,158,1460,158,440"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_audio_1_1_audio_source_controller.html" title=" " alt="" coords="259,681,463,1321"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="364,1321,366,2134,361,2134,359,1321"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="432,5,532,75"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="469,89,466,99,438,246,415,397,384,682,379,681,410,396,433,246,461,98,463,88"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_dragging_1_1_draggable.html" title=" " alt="" coords="486,1345,694,2071"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="486,89,495,332,510,657,534,1011,561,1345,556,1346,529,1012,505,657,489,332,481,89"/>
+<area shape="rect" id="Node000008" href="$class_schedule_one_1_1_interaction_1_1_interactable_object.html" title=" " alt="" coords="519,124,677,657"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="500,87,522,152,517,153,495,89"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="506,2071,491,2135,486,2134,501,2070"/>
+<area shape="rect" id="Node000007" href="$interface_schedule_one_1_1_i_g_u_i_d_registerable.html" title=" " alt="" coords="702,345,905,436"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="797,451,651,1346,646,1345,791,450"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="599,657,595,1329,590,1329,594,657"/>
+</map>

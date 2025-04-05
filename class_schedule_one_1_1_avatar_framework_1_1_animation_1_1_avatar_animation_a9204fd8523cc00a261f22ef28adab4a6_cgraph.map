@@ -1,0 +1,20 @@
+<map id="ScheduleOne.AvatarFramework.Animation.AvatarAnimation.RagdollChange" name="ScheduleOne.AvatarFramework.Animation.AvatarAnimation.RagdollChange">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,105,233,164"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_avatar_framework_1_1_animation_1_1_avatar_animation.html#a4037a7480a97cc14c79fdd7b63b130aa" title=" " alt="" coords="296,15,508,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,102,293,76,295,81,214,107"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_avatar_framework_1_1_animation_1_1_avatar_animation.html#af069d14179dce35d811d3d691e8719b7" title=" " alt="" coords="281,105,524,164"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="233,132,265,132,265,137,233,137"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_avatar_framework_1_1_animation_1_1_avatar_animation.html#a20fc57863a36757d03435502f7dd1e82" title=" " alt="" coords="572,221,833,280"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="232,162,281,173,557,225,556,230,280,179,231,167"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_avatar_framework_1_1_animation_1_1_avatar_animation.html#a5dd14c3ce90c7d777ec95a3ef0f59375" title=" " alt="" coords="591,5,814,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="509,38,575,36,575,41,509,43"/>
+<area shape="poly" id="edge9_Node000004_Node000003" title=" " alt="" coords="487,102,571,73,592,67,593,72,573,79,489,107"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_avatar_framework_1_1_animation_1_1_avatar_animation.html#aef6b40e130ea5944184ad1f67195fe15" title=" " alt="" coords="586,88,820,147"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="524,125,570,122,570,128,524,130"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_avatar_framework_1_1_animation_1_1_avatar_animation.html#ade013cc588dbb3980363f11592889fc2" title=" " alt="" coords="881,113,1116,172"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="525,151,572,156,703,161,833,156,866,154,866,159,833,161,703,167,572,161,524,157"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="477,162,573,200,606,213,604,218,571,205,475,167"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="821,125,866,129,866,134,820,130"/>
+<area shape="rect" id="Node000008" href="$class_schedule_one_1_1_avatar_framework_1_1_animation_1_1_avatar_animation.html#a3a96be7d774333d07915d0dbb7a21bce" title=" " alt="" coords="886,221,1111,280"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="834,248,870,248,870,253,834,253"/>
+</map>

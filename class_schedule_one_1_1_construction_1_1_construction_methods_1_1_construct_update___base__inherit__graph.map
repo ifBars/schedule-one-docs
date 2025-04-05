@@ -1,0 +1,11 @@
+<map id="ScheduleOne.Construction.ConstructionMethods.ConstructUpdate_Base" name="ScheduleOne.Construction.ConstructionMethods.ConstructUpdate_Base">
+<area shape="rect" id="Node000001" title=" " alt="" coords="118,123,392,272"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_construction_1_1_construction_methods_1_1_construct_update___outdoor_grid.html" title=" " alt="" coords="5,320,243,784"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="225,287,212,321,207,319,220,285"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_construction_1_1_construction_methods_1_1_construct_update___power_line.html" title=" " alt="" coords="267,363,504,741"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="290,285,318,362,313,364,285,287"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="204,5,305,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="258,90,258,123,252,123,252,90"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_construction_1_1_construction_methods_1_1_construct_update___power_tower.html" title=" " alt="" coords="5,832,243,1296"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="127,799,127,832,122,832,122,799"/>
+</map>

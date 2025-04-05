@@ -1,0 +1,7 @@
+<map id="ScheduleOne.AvatarFramework.Animation.AvatarAnimation.SkateboardPush" name="ScheduleOne.AvatarFramework.Animation.AvatarAnimation.SkateboardPush">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,285,56"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_avatar_framework_1_1_animation_1_1_avatar_animation.html#a7bb46cc2741e6d78783a8d3b6ddd71df" title=" " alt="" coords="333,13,576,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="285,32,317,32,317,37,285,37"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_avatar_framework_1_1_animation_1_1_avatar_animation.html#a3a96be7d774333d07915d0dbb7a21bce" title=" " alt="" coords="624,5,849,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="576,32,608,32,608,37,576,37"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ScheduleOne.Law.VehicularAssault" name="ScheduleOne.Law.VehicularAssault">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,123,178,208"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_law_1_1_crime.html" title=" " alt="" coords="14,5,169,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,89,94,123,89,123,89,89"/>
+</map>

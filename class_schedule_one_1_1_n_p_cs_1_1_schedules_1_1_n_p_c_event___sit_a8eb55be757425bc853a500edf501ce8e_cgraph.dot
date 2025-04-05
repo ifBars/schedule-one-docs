@@ -1,0 +1,24 @@
+digraph "ScheduleOne.NPCs.Schedules.NPCEvent_Sit.Awake"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.NPCs.Schedules.\lNPCEvent_Sit.Awake",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.NPCs.Schedules.\lNPCEvent_Sit.NetworkInitialize\l___Early",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_schedules_1_1_n_p_c_event___sit.html#a6ad3bbb347fb0ae15c435a2758d04828",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.NPCs.Schedules.\lNPCEvent_Sit.RpcReader_\l__Observers_EndAction_2166136261",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_schedules_1_1_n_p_c_event___sit.html#a20a2d30e6ff4a4c6f5da9877b33e9ef4",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.NPCs.Schedules.\lNPCEvent_Sit.RpcLogic__\l_EndAction_2166136261",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_schedules_1_1_n_p_c_event___sit.html#a249941c43b958eca9de2b26f2e56cf33",tooltip=" "];
+  Node2 -> Node5 [id="edge4_Node000002_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.NPCs.Schedules.\lNPCEvent_Sit.RpcReader_\l__Observers_StartAction_2681120339",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_schedules_1_1_n_p_c_event___sit.html#a91a43ffbfbb5c69614ff7b37a109fbf5",tooltip=" "];
+  Node5 -> Node6 [id="edge5_Node000005_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="ScheduleOne.NPCs.Schedules.\lNPCEvent_Sit.RpcLogic__\l_StartAction_2681120339",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_schedules_1_1_n_p_c_event___sit.html#a7a9e0ca71df1b04cd09ed26ce863c770",tooltip=" "];
+  Node2 -> Node7 [id="edge6_Node000002_Node000007",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="ScheduleOne.NPCs.Schedules.\lNPCEvent_Sit.RpcReader_\l__Target_StartAction_2681120339",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_schedules_1_1_n_p_c_event___sit.html#afed4063d8ce751c9ff18aa259c890181",tooltip=" "];
+  Node7 -> Node6 [id="edge7_Node000007_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node1 -> Node8 [id="edge8_Node000001_Node000008",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="ScheduleOne.NPCs.Schedules.\lNPCEvent_Sit.NetworkInitialize__Late",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_schedules_1_1_n_p_c_event___sit.html#a63467c53866dfc465d28d10fd1e4c636",tooltip=" "];
+}

@@ -1,0 +1,13 @@
+digraph "ScheduleOne.PlayerScripts.Player.SetAnimationBool"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.PlayerScripts.\lPlayer.SetAnimationBool",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.PlayerScripts.\lPlayer.RpcLogic___SetAnimation\lBool_310431262",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_player_scripts_1_1_player.html#a40491b7c85ccdfb50a0b4044766f4f1e",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.PlayerScripts.\lPlayer.RpcWriter___Observers\l_SetAnimationBool_310431262",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_player_scripts_1_1_player.html#a7d6752ea3f5034f1f868637160a7d8c7",tooltip=" "];
+}

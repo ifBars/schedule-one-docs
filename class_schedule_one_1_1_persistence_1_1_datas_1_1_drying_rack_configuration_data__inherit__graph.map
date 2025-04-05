@@ -1,0 +1,5 @@
+<map id="ScheduleOne.Persistence.Datas.DryingRackConfigurationData" name="ScheduleOne.Persistence.Datas.DryingRackConfigurationData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,224,229,331"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_persistence_1_1_datas_1_1_save_data.html" title=" " alt="" coords="34,5,200,176"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,191,120,224,114,224,114,191"/>
+</map>

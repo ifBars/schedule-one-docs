@@ -1,0 +1,22 @@
+<map id="ScheduleOne.Quests.QuestEntry" name="ScheduleOne.Quests.QuestEntry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="140,1692,318,2524"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="106,5,206,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,89,104,125,51,229,33,277,19,340,11,439,8,601,15,1025,28,1429,40,1628,60,1705,85,1783,143,1928,138,1930,80,1785,55,1707,35,1628,23,1429,9,1025,3,601,5,438,14,340,28,276,46,227,99,123,121,86"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_map_1_1_p_o_i.html" title=" " alt="" coords="21,340,166,857"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="142,89,133,125,117,232,106,341,101,340,112,232,128,123,137,88"/>
+<area shape="rect" id="Node000008" href="$class_schedule_one_1_1_dev_utilities_1_1_singleton-1-g.html" title=" " alt="" coords="143,124,308,316"/>
+<area shape="poly" id="edge9_Node000008_Node000002" title=" " alt="" coords="177,88,191,123,186,125,172,90"/>
+<area shape="rect" id="Node000009" href="$class_schedule_one_1_1_u_i_1_1_quest_entry_h_u_d_u_i.html" title=" " alt="" coords="288,471,464,727"/>
+<area shape="poly" id="edge11_Node000009_Node000002" title=" " alt="" coords="221,55,276,80,301,99,322,122,346,162,365,205,378,250,388,296,396,387,395,471,389,471,391,388,382,297,373,252,360,207,341,165,318,126,298,103,273,85,219,60"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_variables_1_1_conditions.html" title=" " alt="" coords="468,1220,679,1289"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="566,1290,519,1438,451,1629,391,1772,328,1909,323,1907,386,1770,446,1627,514,1436,561,1288"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_variables_1_1_condition.html" title=" " alt="" coords="407,164,612,276"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="516,276,573,1203,568,1203,510,276"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_variables_1_1_quest_condition.html" title=" " alt="" coords="636,124,820,316"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="719,316,643,858,585,1203,580,1202,638,857,713,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="65,857,52,1029,46,1223,52,1427,60,1528,73,1628,101,1751,137,1871,132,1872,95,1752,68,1628,55,1529,46,1427,41,1223,47,1029,60,857"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_u_i_1_1_compass_1_1_compass_manager.html" title=" " alt="" coords="114,881,344,1628"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="232,1628,232,1675,227,1675,227,1628"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="229,331,231,882,225,882,223,331"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="386,726,392,904,393,1130,383,1379,373,1505,359,1628,344,1714,325,1799,320,1798,339,1713,354,1628,368,1504,378,1378,387,1129,387,904,381,727"/>
+</map>

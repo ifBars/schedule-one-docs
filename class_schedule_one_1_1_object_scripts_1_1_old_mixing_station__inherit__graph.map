@@ -1,0 +1,17 @@
+<map id="ScheduleOne.ObjectScripts.OldMixingStation" name="ScheduleOne.ObjectScripts.OldMixingStation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="381,3531,640,4784"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_entity_framework_1_1_grid_item.html" title=" " alt="" coords="120,2384,378,3483"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="373,3497,384,3551,379,3552,367,3498"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_entity_framework_1_1_buildable_item.html" title=" " alt="" coords="118,523,381,2336"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="252,2351,252,2384,247,2384,247,2351"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,205,123,275"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="74,289,121,586,115,586,69,290"/>
+<area shape="rect" id="Node000005" href="$interface_schedule_one_1_1_i_g_u_i_d_registerable.html" title=" " alt="" coords="148,195,351,285"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="252,301,252,523,247,523,247,301"/>
+<area shape="rect" id="Node000006" href="$interface_schedule_one_1_1_persistence_1_1_i_saveable.html" title=" " alt="" coords="375,5,543,475"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="418,490,384,683,378,682,412,489"/>
+<area shape="rect" id="Node000007" href="$interface_schedule_one_1_1_management_1_1_i_usable.html" title=" " alt="" coords="402,2867,619,3000"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="514,3015,514,3531,508,3531,508,3015"/>
+<area shape="rect" id="Node000008" href="$interface_schedule_one_1_1_item_framework_1_1_i_item_slot_owner.html" title=" " alt="" coords="644,2837,831,3029"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="720,3044,629,3531,624,3530,715,3043"/>
+</map>

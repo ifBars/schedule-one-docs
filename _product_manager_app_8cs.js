@@ -1,0 +1,5 @@
+var _product_manager_app_8cs =
+[
+    [ "ScheduleOne.UI.Phone.ProductManagerApp.ProductManagerApp", "class_schedule_one_1_1_u_i_1_1_phone_1_1_product_manager_app_1_1_product_manager_app.html", "class_schedule_one_1_1_u_i_1_1_phone_1_1_product_manager_app_1_1_product_manager_app" ],
+    [ "ScheduleOne.UI.Phone.ProductManagerApp.ProductManagerApp.ProductTypeContainer", "class_schedule_one_1_1_u_i_1_1_phone_1_1_product_manager_app_1_1_product_manager_app_1_1_product_type_container.html", "class_schedule_one_1_1_u_i_1_1_phone_1_1_product_manager_app_1_1_product_manager_app_1_1_product_type_container" ]
+];

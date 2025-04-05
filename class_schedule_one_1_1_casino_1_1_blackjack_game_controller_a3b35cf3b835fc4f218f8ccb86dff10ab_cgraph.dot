@@ -1,0 +1,13 @@
+digraph "ScheduleOne.Casino.BlackjackGameController.SetRoundEnded"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.Casino.Blackjack\lGameController.SetRoundEnded",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Casino.Blackjack\lGameController.RpcLogic\l___SetRoundEnded_1140765316",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_casino_1_1_blackjack_game_controller.html#a49b95ce9fa5a3408fe01747a476c7e6d",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Casino.Blackjack\lGameController.RpcWriter\l___Observers_SetRoundEnded\l_1140765316",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_casino_1_1_blackjack_game_controller.html#a865cdd6db24299724218f19661490fb7",tooltip=" "];
+}

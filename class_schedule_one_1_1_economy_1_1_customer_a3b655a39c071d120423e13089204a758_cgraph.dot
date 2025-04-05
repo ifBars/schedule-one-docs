@@ -1,0 +1,49 @@
+digraph "ScheduleOne.Economy.Customer.RpcReader___Observers_ProcessHandoverClient_537707335"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.Economy.Customer.\lRpcReader___Observers_ProcessHandover\lClient_537707335",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Economy.Customer.\lRpcLogic___ProcessHandoverClient\l_537707335",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_economy_1_1_customer.html#aaceeddc0d8886cd1ee98b213fbee8ce3",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Economy.Customer.\lContractWellReceived",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_economy_1_1_customer.html#a8456f0e093fcfa2b77cba7dcb2f81d1c",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.NPCs.NPCManager.\lGetNPC",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_n_p_c_manager.html#ad9e18bf5881f472dcd80ed93a864b73d",tooltip=" "];
+  Node3 -> Node5 [id="edge4_Node000003_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.Economy.Customer.\lRecommendCustomer",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_economy_1_1_customer.html#aa2b222110081ad5e55ba25b50f70138f",tooltip=" "];
+  Node5 -> Node6 [id="edge5_Node000005_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="ScheduleOne.PlayerScripts.\lPlayer.GetClosestPlayer",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_player_scripts_1_1_player.html#a2ac19b27fc5b9cd00a414360b283a472",tooltip=" "];
+  Node5 -> Node7 [id="edge6_Node000005_Node000007",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="ScheduleOne.Console.Log",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_console.html#afb218907244d12f7d08b1c1831fa1f8c",tooltip=" "];
+  Node5 -> Node8 [id="edge7_Node000005_Node000008",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="ScheduleOne.Console.LogWarning",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_console.html#a4af4a471d16b1029b44a8121bf41d45c",tooltip=" "];
+  Node3 -> Node9 [id="edge8_Node000003_Node000009",color="steelblue1",style="solid",tooltip=" "];
+  Node9 [id="Node000009",label="ScheduleOne.Economy.Customer.\lRecommendDealer",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_economy_1_1_customer.html#af5c2c0f6f7087f1f29d349f900e0aa43",tooltip=" "];
+  Node9 -> Node6 [id="edge9_Node000009_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node9 -> Node7 [id="edge10_Node000009_Node000007",color="steelblue1",style="solid",tooltip=" "];
+  Node9 -> Node8 [id="edge11_Node000009_Node000008",color="steelblue1",style="solid",tooltip=" "];
+  Node9 -> Node10 [id="edge12_Node000009_Node000010",color="steelblue1",style="solid",tooltip=" "];
+  Node10 [id="Node000010",label="ScheduleOne.Economy.Dealer.\lMarkAsRecommended",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_economy_1_1_dealer.html#aac9b213c8a04594e4e98eaf39a189930",tooltip=" "];
+  Node10 -> Node11 [id="edge13_Node000010_Node000011",color="steelblue1",style="solid",tooltip=" "];
+  Node11 [id="Node000011",label="ScheduleOne.Economy.Dealer.\lRpcLogic___MarkAsRecommended\l_2166136261",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_economy_1_1_dealer.html#a5c6973e4e4549722fd4d2360f327b913",tooltip=" "];
+  Node11 -> Node12 [id="edge14_Node000011_Node000012",color="steelblue1",style="solid",tooltip=" "];
+  Node12 [id="Node000012",label="ScheduleOne.Economy.Dealer.\lSetRecommended",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_economy_1_1_dealer.html#adf1718a08e0b64324d2c0b40093285ac",tooltip=" "];
+  Node12 -> Node13 [id="edge15_Node000012_Node000013",color="steelblue1",style="solid",tooltip=" "];
+  Node13 [id="Node000013",label="ScheduleOne.Economy.Dealer.\lRpcLogic___SetRecommended\l_2166136261",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_economy_1_1_dealer.html#aca647a172f161467d4b57723b5638463",tooltip=" "];
+  Node12 -> Node14 [id="edge16_Node000012_Node000014",color="steelblue1",style="solid",tooltip=" "];
+  Node14 [id="Node000014",label="ScheduleOne.Economy.Dealer.\lRpcWriter___Observers_SetRecommended\l_2166136261",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_economy_1_1_dealer.html#a7feda34f128e6f808c5ee1631e72c61b",tooltip=" "];
+  Node10 -> Node15 [id="edge17_Node000010_Node000015",color="steelblue1",style="solid",tooltip=" "];
+  Node15 [id="Node000015",label="ScheduleOne.Economy.Dealer.\lRpcWriter___Server_MarkAsRecommended\l_2166136261",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_economy_1_1_dealer.html#ad6791633a40d53a4145d53977a341a1a",tooltip=" "];
+  Node3 -> Node16 [id="edge18_Node000003_Node000016",color="steelblue1",style="solid",tooltip=" "];
+  Node16 [id="Node000016",label="ScheduleOne.Economy.Customer.\lRecommendSupplier",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_economy_1_1_customer.html#a60f6199f0ef16065a15a62ec3cf2d77d",tooltip=" "];
+  Node16 -> Node6 [id="edge19_Node000016_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node16 -> Node7 [id="edge20_Node000016_Node000007",color="steelblue1",style="solid",tooltip=" "];
+  Node16 -> Node8 [id="edge21_Node000016_Node000008",color="steelblue1",style="solid",tooltip=" "];
+  Node16 -> Node17 [id="edge22_Node000016_Node000017",color="steelblue1",style="solid",tooltip=" "];
+  Node17 [id="Node000017",label="ScheduleOne.Economy.Supplier.\lSendUnlocked",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_economy_1_1_supplier.html#a21ab941582755655d732fca3cbd58904",tooltip=" "];
+  Node17 -> Node18 [id="edge23_Node000017_Node000018",color="steelblue1",style="solid",tooltip=" "];
+  Node18 [id="Node000018",label="ScheduleOne.Economy.Supplier.\lRpcWriter___Server_SendUnlocked\l_2166136261",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_economy_1_1_supplier.html#a59011631a331690615388d557873f090",tooltip=" "];
+}

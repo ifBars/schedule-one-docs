@@ -1,0 +1,17 @@
+<map id="ScheduleOne.PlayerTasks.FinishChemistryStationTask" name="ScheduleOne.PlayerTasks.FinishChemistryStationTask">
+<area shape="rect" id="Node000001" title=" " alt="" coords="35,2361,210,2447"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_player_tasks_1_1_task.html" title=" " alt="" coords="24,1581,221,2312"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,2327,125,2362,120,2362,120,2327"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_player_tasks_1_1_clickable.html" title=" " alt="" coords="89,124,258,423"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="92,409,68,473,39,611,20,754,10,898,8,1041,13,1182,22,1318,52,1564,46,1565,17,1318,8,1182,3,1041,5,897,15,753,34,610,63,471,87,407"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_player_tasks_1_1_draggable.html" title=" " alt="" coords="77,472,270,1027"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="176,438,176,472,171,472,171,438"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="214,5,314,75"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="248,89,234,125,229,123,243,87"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_player_tasks_1_1_draggable_constraint.html" title=" " alt="" coords="214,1091,391,1517"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="270,89,296,485,311,765,321,1051,322,1091,316,1091,316,1051,305,765,291,486,265,90"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="143,1027,138,1091,128,1330,124,1565,118,1565,122,1330,133,1091,138,1026"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="168,1026,179,1066,187,1078,197,1089,208,1107,203,1110,193,1092,182,1081,174,1068,162,1027"/>
+<area shape="poly" id="edge9_Node000002_Node000006" title=" " alt="" coords="246,1518,228,1580,223,1579,241,1516"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="251,1091,239,1044,245,1043,256,1090"/>
+</map>

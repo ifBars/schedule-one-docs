@@ -1,0 +1,9 @@
+<map id="ScheduleOne.Dialogue.DialogueEvent" name="ScheduleOne.Dialogue.DialogueEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="172,465,371,551"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_dialogue_1_1_dialogue_container.html" title=" " alt="" coords="5,124,204,401"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,399,221,440,229,450,225,453,217,443,189,403"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="51,5,158,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,89,107,124,102,124,102,89"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_dialogue_1_1_dialogue_node_event.html" title=" " alt="" coords="228,209,427,316"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="318,316,287,449,282,448,313,315"/>
+</map>

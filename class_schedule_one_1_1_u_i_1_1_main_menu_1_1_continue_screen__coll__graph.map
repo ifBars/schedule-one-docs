@@ -1,0 +1,8 @@
+<map id="ScheduleOne.UI.MainMenu.ContinueScreen" name="ScheduleOne.UI.MainMenu.ContinueScreen">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,515,180,621"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_u_i_1_1_main_menu_1_1_main_menu_screen.html" title=" " alt="" coords="5,124,180,465"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,480,95,515,90,515,90,480"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="181,259,199,271,207,294,204,310,197,321,193,318,199,308,201,295,195,274,178,263"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="42,5,143,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="95,89,95,124,90,124,90,89"/>
+</map>

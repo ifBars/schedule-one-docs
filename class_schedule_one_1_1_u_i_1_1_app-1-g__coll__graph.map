@@ -1,0 +1,7 @@
+<map id="ScheduleOne.UI.App&lt; T &gt;" name="ScheduleOne.UI.App&lt; T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,363,191,880"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_dev_utilities_1_1_player_singleton-1-g.html" title=" " alt="" coords="16,123,181,315"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,329,101,363,96,363,96,329"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="48,5,149,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="101,90,101,123,96,123,96,90"/>
+</map>

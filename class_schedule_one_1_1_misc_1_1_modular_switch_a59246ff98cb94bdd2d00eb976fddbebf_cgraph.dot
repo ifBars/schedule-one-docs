@@ -1,0 +1,13 @@
+digraph "ScheduleOne.Misc.ModularSwitch.RpcLogic___SetIsOn_214505783"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.Misc.Modular\lSwitch.RpcLogic___SetIsOn\l_214505783",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Misc.Modular\lSwitch.SwitchOff",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_misc_1_1_modular_switch.html#ade872dc8a0b7323e5af372f36707c274",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Misc.Modular\lSwitch.SwitchOn",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_misc_1_1_modular_switch.html#a3df859a2a0cd453aba7815d32c67b89e",tooltip=" "];
+}

@@ -1,0 +1,8 @@
+<map id="ScheduleOne.Map.FoliageRustleSound" name="ScheduleOne.Map.FoliageRustleSound">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,828,237,1020"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="66,5,166,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,89,123,828,118,828,114,89"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_audio_1_1_audio_source_controller.html" title=" " alt="" coords="137,124,340,764"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="133,88,144,123,139,125,128,90"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="163,764,151,812,146,811,158,763"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="ScheduleOne.ObjectScripts.Meth_Stored" name="ScheduleOne.ObjectScripts.Meth_Stored">
+<area shape="rect" id="Node000001" title=" " alt="" coords="118,1656,293,1741"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_storage_1_1_stored_item.html" title=" " alt="" coords="6,791,240,1607"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,1621,201,1656,196,1657,190,1621"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="122,5,223,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="113,86,97,104,84,125,54,204,33,287,18,372,10,457,8,543,11,628,27,791,22,791,5,628,3,543,5,457,13,371,27,286,49,203,79,123,92,101,109,82"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_interaction_1_1_interactable_object.html" title=" " alt="" coords="93,124,251,657"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="175,89,175,124,170,124,170,89"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_object_scripts_1_1_meth_visuals.html" title=" " alt="" coords="200,681,376,767"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="235,83,252,101,265,123,293,198,311,277,321,358,323,437,321,512,315,579,299,682,294,681,309,579,315,511,318,437,315,358,306,278,288,200,261,125,248,105,231,86"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="148,657,146,682,140,774,135,773,141,681,142,657"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="295,766,306,907,311,1116,308,1236,298,1361,281,1486,255,1607,242,1642,237,1640,250,1606,276,1485,293,1360,302,1236,306,1116,301,907,290,766"/>
+</map>

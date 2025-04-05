@@ -1,0 +1,7 @@
+<map id="ScheduleOne.UI.Shop.CartEntry_Clothing" name="ScheduleOne.UI.Shop.CartEntry_Clothing">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,491,175,576"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_u_i_1_1_shop_1_1_cart_entry.html" title=" " alt="" coords="5,123,175,443"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,457,93,491,88,491,88,457"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="40,5,140,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="93,89,93,123,88,123,88,89"/>
+</map>

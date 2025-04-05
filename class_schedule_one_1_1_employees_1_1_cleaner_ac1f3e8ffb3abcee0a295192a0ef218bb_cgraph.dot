@@ -1,0 +1,44 @@
+digraph "ScheduleOne.Employees.Cleaner.MinPass"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.Employees.Cleaner.\lMinPass",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Employees.Cleaner.\lAnyWorkInProgress",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_employees_1_1_cleaner.html#a69aca56eba2d5f553b5f76745c9704f2",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Employees.Employee.\lCanWork",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_employees_1_1_employee.html#a1a045239570e97ca15986b87880c42fd",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.Employees.Employee.\lGetBed",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_employees_1_1_employee.html#acc381f339b485ff870d3d38e742b3e4a",tooltip=" "];
+  Node4 -> Node5 [id="edge4_Node000004_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.Console.LogError",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_console.html#af815c154f3082a5bf25f62c7cc93fad2",tooltip=" "];
+  Node1 -> Node6 [id="edge5_Node000001_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="ScheduleOne.Employees.Employee.\lLeavePropertyAndDespawn",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_employees_1_1_employee.html#a29d86562c259fe331f16f7856a324fd3",tooltip=" "];
+  Node1 -> Node7 [id="edge6_Node000001_Node000007",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="ScheduleOne.Employees.Employee.\lMarkIsWorking",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_employees_1_1_employee.html#a3cf7488d6427fb2f65310ab7b58a8da8",tooltip=" "];
+  Node1 -> Node8 [id="edge7_Node000001_Node000008",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="ScheduleOne.Employees.Cleaner.\lSetIdle",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_employees_1_1_cleaner.html#adddf16c2acdbb9d03df8234395eafdae",tooltip=" "];
+  Node8 -> Node9 [id="edge8_Node000008_Node000009",color="steelblue1",style="solid",tooltip=" "];
+  Node9 [id="Node000009",label="ScheduleOne.NPCs.NPC.Set\lEquippable_Return",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_n_p_c.html#a7738f72f4d27fd87dbe4f6d45450636d",tooltip=" "];
+  Node1 -> Node10 [id="edge9_Node000001_Node000010",color="steelblue1",style="solid",tooltip=" "];
+  Node10 [id="Node000010",label="ScheduleOne.Employees.Employee.\lSubmitNoWorkReason",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_employees_1_1_employee.html#a3b82d8bc02d04a421a368a83e1e4cec4",tooltip=" "];
+  Node10 -> Node11 [id="edge10_Node000010_Node000011",color="steelblue1",style="solid",tooltip=" "];
+  Node11 [id="Node000011",label="ScheduleOne.Employees.Employee.\lRpcLogic___SubmitNoWorkReason\l_15643032",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_employees_1_1_employee.html#a3e7eb1d7a2f0a7140b06b376f7ebfd4e",tooltip=" "];
+  Node10 -> Node12 [id="edge11_Node000010_Node000012",color="steelblue1",style="solid",tooltip=" "];
+  Node12 [id="Node000012",label="ScheduleOne.Employees.Employee.\lRpcWriter___Observers_SubmitNoWork\lReason_15643032",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_employees_1_1_employee.html#a0514a752aac1dbc7e81149285dfd5701",tooltip=" "];
+  Node1 -> Node13 [id="edge12_Node000001_Node000013",color="steelblue1",style="solid",tooltip=" "];
+  Node13 [id="Node000013",label="ScheduleOne.Employees.Cleaner.\lTryStartNewTask",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_employees_1_1_cleaner.html#a100d8437dcea4a78b804849c7f56c76c",tooltip=" "];
+  Node13 -> Node14 [id="edge13_Node000013_Node000014",color="steelblue1",style="solid",tooltip=" "];
+  Node14 [id="Node000014",label="ScheduleOne.Employees.Cleaner.\lEnsureTrashGrabberInInventory",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_employees_1_1_cleaner.html#af0f4be7af1eb232255e9d7802ab7978a",tooltip=" "];
+  Node13 -> Node15 [id="edge14_Node000013_Node000015",color="steelblue1",style="solid",tooltip=" "];
+  Node15 [id="Node000015",label="ScheduleOne.Employees.Cleaner.\lGetFirstNonFullBin",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_employees_1_1_cleaner.html#a52c9586160f789a811d9ca182ba73219",tooltip=" "];
+  Node13 -> Node16 [id="edge15_Node000013_Node000016",color="steelblue1",style="solid",tooltip=" "];
+  Node16 [id="Node000016",label="ScheduleOne.Employees.Cleaner.\lGetTrashContainersOrderedByDistance",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_employees_1_1_cleaner.html#aa1f1722c571984adc9714a1cdd063afd",tooltip=" "];
+  Node13 -> Node17 [id="edge16_Node000013_Node000017",color="steelblue1",style="solid",tooltip=" "];
+  Node17 [id="Node000017",label="ScheduleOne.Employees.Cleaner.\lGetTrashGrabberAmount",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_employees_1_1_cleaner.html#a9c083c16bef075dbddcdd7d41732cd96",tooltip=" "];
+  Node13 -> Node5 [id="edge17_Node000013_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node13 -> Node8 [id="edge18_Node000013_Node000008",color="steelblue1",style="solid",tooltip=" "];
+  Node13 -> Node10 [id="edge19_Node000013_Node000010",color="steelblue1",style="solid",tooltip=" "];
+}

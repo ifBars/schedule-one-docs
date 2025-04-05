@@ -1,0 +1,8 @@
+<map id="ScheduleOne.Audio.StartLoopStopAudio" name="ScheduleOne.Audio.StartLoopStopAudio">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,860,191,1073"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="42,5,143,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,90,100,860,95,860,90,90"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_audio_1_1_audio_source_controller.html" title=" " alt="" coords="114,124,317,764"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="110,88,121,123,116,125,105,90"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="146,765,128,844,123,843,141,763"/>
+</map>

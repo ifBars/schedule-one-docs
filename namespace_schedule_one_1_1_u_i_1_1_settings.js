@@ -1,0 +1,25 @@
+var namespace_schedule_one_1_1_u_i_1_1_settings =
+[
+    [ "AntiAliasingDropdown", "class_schedule_one_1_1_u_i_1_1_settings_1_1_anti_aliasing_dropdown.html", "class_schedule_one_1_1_u_i_1_1_settings_1_1_anti_aliasing_dropdown" ],
+    [ "AudioSlider", "class_schedule_one_1_1_u_i_1_1_settings_1_1_audio_slider.html", "class_schedule_one_1_1_u_i_1_1_settings_1_1_audio_slider" ],
+    [ "CameraBobSlider", "class_schedule_one_1_1_u_i_1_1_settings_1_1_camera_bob_slider.html", "class_schedule_one_1_1_u_i_1_1_settings_1_1_camera_bob_slider" ],
+    [ "ConfirmDisplaySettings", "class_schedule_one_1_1_u_i_1_1_settings_1_1_confirm_display_settings.html", "class_schedule_one_1_1_u_i_1_1_settings_1_1_confirm_display_settings" ],
+    [ "DisplayModeDropdown", "class_schedule_one_1_1_u_i_1_1_settings_1_1_display_mode_dropdown.html", "class_schedule_one_1_1_u_i_1_1_settings_1_1_display_mode_dropdown" ],
+    [ "FOVSLider", "class_schedule_one_1_1_u_i_1_1_settings_1_1_f_o_v_s_lider.html", "class_schedule_one_1_1_u_i_1_1_settings_1_1_f_o_v_s_lider" ],
+    [ "GameSettingsWindow", "class_schedule_one_1_1_u_i_1_1_settings_1_1_game_settings_window.html", "class_schedule_one_1_1_u_i_1_1_settings_1_1_game_settings_window" ],
+    [ "GodRaysToggle", "class_schedule_one_1_1_u_i_1_1_settings_1_1_god_rays_toggle.html", "class_schedule_one_1_1_u_i_1_1_settings_1_1_god_rays_toggle" ],
+    [ "IntefaceScaleSlider", "class_schedule_one_1_1_u_i_1_1_settings_1_1_inteface_scale_slider.html", "class_schedule_one_1_1_u_i_1_1_settings_1_1_inteface_scale_slider" ],
+    [ "InvertYToggle", "class_schedule_one_1_1_u_i_1_1_settings_1_1_invert_y_toggle.html", "class_schedule_one_1_1_u_i_1_1_settings_1_1_invert_y_toggle" ],
+    [ "Keybinder", "class_schedule_one_1_1_u_i_1_1_settings_1_1_keybinder.html", "class_schedule_one_1_1_u_i_1_1_settings_1_1_keybinder" ],
+    [ "MonitorDropdown", "class_schedule_one_1_1_u_i_1_1_settings_1_1_monitor_dropdown.html", "class_schedule_one_1_1_u_i_1_1_settings_1_1_monitor_dropdown" ],
+    [ "QualityDropdown", "class_schedule_one_1_1_u_i_1_1_settings_1_1_quality_dropdown.html", "class_schedule_one_1_1_u_i_1_1_settings_1_1_quality_dropdown" ],
+    [ "ResolutionDropdown", "class_schedule_one_1_1_u_i_1_1_settings_1_1_resolution_dropdown.html", "class_schedule_one_1_1_u_i_1_1_settings_1_1_resolution_dropdown" ],
+    [ "SensitivitySlider", "class_schedule_one_1_1_u_i_1_1_settings_1_1_sensitivity_slider.html", "class_schedule_one_1_1_u_i_1_1_settings_1_1_sensitivity_slider" ],
+    [ "SettingsDropdown", "class_schedule_one_1_1_u_i_1_1_settings_1_1_settings_dropdown.html", "class_schedule_one_1_1_u_i_1_1_settings_1_1_settings_dropdown" ],
+    [ "SettingsSlider", "class_schedule_one_1_1_u_i_1_1_settings_1_1_settings_slider.html", "class_schedule_one_1_1_u_i_1_1_settings_1_1_settings_slider" ],
+    [ "SettingsToggle", "class_schedule_one_1_1_u_i_1_1_settings_1_1_settings_toggle.html", "class_schedule_one_1_1_u_i_1_1_settings_1_1_settings_toggle" ],
+    [ "SprintModeDropdown", "class_schedule_one_1_1_u_i_1_1_settings_1_1_sprint_mode_dropdown.html", "class_schedule_one_1_1_u_i_1_1_settings_1_1_sprint_mode_dropdown" ],
+    [ "SSAOToggle", "class_schedule_one_1_1_u_i_1_1_settings_1_1_s_s_a_o_toggle.html", "class_schedule_one_1_1_u_i_1_1_settings_1_1_s_s_a_o_toggle" ],
+    [ "TargetFPSSlider", "class_schedule_one_1_1_u_i_1_1_settings_1_1_target_f_p_s_slider.html", "class_schedule_one_1_1_u_i_1_1_settings_1_1_target_f_p_s_slider" ],
+    [ "VSyncToggle", "class_schedule_one_1_1_u_i_1_1_settings_1_1_v_sync_toggle.html", "class_schedule_one_1_1_u_i_1_1_settings_1_1_v_sync_toggle" ]
+];

@@ -1,0 +1,17 @@
+<map id="ScheduleOne.Property.Property" name="ScheduleOne.Property.Property">
+<area shape="rect" id="Node000001" title=" " alt="" coords="575,523,825,2480"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_property_1_1_bungalow.html" title=" " alt="" coords="5,2987,263,3333"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="571,1782,498,1948,420,2135,344,2332,277,2529,243,2647,213,2767,167,2987,161,2986,208,2766,238,2645,272,2527,339,2330,415,2133,493,1946,566,1780"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_property_1_1_business.html" title=" " alt="" coords="287,2528,542,3792"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="575,2243,526,2529,520,2528,570,2242"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_property_1_1_motel_room.html" title=" " alt="" coords="566,2997,834,3323"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="702,2495,702,2998,697,2998,697,2495"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_property_1_1_r_v.html" title=" " alt="" coords="858,2835,1090,3485"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="830,2271,923,2835,918,2836,824,2272"/>
+<area shape="rect" id="Node000008" href="$class_schedule_one_1_1_property_1_1_sweatshop.html" title=" " alt="" coords="1115,2997,1381,3323"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="833,1800,972,2146,1042,2337,1105,2527,1140,2649,1171,2773,1220,2997,1215,2998,1166,2774,1135,2650,1100,2529,1037,2338,967,2148,828,1802"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="558,205,676,275"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="623,289,638,523,633,523,617,289"/>
+<area shape="rect" id="Node000003" href="$interface_schedule_one_1_1_persistence_1_1_i_saveable.html" title=" " alt="" coords="700,5,868,475"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="770,490,768,523,762,523,764,489"/>
+</map>

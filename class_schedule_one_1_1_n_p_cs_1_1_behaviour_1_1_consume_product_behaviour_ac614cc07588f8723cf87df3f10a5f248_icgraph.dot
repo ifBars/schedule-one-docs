@@ -1,0 +1,21 @@
+digraph "ScheduleOne.NPCs.Behaviour.ConsumeProductBehaviour.SetProduct"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="ScheduleOne.NPCs.Behaviour.\lConsumeProductBehaviour.SetProduct",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.NPCs.Behaviour.\lConsumeProductBehaviour.RpcLogic\l___SendProduct_2622925554",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_behaviour_1_1_consume_product_behaviour.html#a16cd81e9a2d06e39712cb92f26475b6a",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.NPCs.Behaviour.\lConsumeProductBehaviour.RpcReader\l___Server_SendProduct_2622925554",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_behaviour_1_1_consume_product_behaviour.html#abbe403773639d2bf36e2d3aa41aacd1a",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.NPCs.Behaviour.\lConsumeProductBehaviour.Network\lInitialize___Early",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_behaviour_1_1_consume_product_behaviour.html#a862e5e780456627e4719dca00bf6d3e6",tooltip=" "];
+  Node4 -> Node5 [id="edge4_Node000004_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.NPCs.Behaviour.\lConsumeProductBehaviour.Awake",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_behaviour_1_1_consume_product_behaviour.html#a4b5bc8585eea2f9115892cd0605d261f",tooltip=" "];
+  Node4 -> Node6 [id="edge5_Node000004_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="ScheduleOne.NPCs.Behaviour.\lConsumeProductBehaviour.Network\lInitializeIfDisabled",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_behaviour_1_1_consume_product_behaviour.html#a60c0a5321cdc4ed75e4a526f3079c540",tooltip=" "];
+  Node2 -> Node7 [id="edge6_Node000002_Node000007",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="ScheduleOne.NPCs.Behaviour.\lConsumeProductBehaviour.SendProduct",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_behaviour_1_1_consume_product_behaviour.html#ad45fd2cb60580e921f6b96fa461c1f55",tooltip=" "];
+}

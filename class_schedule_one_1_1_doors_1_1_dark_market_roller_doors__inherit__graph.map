@@ -1,0 +1,9 @@
+<map id="ScheduleOne.Doors.DarkMarketRollerDoors" name="ScheduleOne.Doors.DarkMarketRollerDoors">
+<area shape="rect" id="Node000001" title=" " alt="" coords="21,651,221,736"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_doors_1_1_sensor_roller_doors.html" title=" " alt="" coords="5,475,236,603"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,617,124,651,118,651,118,617"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_doors_1_1_roller_door.html" title=" " alt="" coords="24,123,218,427"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="124,442,124,475,118,475,118,442"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="70,5,171,75"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="124,90,124,123,118,123,118,90"/>
+</map>

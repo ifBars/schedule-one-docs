@@ -1,0 +1,13 @@
+<map id="ScheduleOne.UI.Management.ChemistryStationUIElement" name="ScheduleOne.UI.Management.ChemistryStationUIElement">
+<area shape="rect" id="Node000001" title=" " alt="" coords="103,1011,292,1139"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_u_i_1_1_management_1_1_worldspace_u_i_element.html" title=" " alt="" coords="5,577,195,961"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,975,180,1010,175,1012,163,976"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="138,5,238,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="127,78,103,99,84,125,60,179,44,235,34,293,30,352,30,411,34,469,50,577,45,578,29,470,24,412,24,352,29,293,39,234,55,177,79,123,99,96,124,74"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_u_i_1_1_management_1_1_assigned_worker_display.html" title=" " alt="" coords="93,124,283,209"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="191,90,191,124,186,124,186,90"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_u_i_1_1_stations_1_1_station_recipe_entry.html" title=" " alt="" coords="258,233,442,553"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="252,76,277,97,297,123,323,176,339,233,334,234,318,178,293,125,273,101,249,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="116,211,97,235,88,259,81,291,75,371,75,464,81,560,76,560,70,464,69,371,76,290,83,257,92,232,112,207"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="317,554,218,995,213,994,311,552"/>
+</map>

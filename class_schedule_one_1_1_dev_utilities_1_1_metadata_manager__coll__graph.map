@@ -1,0 +1,16 @@
+<map id="ScheduleOne.DevUtilities.MetadataManager" name="ScheduleOne.DevUtilities.MetadataManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="162,780,328,1100"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_dev_utilities_1_1_singleton-1-g.html" title=" " alt="" coords="5,524,170,716"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,728,169,779,164,782,139,731"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="37,205,138,275"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="90,289,90,524,85,524,85,289"/>
+<area shape="rect" id="Node000004" href="$interface_schedule_one_1_1_persistence_1_1_i_base_saveable.html" title=" " alt="" coords="245,577,410,663"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="316,678,289,781,284,779,311,676"/>
+<area shape="rect" id="Node000005" href="$interface_schedule_one_1_1_persistence_1_1_i_saveable.html" title=" " alt="" coords="202,5,370,475"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="239,490,236,524,232,620,236,716,238,780,233,781,230,716,226,620,230,524,234,489"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="316,489,326,577,320,578,311,490"/>
+<area shape="rect" id="Node000006" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_metadata_loader.html" title=" " alt="" coords="434,577,600,663"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="484,664,340,832,336,828,480,660"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_persistence_1_1_loaders_1_1_loader.html" title=" " alt="" coords="434,165,600,315"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="520,330,520,578,514,578,514,330"/>
+</map>

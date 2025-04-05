@@ -1,0 +1,8 @@
+<map id="ScheduleOne.Interaction.InteractableToggleable" name="ScheduleOne.Interaction.InteractableToggleable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,721,163,1063"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="28,5,129,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,90,86,722,80,722,76,90"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_interaction_1_1_interactable_object.html" title=" " alt="" coords="100,124,258,657"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="95,88,105,123,100,125,90,89"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="131,658,122,705,117,704,126,657"/>
+</map>

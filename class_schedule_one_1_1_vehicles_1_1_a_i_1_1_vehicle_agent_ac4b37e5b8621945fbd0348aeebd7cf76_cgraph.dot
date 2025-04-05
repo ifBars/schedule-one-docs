@@ -1,0 +1,55 @@
+digraph "ScheduleOne.Vehicles.AI.VehicleAgent.Navigate"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.Vehicles.AI.\lVehicleAgent.Navigate",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Vehicles.AI.\lNavigationUtility.CalculatePath",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_vehicles_1_1_a_i_1_1_navigation_utility.html#a52229a414458e31a8b2e90ee77f1ef5f",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Vehicles.AI.\lNavigationUtility.AdjustEntryPoint",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_vehicles_1_1_a_i_1_1_navigation_utility.html#a9f6bc25a68fed7ed817eb4f2b40acc2c",tooltip=" "];
+  Node2 -> Node4 [id="edge3_Node000002_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.Vehicles.AI.\lNavigationUtility.AdjustExitPoint",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_vehicles_1_1_a_i_1_1_navigation_utility.html#ae80d91e3ea7d2653ddf9d2a9a826784f",tooltip=" "];
+  Node4 -> Node5 [id="edge4_Node000004_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.Vehicles.AI.\lNavigationUtility.GetClosest\lPointOnFiniteLine",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_vehicles_1_1_a_i_1_1_navigation_utility.html#ad41a7d1a0277fbb71c785390e07d88e0",tooltip=" "];
+  Node2 -> Node6 [id="edge5_Node000002_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="ScheduleOne.Vehicles.AI.\lNavigationUtility.DoesCloseDistanceExist",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_vehicles_1_1_a_i_1_1_navigation_utility.html#a4c50964668ddfa1496bb0310ade24b18",tooltip=" "];
+  Node2 -> Node7 [id="edge6_Node000002_Node000007",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="ScheduleOne.Vehicles.AI.\lNavigationUtility.DrawPath",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_vehicles_1_1_a_i_1_1_navigation_utility.html#a1ff77f3c4754827f6c0479cf2ec8f933",tooltip=" "];
+  Node2 -> Node8 [id="edge7_Node000002_Node000008",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="ScheduleOne.Vehicles.AI.\lNavigationUtility.GenerateNavigationGroup",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_vehicles_1_1_a_i_1_1_navigation_utility.html#aa231dd6769fae0fc0164730fabf649c2",tooltip=" "];
+  Node8 -> Node9 [id="edge8_Node000008_Node000009",color="steelblue1",style="solid",tooltip=" "];
+  Node9 [id="Node000009",label="ScheduleOne.DevUtilities.\lAstarUtility.GetClosestPointOnGraph",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_dev_utilities_1_1_astar_utility.html#ae0969891a761589978de946e763d0d88",tooltip=" "];
+  Node8 -> Node10 [id="edge9_Node000008_Node000010",color="steelblue1",style="solid",tooltip=" "];
+  Node10 [id="Node000010",label="ScheduleOne.Vehicles.AI.\lNavigationUtility.PathGroupEvent",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_vehicles_1_1_a_i_1_1_navigation_utility.html#a4a22344cc9e3a128d755c45b9d6d5463",tooltip=" "];
+  Node2 -> Node11 [id="edge10_Node000002_Node000011",color="steelblue1",style="solid",tooltip=" "];
+  Node11 [id="Node000011",label="ScheduleOne.Vehicles.AI.\lFunnelZone.GetFunnelZone",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_vehicles_1_1_a_i_1_1_funnel_zone.html#a76531c6d9b3db1c1c33504d11098f476",tooltip=" "];
+  Node2 -> Node12 [id="edge11_Node000002_Node000012",color="steelblue1",style="solid",tooltip=" "];
+  Node12 [id="Node000012",label="ScheduleOne.Vehicles.AI.\lNavigationUtility.GetSmoothedPath",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_vehicles_1_1_a_i_1_1_navigation_utility.html#ae2d6a84471b180f07b90f211cefb3868",tooltip=" "];
+  Node12 -> Node13 [id="edge12_Node000012_Node000013",color="steelblue1",style="solid",tooltip=" "];
+  Node13 [id="Node000013",label="ScheduleOne.Math.PathSmoothing\lUtility.CalculateSmoothedPath",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_math_1_1_path_smoothing_utility.html#a19aee37eb59ce43b0ad8d6b0515e36c1",tooltip=" "];
+  Node13 -> Node14 [id="edge13_Node000013_Node000014",color="steelblue1",style="solid",tooltip=" "];
+  Node14 [id="Node000014",label="ScheduleOne.Math.PathSmoothing\lUtility.InsertIntermediatePoints",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_math_1_1_path_smoothing_utility.html#afa4a422c3f2c17b91bd382f608827ee3",tooltip=" "];
+  Node2 -> Node15 [id="edge14_Node000002_Node000015",color="steelblue1",style="solid",tooltip=" "];
+  Node15 [id="Node000015",label="ScheduleOne.Vehicles.AI.\lNavigationUtility.Navigation\lCalculationCallback",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_vehicles_1_1_a_i_1_1_navigation_utility.html#ae72d0ad69f10826f75f7c752de1a4839",tooltip=" "];
+  Node1 -> Node16 [id="edge15_Node000001_Node000016",color="steelblue1",style="solid",tooltip=" "];
+  Node16 [id="Node000016",label="ScheduleOne.Vehicles.AI.\lVehicleAgent.GetDistanceFrom\lVehicleGraph",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_vehicles_1_1_a_i_1_1_vehicle_agent.html#a7271e10954a59e8c46cd65fb54b27aff",tooltip=" "];
+  Node1 -> Node17 [id="edge16_Node000001_Node000017",color="steelblue1",style="solid",tooltip=" "];
+  Node17 [id="Node000017",label="ScheduleOne.Vehicles.AI.\lVehicleAgent.GetIsStuck",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_vehicles_1_1_a_i_1_1_vehicle_agent.html#aa24e85732bc7ceaa6c790f45f13399ca",tooltip=" "];
+  Node17 -> Node18 [id="edge17_Node000017_Node000018",color="steelblue1",style="solid",tooltip=" "];
+  Node18 [id="Node000018",label="ScheduleOne.Console.LogWarning",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_console.html#a4af4a471d16b1029b44a8121bf41d45c",tooltip=" "];
+  Node1 -> Node19 [id="edge18_Node000001_Node000019",color="steelblue1",style="solid",tooltip=" "];
+  Node19 [id="Node000019",label="ScheduleOne.Console.Log",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_console.html#afb218907244d12f7d08b1c1831fa1f8c",tooltip=" "];
+  Node1 -> Node18 [id="edge19_Node000001_Node000018",color="steelblue1",style="solid",tooltip=" "];
+  Node1 -> Node20 [id="edge20_Node000001_Node000020",color="steelblue1",style="solid",tooltip=" "];
+  Node20 [id="Node000020",label="ScheduleOne.Vehicles.AI.\lVehicleAgent.NavigationCalculation\lCallback",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_vehicles_1_1_a_i_1_1_vehicle_agent.html#a76992ff971a08742c2d2280f48f5e9f1",tooltip=" "];
+  Node20 -> Node21 [id="edge21_Node000020_Node000021",color="steelblue1",style="solid",tooltip=" "];
+  Node21 [id="Node000021",label="ScheduleOne.Vehicles.AI.\lVehicleAgent.EndDriving",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_vehicles_1_1_a_i_1_1_vehicle_agent.html#a2053ffdfc030150c9847f12905dce0de",tooltip=" "];
+  Node1 -> Node22 [id="edge22_Node000001_Node000022",color="steelblue1",style="solid",tooltip=" "];
+  Node22 [id="Node000022",label="ScheduleOne.Vehicles.AI.\lVehicleAgent.NavigationCallback",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_vehicles_1_1_a_i_1_1_vehicle_agent.html#afc7b23e71e1e573ed0aedc7ecaedea43",tooltip=" "];
+  Node1 -> Node23 [id="edge23_Node000001_Node000023",color="steelblue1",style="solid",tooltip=" "];
+  Node23 [id="Node000023",label="ScheduleOne.Vehicles.AI.\lVehicleAgent.StopReversing",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_vehicles_1_1_a_i_1_1_vehicle_agent.html#a3adc85fda423f8bf495924caad205891",tooltip=" "];
+  Node23 -> Node19 [id="edge24_Node000023_Node000019",color="steelblue1",style="solid",tooltip=" "];
+}

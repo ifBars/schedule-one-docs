@@ -1,0 +1,15 @@
+digraph "ScheduleOne.NPCs.Schedules.NPCEvent_LocationBasedAction.StartAction"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.NPCs.Schedules.\lNPCEvent_LocationBasedAction.Start\lAction",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.NPCs.Schedules.\lNPCEvent_LocationBasedAction.Rpc\lLogic___StartAction_328543758",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_schedules_1_1_n_p_c_event___location_based_action.html#a22a2e639b209b49201ef03066ad307fd",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.NPCs.Schedules.\lNPCEvent_LocationBasedAction.Rpc\lWriter___Observers_StartAction\l_328543758",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_schedules_1_1_n_p_c_event___location_based_action.html#a8fef9991979befeb9a49cafa9d9923fa",tooltip=" "];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.NPCs.Schedules.\lNPCEvent_LocationBasedAction.Rpc\lWriter___Target_StartAction_328543758",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_n_p_cs_1_1_schedules_1_1_n_p_c_event___location_based_action.html#a61e9b2eca72985ef9a2e25c2a7c46ace",tooltip=" "];
+}

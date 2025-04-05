@@ -1,0 +1,11 @@
+digraph "ScheduleOne.Vehicles.VehicleManager.Awake_UserLogic_ScheduleOne_002EVehicles_002EVehicleManager_Assembly_002DCSharp_002Edll"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.Vehicles.Vehicle\lManager.Awake_UserLogic\l_ScheduleOne_002EVehicles\l_002EVehicleManager_Assembly\l_002DCSharp_002Edll",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Vehicles.Vehicle\lManager.InitializeSaveable",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_vehicles_1_1_vehicle_manager.html#a01769051387752186e4729e40392cf85",tooltip=" "];
+}

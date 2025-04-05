@@ -1,0 +1,11 @@
+<map id="ScheduleOne.AvatarFramework.Equipping.Taser" name="ScheduleOne.AvatarFramework.Equipping.Taser">
+<area shape="rect" id="Node000001" title=" " alt="" coords="6,1589,206,1845"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_avatar_framework_1_1_equipping_1_1_avatar_ranged_weapon.html" title=" " alt="" coords="5,880,207,1541"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,1556,109,1590,104,1590,104,1556"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_avatar_framework_1_1_equipping_1_1_avatar_weapon.html" title=" " alt="" coords="6,576,206,832"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="109,847,109,880,104,880,104,847"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_avatar_framework_1_1_equipping_1_1_avatar_equippable.html" title=" " alt="" coords="6,123,206,528"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="109,543,109,576,104,576,104,543"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="56,5,156,75"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="109,89,109,123,104,123,104,89"/>
+</map>

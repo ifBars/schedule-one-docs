@@ -1,0 +1,11 @@
+digraph "ScheduleOne.Economy.Customer.Awake_UserLogic_ScheduleOne_002EEconomy_002ECustomer_Assembly_002DCSharp_002Edll"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.Economy.Customer.\lAwake_UserLogic_ScheduleOne\l_002EEconomy_002ECustomer_Assembly\l_002DCSharp_002Edll",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Economy.Customer.\lInitializeSaveable",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_economy_1_1_customer.html#a797cdd855927df6d9e85e7379e4d8c03",tooltip=" "];
+}

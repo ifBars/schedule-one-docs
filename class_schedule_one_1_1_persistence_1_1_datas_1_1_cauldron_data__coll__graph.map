@@ -1,0 +1,11 @@
+<map id="ScheduleOne.Persistence.Datas.CauldronData" name="ScheduleOne.Persistence.Datas.CauldronData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="147,691,312,797"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_persistence_1_1_datas_1_1_grid_item_data.html" title=" " alt="" coords="5,435,171,563"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,574,202,690,197,692,130,577"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_persistence_1_1_datas_1_1_buildable_item_data.html" title=" " alt="" coords="5,225,171,353"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="91,368,91,435,86,435,86,368"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_persistence_1_1_datas_1_1_save_data.html" title=" " alt="" coords="5,5,171,176"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="91,191,91,225,86,225,86,191"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_persistence_1_1_datas_1_1_item_set.html" title=" " alt="" coords="195,403,360,595"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="261,595,246,674,240,673,256,594"/>
+</map>

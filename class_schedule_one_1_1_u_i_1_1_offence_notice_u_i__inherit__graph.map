@@ -1,0 +1,7 @@
+<map id="ScheduleOne.UI.OffenceNoticeUI" name="ScheduleOne.UI.OffenceNoticeUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,363,213,496"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_dev_utilities_1_1_singleton-1-g.html" title=" " alt="" coords="27,123,192,315"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,329,112,363,106,363,106,329"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="59,5,160,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="112,90,112,123,106,123,106,90"/>
+</map>

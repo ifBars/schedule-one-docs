@@ -1,0 +1,12 @@
+<map id="ScheduleOne.Misc.ModularSwitch" name="ScheduleOne.Misc.ModularSwitch">
+<area shape="rect" id="Node000001" title=" " alt="" coords="108,844,344,1815"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,409,123,479"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,493,140,844,134,845,70,493"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_interaction_1_1_interactable_object.html" title=" " alt="" coords="146,177,304,711"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="228,710,228,827,223,827,223,710"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="276,5,377,75"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="317,90,295,178,290,177,312,88"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_audio_1_1_audio_source_controller.html" title=" " alt="" coords="329,124,533,764"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="342,89,351,124,346,125,337,90"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="359,765,344,828,339,827,354,763"/>
+</map>

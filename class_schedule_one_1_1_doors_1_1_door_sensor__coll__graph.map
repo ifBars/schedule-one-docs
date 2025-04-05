@@ -1,0 +1,12 @@
+<map id="ScheduleOne.Doors.DoorSensor" name="ScheduleOne.Doors.DoorSensor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,2028,206,2204"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="50,5,151,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,89,108,2028,103,2028,98,89"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_interaction_1_1_interactable_object.html" title=" " alt="" coords="121,124,279,657"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="116,88,127,123,122,125,111,89"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_doors_1_1_door_controller.html" title=" " alt="" coords="121,737,362,1964"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="135,1964,127,2012,121,2011,130,1964"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="303,356,420,425"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="358,440,321,738,316,737,353,440"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="214,657,217,721,212,721,209,657"/>
+</map>

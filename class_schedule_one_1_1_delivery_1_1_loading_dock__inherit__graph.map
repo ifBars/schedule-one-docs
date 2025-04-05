@@ -1,0 +1,9 @@
+<map id="ScheduleOne.Delivery.LoadingDock" name="ScheduleOne.Delivery.LoadingDock">
+<area shape="rect" id="Node000001" title=" " alt="" coords="122,539,342,1184"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,213,106,283"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="70,297,121,490,135,538,130,540,116,491,65,298"/>
+<area shape="rect" id="Node000003" href="$interface_schedule_one_1_1_i_g_u_i_d_registerable.html" title=" " alt="" coords="130,203,334,293"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="234,308,234,539,229,539,229,308"/>
+<area shape="rect" id="Node000004" href="$interface_schedule_one_1_1_management_1_1_i_transit_entity.html" title=" " alt="" coords="357,5,573,491"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="370,505,344,574,339,572,365,503"/>
+</map>

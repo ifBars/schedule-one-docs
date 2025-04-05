@@ -1,0 +1,7 @@
+<map id="ScheduleOne.DevUtilities.BirdsEyeView" name="ScheduleOne.DevUtilities.BirdsEyeView">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,363,189,1045"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_dev_utilities_1_1_singleton-1-g.html" title=" " alt="" coords="15,123,180,315"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,329,100,363,95,363,95,329"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="47,5,148,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="100,90,100,123,95,123,95,90"/>
+</map>

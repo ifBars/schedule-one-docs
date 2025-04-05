@@ -1,0 +1,42 @@
+digraph "ScheduleOne.Product.ProductManager.RpcReader___Observers_CreateMeth_1869045686"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="ScheduleOne.Product.Product\lManager.RpcReader___Observers\l_CreateMeth_1869045686",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="ScheduleOne.Product.Product\lManager.RpcLogic___CreateMeth\l_1869045686",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_product_1_1_product_manager.html#aa9a72a696742b29ed72366019dfb9959",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="ScheduleOne.Registry.GetItem",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_registry.html#ad08d598935d9438bdd2e1884e18de07c",tooltip=" "];
+  Node2 -> Node4 [id="edge3_Node000002_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="ScheduleOne.Product.Meth\lDefinition.Initialize",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_product_1_1_meth_definition.html#a124428d7cf554fdb036d20ae048e519e",tooltip=" "];
+  Node4 -> Node5 [id="edge4_Node000004_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="ScheduleOne.Product.Meth\lDefinition.GetAppearanceSettings",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_product_1_1_meth_definition.html#a9aa1d980da56c8db6005cd118903313f",tooltip=" "];
+  Node4 -> Node4 [id="edge5_Node000004_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 -> Node6 [id="edge6_Node000004_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="ScheduleOne.Product.Meth\lAppearanceSettings.IsUnintialized",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_product_1_1_meth_appearance_settings.html#a9e2cfd5164f57a1d110bd6770ca678af",tooltip=" "];
+  Node4 -> Node7 [id="edge7_Node000004_Node000007",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="ScheduleOne.Console.LogWarning",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_console.html#a4af4a471d16b1029b44a8121bf41d45c",tooltip=" "];
+  Node2 -> Node8 [id="edge8_Node000002_Node000008",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="ScheduleOne.Console.LogError",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_console.html#af815c154f3082a5bf25f62c7cc93fad2",tooltip=" "];
+  Node2 -> Node9 [id="edge9_Node000002_Node000009",color="steelblue1",style="solid",tooltip=" "];
+  Node9 [id="Node000009",label="ScheduleOne.Product.Product\lManager.RefreshHighestValueProduct",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_product_1_1_product_manager.html#a0dbf0dfed035b3c8de986dd709648d79",tooltip=" "];
+  Node2 -> Node10 [id="edge10_Node000002_Node000010",color="steelblue1",style="solid",tooltip=" "];
+  Node10 [id="Node000010",label="ScheduleOne.Product.Product\lManager.SetProductDiscovered",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_product_1_1_product_manager.html#ada2ad5c912554905e6f88d54e350511b",tooltip=" "];
+  Node10 -> Node11 [id="edge11_Node000010_Node000011",color="steelblue1",style="solid",tooltip=" "];
+  Node11 [id="Node000011",label="ScheduleOne.Product.Product\lManager.RpcLogic___SetProductDiscovered\l_619441887",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_product_1_1_product_manager.html#a1888e09bab296020209ba8613754abc8",tooltip=" "];
+  Node11 -> Node7 [id="edge12_Node000011_Node000007",color="steelblue1",style="solid",tooltip=" "];
+  Node11 -> Node12 [id="edge13_Node000011_Node000012",color="steelblue1",style="solid",tooltip=" "];
+  Node12 [id="Node000012",label="ScheduleOne.Product.Product\lManager.SetProductListed",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_product_1_1_product_manager.html#ae0ba9ef3e5dff12500335823b54bc706",tooltip=" "];
+  Node12 -> Node13 [id="edge14_Node000012_Node000013",color="steelblue1",style="solid",tooltip=" "];
+  Node13 [id="Node000013",label="ScheduleOne.Product.Product\lManager.RpcLogic___SetProductListed\l_310431262",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_product_1_1_product_manager.html#af6e5e82521235dcc7a540e191f9c2cf8",tooltip=" "];
+  Node13 -> Node12 [id="edge15_Node000013_Node000012",color="steelblue1",style="solid",tooltip=" "];
+  Node12 -> Node14 [id="edge16_Node000012_Node000014",color="steelblue1",style="solid",tooltip=" "];
+  Node14 [id="Node000014",label="ScheduleOne.Product.Product\lManager.RpcWriter___Server\l_SetProductListed_310431262",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_product_1_1_product_manager.html#af5f6477cd51320e1dc4b479cd9c9bdbe",tooltip=" "];
+  Node10 -> Node15 [id="edge17_Node000010_Node000015",color="steelblue1",style="solid",tooltip=" "];
+  Node15 [id="Node000015",label="ScheduleOne.Product.Product\lManager.RpcWriter___Observers\l_SetProductDiscovered_619441887",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_product_1_1_product_manager.html#af6e4581f5426d8f064f940693a7651d3",tooltip=" "];
+  Node10 -> Node16 [id="edge18_Node000010_Node000016",color="steelblue1",style="solid",tooltip=" "];
+  Node16 [id="Node000016",label="ScheduleOne.Product.Product\lManager.RpcWriter___Target\l_SetProductDiscovered_619441887",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_schedule_one_1_1_product_1_1_product_manager.html#a1e96096caf197ff2a5e3ab157415a9c1",tooltip=" "];
+}

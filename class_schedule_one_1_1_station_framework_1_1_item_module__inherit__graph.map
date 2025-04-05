@@ -1,0 +1,11 @@
+<map id="ScheduleOne.StationFramework.ItemModule" name="ScheduleOne.StationFramework.ItemModule">
+<area shape="rect" id="Node000001" title=" " alt="" coords="232,123,435,229"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_station_framework_1_1_cookable_module.html" title=" " alt="" coords="5,501,208,715"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="254,241,222,279,191,333,166,390,146,448,131,502,126,501,141,446,161,388,187,330,218,276,250,238"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_station_framework_1_1_ingredient_module.html" title=" " alt="" coords="232,565,435,651"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="336,244,336,566,331,566,331,244"/>
+<area shape="rect" id="Node000005" href="$class_schedule_one_1_1_station_framework_1_1_pourable_module.html" title=" " alt="" coords="459,277,661,939"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="416,238,449,276,461,295,457,298,445,279,412,241"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="283,5,384,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="336,90,336,123,331,123,331,90"/>
+</map>

@@ -1,0 +1,25 @@
+var dir_20a1e72f4d622102b73f4b2b6f0080a2 =
+[
+    [ "AntiAliasingDropdown.cs", "_anti_aliasing_dropdown_8cs.html", "_anti_aliasing_dropdown_8cs" ],
+    [ "AudioSlider.cs", "_audio_slider_8cs.html", "_audio_slider_8cs" ],
+    [ "CameraBobSlider.cs", "_camera_bob_slider_8cs.html", "_camera_bob_slider_8cs" ],
+    [ "ConfirmDisplaySettings.cs", "_confirm_display_settings_8cs.html", "_confirm_display_settings_8cs" ],
+    [ "DisplayModeDropdown.cs", "_display_mode_dropdown_8cs.html", "_display_mode_dropdown_8cs" ],
+    [ "FOVSLider.cs", "_f_o_v_s_lider_8cs.html", "_f_o_v_s_lider_8cs" ],
+    [ "GameSettingsWindow.cs", "_game_settings_window_8cs.html", "_game_settings_window_8cs" ],
+    [ "GodRaysToggle.cs", "_god_rays_toggle_8cs.html", "_god_rays_toggle_8cs" ],
+    [ "IntefaceScaleSlider.cs", "_inteface_scale_slider_8cs.html", "_inteface_scale_slider_8cs" ],
+    [ "InvertYToggle.cs", "_invert_y_toggle_8cs.html", "_invert_y_toggle_8cs" ],
+    [ "Keybinder.cs", "_keybinder_8cs.html", "_keybinder_8cs" ],
+    [ "MonitorDropdown.cs", "_monitor_dropdown_8cs.html", "_monitor_dropdown_8cs" ],
+    [ "QualityDropdown.cs", "_quality_dropdown_8cs.html", "_quality_dropdown_8cs" ],
+    [ "ResolutionDropdown.cs", "_resolution_dropdown_8cs.html", "_resolution_dropdown_8cs" ],
+    [ "SensitivitySlider.cs", "_sensitivity_slider_8cs.html", "_sensitivity_slider_8cs" ],
+    [ "SettingsDropdown.cs", "_settings_dropdown_8cs.html", "_settings_dropdown_8cs" ],
+    [ "SettingsSlider.cs", "_settings_slider_8cs.html", "_settings_slider_8cs" ],
+    [ "SettingsToggle.cs", "_settings_toggle_8cs.html", "_settings_toggle_8cs" ],
+    [ "SprintModeDropdown.cs", "_sprint_mode_dropdown_8cs.html", "_sprint_mode_dropdown_8cs" ],
+    [ "SSAOToggle.cs", "_s_s_a_o_toggle_8cs.html", "_s_s_a_o_toggle_8cs" ],
+    [ "TargetFPSSlider.cs", "_target_f_p_s_slider_8cs.html", "_target_f_p_s_slider_8cs" ],
+    [ "VSyncToggle.cs", "_v_sync_toggle_8cs.html", "_v_sync_toggle_8cs" ]
+];

@@ -1,0 +1,7 @@
+<map id="ScheduleOne.Doors.StaticDoor" name="ScheduleOne.Doors.StaticDoor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,123,199,533"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_doors_1_1_dealer_static_door.html" title=" " alt="" coords="17,581,187,667"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="105,548,105,582,100,582,100,548"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="52,5,152,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,90,105,123,100,123,100,90"/>
+</map>

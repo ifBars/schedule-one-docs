@@ -1,0 +1,19 @@
+<map id="ScheduleOne.Product.ProductDefinition" name="ScheduleOne.Product.ProductDefinition">
+<area shape="rect" id="Node000001" title=" " alt="" coords="211,1312,398,1909"/>
+<area shape="rect" id="Node000007" href="$class_schedule_one_1_1_product_1_1_cocaine_definition.html" title=" " alt="" coords="5,1989,195,2160"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="207,1838,140,1991,135,1989,202,1836"/>
+<area shape="rect" id="Node000008" href="$class_schedule_one_1_1_product_1_1_meth_definition.html" title=" " alt="" coords="219,1979,390,2171"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="307,1924,307,1979,302,1979,302,1924"/>
+<area shape="rect" id="Node000009" href="$class_schedule_one_1_1_product_1_1_weed_definition.html" title=" " alt="" coords="414,1957,589,2192"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="406,1843,454,1957,450,1959,401,1845"/>
+<area shape="rect" id="Node000002" href="$class_schedule_one_1_1_product_1_1_property_item_definition.html" title=" " alt="" coords="108,976,298,1083"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,1097,255,1312,250,1313,212,1098"/>
+<area shape="rect" id="Node000003" href="$class_schedule_one_1_1_item_framework_1_1_storable_item_definition.html" title=" " alt="" coords="109,533,297,747"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="206,762,206,976,200,976,200,762"/>
+<area shape="rect" id="Node000004" href="$class_schedule_one_1_1_item_framework_1_1_item_definition.html" title=" " alt="" coords="109,123,297,485"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="206,500,206,533,200,533,200,500"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="150,5,256,75"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="206,90,206,123,200,123,200,90"/>
+<area shape="rect" id="Node000006" href="$interface_schedule_one_1_1_persistence_1_1_i_saveable.html" title=" " alt="" coords="323,795,491,1264"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="365,1279,359,1313,354,1312,360,1279"/>
+</map>
